@@ -73,6 +73,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            86544
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -86,15 +89,15 @@
         "cardSetId": 1347,
         "rarityId": 5,
         "artistName": "Grace Liu",
+        "health": 2,
         "attack": 2,
         "manaCost": 3,
-        "durability": 2,
         "name": "Ancharrr",
         "text": "After your hero attacks, draw a Pirate from your deck.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7b7c7941b1001b8e92a07c11f95dddc5847099bc5d698b9249e0e02ed0d09b3.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27022476078a420777520c974e6726114311233e41bac231071a74dc61abe540.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b9284fee26b0e46bceed85257250760ad7d9a15251f202462126f987afa409d.png",
         "flavorText": "The problem with anchors is they often end up sinking to the bottom of your deck.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90e49dc6ef9d919d83606d247ae0a8086344d27193cc578cc1b92fed11ee7875.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5ad02b4def07340970762f654108f30b682565865c84a13b92e9a39ad4b5a91.png",
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -319,17 +322,20 @@
         "cardSetId": 1347,
         "rarityId": 4,
         "artistName": "Ekaterina Shapovalova",
-        "health": 4,
+        "health": 3,
         "attack": 3,
         "manaCost": 3,
         "name": "Blowtorch Saboteur",
-        "text": "<b>Battlecry:</b> Your opponent's next Hero Power costs (3).",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3de5f275cc8d9ec30ca0e9fdb23dd23f5bc4a7fc08cc7ce156444adc7ba90e9.png",
+        "text": "<b>Battlecry:</b> Your opponent's next Hero Power costs (2) more.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb444243bc76d539df5a41589c2fa37bfd3926a4a3a2eb3299897afe9afc29ba.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6b7c434d02d895628f0bd8e612771c0931f9cfa12cf2319634182b00d5ac8a4.png",
         "flavorText": "Before he came along, we went through a lot of duct tape.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f62e162fb5ff4b7ed4b0ec55d1a8ab9bcc7ebed40ea7517cfe01a952d8bc5e60.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c52ae39dc63b31d147a28b6788e2d31639c953056ffa320859c202389ba0f35.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            120433
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -399,6 +405,9 @@
             8,
             21,
             38
+        ],
+        "copyOfCardId": [
+            86545
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -738,6 +747,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            111461
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -980,6 +992,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2989a48d7ea26bc71fd4030e9bdd9b5737c91bca86d1172403844969fa1860a1.png",
         "flavorText": "*Thunk* \"That wasn\u2019t a dragon!\" *Thunk* \"THAT wasn\u2019t a dragon!\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c7adc862a59debd29099d4aac7ba9b500f696b641224ae6eaef4819eb45d00a.png",
+        "copyOfCardId": [
+            102191
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1023,6 +1038,7 @@
         "slug": "55280-dragoncaster",
         "classId": 4,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1347,
         "rarityId": 3,
@@ -1032,10 +1048,10 @@
         "manaCost": 6,
         "name": "Dragoncaster",
         "text": "<b>Battlecry:</b> If you're holding a Dragon, your next spell this turn costs (0).",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b36ca69bd416623f5a0fac9cf407267a3554547b405f2b0eb9a615e3dde6388d.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fffd212fbb2e082ac4e0b7fea46d731cc7801e98133b52b7bbd6753250d76656.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71301a4f04ebb245851746e145ec03680c6c735dbb2913bf96560930006240c1.png",
         "flavorText": "It\u2019s challenging to perform magic on dragonback. It\u2019s so easy to drop the rabbit.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69d7d767288938a15259d947c62798474b82b3323729ec759047ca2a587e4c6a.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b81dac801f8406de55aaeb3a872ed5aa1f426a3edca7fe014417ec6cfd4ae660.png",
         "keywordIds": [
             8
         ],
@@ -1090,6 +1106,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e457c41a6fcb47e26d640903af7b6388923f7e856589af44f2c48bd6c8ab98d.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            115769
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1270,6 +1289,9 @@
             8,
             21
         ],
+        "copyOfCardId": [
+            73030
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1389,12 +1411,12 @@
         "cardSetId": 1347,
         "rarityId": 1,
         "artistName": "Arthur Bozonnet",
-        "health": 3,
+        "health": 4,
         "attack": 5,
         "manaCost": 6,
         "name": "Evasive Wyrm",
         "text": "<b>Rush</b> <b>Divine Shield</b> <b>Elusive</b>",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0bbf25134a06ced523bc2795b1c0d3a3011d86d172fc99c3bc4e4f7133ae34e0.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3066a5ac530d82a2cfd8f1a58c1caa4b23144d8b82c8b3762d353f000be79de2.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca158cbf21bba7706aa2e34f65228a21328d44f2ae37d6e3562c1a4e5defcb28.png",
         "flavorText": "Deftly dodges spells like a real wiggle wyrm.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ade8adf449545261872456b2d4c15dcd5ffc24f1527463e1eae210d192b0875.png",
@@ -1402,6 +1424,9 @@
             3,
             53,
             265
+        ],
+        "copyOfCardId": [
+            112925
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1540,6 +1565,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93ef4198004db4152c0dcdf14693ad05ee58392b640ccb35c756678f53e12ab6.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            111375
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2105,6 +2133,7 @@
         "slug": "55067-lightforged-crusader",
         "classId": 5,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1347,
         "rarityId": 4,
@@ -2114,10 +2143,10 @@
         "manaCost": 7,
         "name": "Lightforged Crusader",
         "text": "<b>Battlecry:</b> If your deck has no Neutral cards, add 5 random Paladin cards to your hand.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3851f29477e57c2005c30734ef67573b9de73b745c26b45fd9610948287b5f42.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97d8e5b50517174741a147552475e2a052fde7e0aa2fd5c533a5b33860a502d2.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5570b4b2625813dc6ef94d4348fada509839f2dc343540912b113514e441c0f2.png",
         "flavorText": "Self-appointed president of the Paladins Only Paladin Club.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24510efe317072ff93aadd1f07091851be81bba6aaeb7d662159a11e5ef57969.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de250770f6e36f29275c65e6c6349ac11cc125e2cc2f2bfbcf14800986779e95.png",
         "keywordIds": [
             8
         ],
@@ -2130,6 +2159,7 @@
         "slug": "55068-lightforged-zealot",
         "classId": 5,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1347,
         "rarityId": 3,
@@ -2139,10 +2169,10 @@
         "manaCost": 4,
         "name": "Lightforged Zealot",
         "text": "<b>Battlecry:</b> If your deck has no Neutral cards, equip a 4/2 Truesilver Champion.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d2922d8adf33d88bc78d63351ebd0937d10c9cb5bfe8cb6176c78598df9644c.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90b0bf8d4a3834dd841df9c824fdcb931d45207458520e2ce399b6403d6d7fbd.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e97f486b0241b9e33c70695a711aff5ea88b8a4dd195326bb7d42eb59de88f72.png",
         "flavorText": "Card-carrying member of the Paladins Only Paladin Club.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ad3a585c5c226f5800ef5e7a8b405aeb5df98f2e93fa3d92c8ea34ca836a227.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8647a92a3ef6b14c17518f4ea47c5508c7c4a67592e6ab410a6717fc53942a7a.png",
         "childIds": [
             847,
             57936
@@ -2259,6 +2289,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cf51ae26d7941a361d7c40f49b15f3b043625f292592399b6032c19fe2541c5.png",
         "flavorText": "Spell more and save more with a GIANT discount!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69b0d55cb8bbe7e8729103c1d1569e235f8f8d095d32e8aad6e541c6d5fd0b79.png",
+        "copyOfCardId": [
+            106651
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2331,6 +2364,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e733ff7ed3671e25481f852783f8c4a507c4d5ad45235281c7e86162976edd58.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            86536
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2599,6 +2635,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/385f0471ac4982b79b19c677d23bcc95518c96ebed5ba9c605b95ce416181174.png",
         "flavorText": "You know it\u2019s autumn when the skies rain brimstone and fire. Also: pumpkin spice!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbe6264a46f7515af0961d5dc5b36f6008621db14494bbaecdabfa7fba015601.png",
+        "copyOfCardId": [
+            75942
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2655,15 +2694,15 @@
         "cardSetId": 1347,
         "rarityId": 3,
         "artistName": "Lloyd Hoshide",
+        "health": 2,
         "attack": 1,
         "manaCost": 2,
-        "durability": 2,
         "name": "Ritual Chopper",
         "text": "<b>Battlecry:</b> <b>Invoke</b> Galakrond.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c23359c8b36cea233be65b44bffebada20e0a663fa615d73cca1ac76bf1033e.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/923e4818561b1be8653c7ef0d96577050588e3212bf8c1880cc0a622b90c1a5f.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d21d0b721bda23929da0f777237c23370f119496a91eafc2a344156eafb6f599.png",
         "flavorText": "Chop chop, Galakrond!",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/819f062af0f47e0458925611d506e5b0cbcdcabb9797f2a6170a3c76bef9598e.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b02a876f7c45f6559acc3110ae77e27d6c1ad23003e489c92a02d9289cdb1ec6.png",
         "childIds": [
             55805,
             57413,
@@ -2897,6 +2936,7 @@
         "slug": "55166-shield-of-galakrond",
         "classId": 12,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1347,
         "rarityId": 1,
@@ -2906,10 +2946,10 @@
         "manaCost": 5,
         "name": "Shield of Galakrond",
         "text": "<b>Taunt</b> <b>Battlecry:</b> <b>Invoke</b> Galakrond.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91760c30ec21bca2df2c1084567091be876d1811c0c153cfae15fcbab4d916a5.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91fc26a89f32e1e6ba394c8df3fbdf3e04edfc691322b80cd101da093cef69b0.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e821b55034170ad6adfad71a5e96be54c8f68deb6e88ff0b88df493a0c19cb34.png",
         "flavorText": "Realistically, she's the shield for Galakrond's big toe.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1a886c38186c925ed533328c9610632e2bc50e65b40973784a4594782b14293.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef72bb42039fcb2ed9c7b40de041a6a4b08564512fc3beee18260290fa135310.png",
         "childIds": [
             57416,
             57419,
@@ -3174,15 +3214,15 @@
         "cardSetId": 1347,
         "rarityId": 4,
         "artistName": "Jason Kang",
+        "health": 2,
         "attack": 3,
         "manaCost": 3,
-        "durability": 2,
         "name": "Stormhammer",
         "text": "Doesn't lose Durability while you control a Dragon.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/239212a56bdc873190689477848dc6735c6111839e64389edceab92df3412c7b.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5da50894d65be643be1b018ebf91321219841ab6ede4543bdb5727f4efbc800a.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9beaaac6cc2e85926af9ddbaee1d6c087117cacdf037a383f589cb63d19548fa.png",
         "flavorText": "It brings the storm before the calm.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9dbe257bd8235293d80f54efc485fce363a739fc519753820af0641ce9687407.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38c08fb536acd1e4a84e41357b97a006a280a7d9a797794816de6d868ece7294.png",
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3600,6 +3640,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            120425
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3618,11 +3661,11 @@
         "rarityId": 1,
         "artistName": "Jakub Kasper",
         "health": 1,
-        "attack": 1,
+        "attack": 2,
         "manaCost": 1,
         "name": "Violet Spellwing",
         "text": "<b>Deathrattle:</b> Add an 'Arcane Missiles' spell to your hand.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39eb36c0311d01989ea705a9cc1bb56409c908c6a249e525abab167b19b9ac97.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca5057e0154ca79e781040222c1cc92b6a18d4c03c3e864693dcfe061326e3df.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7be0176814aac202b47db9099b87106cd107e1e58c26c16013913e045589e387.png",
         "flavorText": "A bird in the hand is worth three missiles in the grave.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3df84d6dd99a00703124ecfbbb2903fbbc867927f32954168d916993f75f28d.png",
@@ -3631,6 +3674,9 @@
         ],
         "keywordIds": [
             12
+        ],
+        "copyOfCardId": [
+            120971
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false

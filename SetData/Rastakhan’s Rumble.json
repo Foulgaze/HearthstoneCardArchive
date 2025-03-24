@@ -190,6 +190,9 @@
         "classId": 6,
         "multiClassIds": [],
         "minionTypeId": 11,
+        "multiTypeIds": [
+            2
+        ],
         "cardTypeId": 4,
         "cardSetId": 1129,
         "rarityId": 4,
@@ -199,7 +202,7 @@
         "manaCost": 2,
         "name": "Auchenai Phantasm",
         "text": "<b>Battlecry:</b> This turn, your healing effects deal damage instead.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6dcc81b053267d804f5e91fa3b8f44b0a356c0435ebfd25717d7ff6c6c707ceb.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8ee406e3a334ba303f5b7904bf51f26ca4c5d8d133696387e71f38257b942ca.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17e31f3a79556a507b6cb4c77fef830f84519452cd41fd355ba47c8eaa69099a.png",
         "flavorText": "\u201cOkay kids did everyone remember to heal before we left?\u201d",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f8f126e7965b826e91252a6ca5d454a03465e3511d9ec4d101007eeb7a973d0.png",
@@ -369,15 +372,15 @@
         "cardSetId": 1129,
         "rarityId": 1,
         "artistName": "Akkapoj T.",
+        "health": 2,
         "attack": 2,
         "manaCost": 1,
-        "durability": 2,
         "name": "Bloodclaw",
         "text": "<b>Battlecry:</b> Deal 5 damage to your hero.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74752f438d22a6fc7c26c47d196e7e64450da30387b54c56b2b40f3b5cc318a1.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/709d0b040bdc76da83ce66dea11cedcafbbcdf538ca92b4cb4359a6386f2a02f.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b0e81f248ba687aa745588fdac2c232ee019ac7c3b1ac64c41b96b90fff2fc3.png",
         "flavorText": "This weapon \u2013 ow! Requires a little \u2013 OWW! Finesse.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a4e748cc55a0f6536047727ac0a6d0159f8dda3442b1f5b81a8d64071236f26.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8fc24087a138a145e0ee6ce912777cfe4f79495ca2a686deb5c8e9eba24eeee8.png",
         "keywordIds": [
             8
         ],
@@ -398,13 +401,12 @@
         "health": 1,
         "attack": 1,
         "manaCost": 2,
-        "durability": 0,
         "name": "Bloodsail Howler",
         "text": "<b>Rush</b> <b>Battlecry:</b> Gain +1/+1 for each other Pirate you control.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b70dc0627caa5949ef6a17736b111c3ed9d0796917c8aaca2d943b5522fecfc.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cb7bb3492f7d0a8fae0d27484684d5fa39e5a23982168665524267e35467692.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc41d7e13efb2f894ec3c72b3eb95ddbd1b80e95586b4c23b5331755f9d715cc.png",
         "flavorText": "They saw their fate a closin' Aboard a pirate ship On deck: The Howlin' Hozen About to let one rip.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d172e7f7f635327f1430b9534c695685531073c5957a27fd0996d4f9cd3dd86.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f8b24a9c4da0ca194be97fe35365ad2d4f5204f13c56e0037fe64bc7ca04434.png",
         "keywordIds": [
             8,
             53
@@ -704,6 +706,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bae3fddb00d64a5b15f8c4cc369893311ae47fa0528e8d5ba1f69cffdffc5112.png",
         "flavorText": "No thanks, I already devast-ate.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75eb1478829dc02953ea9616a3dabd01b8b7dca5edec7d525ec28d5dd03e95b6.png",
+        "copyOfCardId": [
+            72886
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -857,15 +862,15 @@
         "cardSetId": 1129,
         "rarityId": 3,
         "artistName": "M. Alvares & M. Azevedo",
+        "health": 3,
         "attack": 3,
         "manaCost": 5,
-        "durability": 3,
         "name": "Farraki Battleaxe",
         "text": "<b>Overkill:</b> Give a minion in your hand +2/+2.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ebcb23735d94e1e7266230fb37846de4afe601c28f0ae85aafde6c36c773752.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58b03ef5c92ccddc60bc1d85bbca9b086c20da478d36705c8d80788fb5ae772f.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/582a95901ad448735142a2b969b4de834767e39f310d6eebb047a076878da8d0.png",
         "flavorText": "Only two things in life are certain: death and axes.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36a1e2885ecbad160b83be198f151538787f1ca7453c9323fe19ab6b39f96a83.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc198408f91907d1810e70718c787bcfa0a4b81e83903ee26523f22a094ddcf3.png",
         "keywordIds": [
             61
         ],
@@ -916,6 +921,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e558c1b5c443689efd56e4fcd441104bba766c7b426d2c05c52cf10de7a89cc8.png",
         "flavorText": "Hey! No cameras allowed!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d35ad78f51137d941f51a188f77da4a25eac5c09bffac864199543aadf46d78.png",
+        "copyOfCardId": [
+            76306
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1262,17 +1270,20 @@
         "cardSetId": 1129,
         "rarityId": 1,
         "artistName": "Akkapoj T.",
+        "health": 2,
         "attack": 2,
         "manaCost": 2,
-        "durability": 2,
         "name": "Headhunter's Hatchet",
         "text": "<b>Battlecry:</b> If you control a Beast, gain +1 Durability.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e02b77ff1a74a55282061d5cea316521e03de11d573a732f9e13f0bc01f4886.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85d1e653a23889d23ba3a577a0a60ecf55986eaf6a4e5169a3095ff82952edaf.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/703892fa67bd6f25ef80bd6aafd4299ce071b1dfa8ee4a840fdb5bd0c8a9eee5.png",
         "flavorText": "Zul'jin's primary recruiting tool.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2659341efcb64bea2cbb811ebbf5353916b97639fe20138f733d46950fc2e75.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            69695
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1395,6 +1406,9 @@
         "keywordIds": [
             1,
             38
+        ],
+        "copyOfCardId": [
+            86537
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1557,6 +1571,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            87920
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1570,15 +1587,15 @@
         "cardSetId": 1129,
         "rarityId": 3,
         "artistName": "Jakub Kasper",
+        "health": 3,
         "attack": 1,
         "manaCost": 2,
-        "durability": 3,
         "name": "Likkim",
         "text": "Has +2 Attack while you have <b>Overloaded</b> Mana Crystals.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb50e44339be3a77ac56c7576b974aa34e38f52e91fb69ca85b12d175c3bf7e1.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/057d7f9975bf09b921d6b6c46271935fb7449d9ead5dc1788d2460a9fe1084f6.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31c39fe456a9a6bf42bd1989497dd4ccb92457f114d70480f7e94d75a495e095.png",
         "flavorText": "\"I double frog dare you!\"",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd18774e05c6d9c4b2f2bc3a8ec458598c1be21800eab7c9b7468a6b589f2015.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b31f091ed7b17c9cd88aff62cacdc4417126b59d93324d38ba06bb2118455142.png",
         "keywordIds": [
             14
         ],
@@ -1697,13 +1714,16 @@
         "artistName": "Rudy Siswanto",
         "manaCost": 3,
         "name": "Master's Call",
-        "text": "<b>Discover</b> a minion in your deck. If all 3 are Beasts, draw them all.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/913e0f0b30f14e774abc279b36a0abf2b3639978da864f2ebc926f8e3eb54bda.png",
+        "text": "<b>Discover</b> a minion from your deck. If all 3 are Beasts, draw them all instead.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/442216cc3d5562ba3541aae52fe3e255eb3aa931cba332998f06f1ac70f4483c.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e94578c8b2cbe5b6eb26a3332410f6e8a33aea5623d84eae0898693c6edbe723.png",
         "flavorText": "\"Hello? Yes, this is Huffer.\"",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/598d08517230c6216617bc0d635c0f43bcc0e079d55e84064c6281f876101b31.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d14a526384ddb004b682a74ff34f49fd2bf10a138ef4212cce8a346cc45038ce.png",
         "keywordIds": [
             21
+        ],
+        "copyOfCardId": [
+            111358
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1870,15 +1890,15 @@
         "cardSetId": 1129,
         "rarityId": 1,
         "artistName": "Akkapoj T.",
+        "health": 4,
         "attack": 2,
         "manaCost": 3,
-        "durability": 4,
         "name": "Overlord's Whip",
         "text": "After you play a minion, deal 1 damage to it.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fda768aa0b326600e1411e916052022c9ca85d63ab883f8be9443ce814f55f1.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eef8d1560048de123d1191b5941a598ab1de2fbd8ee5e213cdb3787f4e61b744.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31920ad8bd6b22de714bc881dc4e83265ed06efd98b653e3a1d9f2039afdf2f4.png",
         "flavorText": "\"This merit badge is for cruelty. This one's for whipping. And this one is for embroidery...\"",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d305cbd1214f75dcc58223ff8c943b71d68de4c9dcceca26098d0a57e23a9891.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/87714482f01b731bed7b79d7eeb20fdb4362a919a3736e2bf7eb2fb7227642e5.png",
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1899,6 +1919,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/228ccdb9a10b3cbba65f12bb1c316999fd60e9ec9587b9fd51eb6d49cd25867c.png",
         "flavorText": "Comes with an overwhelming urge to jump into the nearest open box.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d90893ea16e787feb8be31c56128672eba2680ede93a40f63f50dc9fd49919f.png",
+        "copyOfCardId": [
+            69689
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1966,6 +1989,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d28880d638feef9afbd6df35c10de73912901f66c8684f083f0e53a640f294d.png",
         "flavorText": "She prefers \u201cFlammably Inclined.\u201d",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb574d2010a90f13602d377a15036001cad45e30966e6808df2426a6a0cfbf59.png",
+        "copyOfCardId": [
+            86533
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2013,6 +2039,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/edfa49af255a2132e15f782f1fa6aed8c4af9d3907934a182bb001d8b7af2e3b.png",
         "keywordIds": [
             13
+        ],
+        "copyOfCardId": [
+            111377
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2347,15 +2376,15 @@
         "cardSetId": 1129,
         "rarityId": 1,
         "artistName": "Grace Liu",
+        "health": 3,
         "attack": 1,
         "manaCost": 1,
-        "durability": 3,
         "name": "Serrated Tooth",
         "text": "<b>Deathrattle:</b> Give your minions <b>Rush</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b3496a7ac2b72141c3d1ba0c21377877f12a4be31a8775fd2e1eace3e46f589.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e374aaaac536033083add79a2128f3f8bce4f935512995599c4e31132c45ad88.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a76352e17119eec285911e226bcc7f81f7590445fc201ef549528d166e10010.png",
         "flavorText": "The tooth hurts, don\u2019t it?",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6efd16d6bd43b3323ff80ceae3d25a03311892776771f897358fce80197e9476.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/714b6f2dbbc38abd4114de4a6f1e7ada689d63e515c93fc665895a50cb5466bd.png",
         "keywordIds": [
             12,
             53
@@ -2929,6 +2958,9 @@
             8,
             53
         ],
+        "copyOfCardId": [
+            86542
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2988,15 +3020,15 @@
         "cardSetId": 1129,
         "rarityId": 4,
         "artistName": "Jason Kang",
+        "health": 4,
         "attack": 4,
         "manaCost": 6,
-        "durability": 4,
         "name": "Sul'thraze",
         "text": "<b>Overkill</b>: You may attack again.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75a9aa093613a1685ca15bb509cfd2d685ef702e27477f31bc31fdeb653fc8a7.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35e80308f4c3fe1fa29368be704ef3909dd3d1da632e67b7cce436c7e7c39f75.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f121f5e44d1620703df4db04d0dfff5430f02c8c768aa0937cb28fb102f3db94.png",
         "flavorText": "\u201cGriftah here with de Sul\u2019chop. One chop, you get four damage. Two chops, eight damage - you gonna change de way you fight.\"",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f6c318c455e25235771bbe625788f21f071089568f34345ff43143e2e41a4ea.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/093aef3ffc00b0264cc821f9e74db5aaf97526db28b10983b9d4bc3c54f2d594.png",
         "keywordIds": [
             61
         ],

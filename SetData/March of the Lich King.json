@@ -19,6 +19,9 @@
         "imageGold": "",
         "flavorText": "\"I see dead people. A LOT of dead people.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/238a315587d9dacdcdd1141c1b1e9234d0318b9d92b12ac3066760494766862d.png",
+        "copyOfCardId": [
+            111318
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -127,6 +130,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8c6ed0f0a739cf613f39c75cce62f428789a28fde75dd3695de1ef4cb77f119.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            120427
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -327,7 +333,7 @@
         "manaCost": 1,
         "name": "Arms Dealer",
         "text": "After you summon an Undead, give it +1 Attack.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/67a2630a8208604829ffb4dc4729b40bffa8d237e63c9d40622e2f7326086d57.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb68b974c2430b3a0c73990a1445dd0f28a522e4de3f13c80cb1e23d80c5e759.png",
         "imageGold": "",
         "flavorText": "Need a hand?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1d2d1f71b4b8ac5aefdc0f568da1510b7a27527cdc8553ee372f135b41898a2.png",
@@ -386,32 +392,6 @@
         "keywordIds": [
             1,
             8
-        ],
-        "isZilliaxFunctionalModule": false,
-        "isZilliaxCosmeticModule": false
-    },
-    "85651": {
-        "id": 85651,
-        "collectible": 1,
-        "slug": "85651-banshee",
-        "classId": 12,
-        "multiClassIds": [],
-        "minionTypeId": 11,
-        "cardTypeId": 4,
-        "cardSetId": 1776,
-        "rarityId": 3,
-        "artistName": "Alex Stone",
-        "health": 1,
-        "attack": 2,
-        "manaCost": 1,
-        "name": "Banshee",
-        "text": "<b>Deathrattle:</b> Give a random friendly Undead +2/+1.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be23f8d85e5f5c2364ffb12122fe578ef694693a01459372a4cef7a4a5867fb4.png",
-        "imageGold": "",
-        "flavorText": ":O",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd3a64947f40335b3e051c447f93a5c4b52b7d530e54594c58083daf1d9a2cbd.png",
-        "keywordIds": [
-            12
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -799,12 +779,12 @@
         "cardSetId": 1776,
         "rarityId": 3,
         "artistName": "Ishmael Hoover",
+        "health": 2,
         "attack": 1,
         "manaCost": 1,
-        "durability": 2,
         "name": "Calamity's Grasp",
         "text": "<b>Deathrattle:</b> Add a random <b>Outcast</b> card to your hand.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ba4eb4be9a0030977f496942cefaf7e7a0753a0566321077d000e66675c36f2.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea61c9d9631f9cf20889aee336d4e84aa46f4cf4bf975f8d35832ce82c52bfab.png",
         "imageGold": "",
         "flavorText": "Kel'Thuzad's personal fidget spinner.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f47265bbe6018ba2572710cfee63d4dd68d83fd1feec10955272882c521251b7.png",
@@ -1026,6 +1006,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8072f268d7be6407f4cae424c87a699586201f88805fb561408d7e6d3a972ee2.png",
         "keywordIds": [
             247
+        ],
+        "copyOfCardId": [
+            111334
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false,
@@ -1601,7 +1584,7 @@
         "manaCost": 6,
         "name": "Felscale Evoker",
         "text": "<b>Battlecry:</b> If you've cast three spells while holding this, summon a different Demon from your deck. <i>( left!)</i> <i>(Ready!)</i>",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/612cfa9019f560af9d2b9db5ae5d83d9c470eb68267c5655bd2aff7e6459309a.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3a9a4cfd9a1f69c580d8b4a30c47023a2b8682e44f58e3f99508c2c552f0bf1.png",
         "imageGold": "",
         "flavorText": "So it\u2019s a demon and a naga, but NOT a dragon?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29f67de430b718e2d65d41fc6ec6de8cf7741d8c270f129e8cd97e9c899ca894.png",
@@ -2167,10 +2150,13 @@
         "manaCost": 3,
         "name": "Hookfist-3000",
         "text": "After your hero attacks, gain 4 Armor and draw a card.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1bb3b9fa26339d814d668e4df08b23d830017b1ca15ce5208809ba1a76277d0b.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6d54463bd42205ca8608bf0be6a7ee0e65e72293a7a9db76267afee256a917b.png",
         "imageGold": "",
         "flavorText": "But wait! There's more!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f9799aa86d1718d2ca56967b202a408f34891b5be8e214bbeb0498867febc47.png",
+        "copyOfCardId": [
+            120574
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2184,12 +2170,12 @@
         "cardSetId": 1776,
         "rarityId": 5,
         "artistName": "Tanamaes Leejierasaes",
+        "health": 2,
         "attack": 4,
         "manaCost": 6,
-        "durability": 2,
         "name": "Hope of Quel'Thalas",
         "text": "After your hero attacks, give your minions +1/+1 <i>(wherever they are).</i>",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4fd633fedd81edbf1080fb9a2eccbb18d48940c08cb2136a8b512af6d0bc665.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed960c5253ea9b7e808df8f3a7e9055d2f633ecf8bdbe992828d76d2deaccdce.png",
         "imageGold": "",
         "flavorText": "Hey, give me a minute. I just need to load my.... uh, hope.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fdc43e2ea9d4a24425addf42f5e4780b7fe398a1623c4ea51d1c35eec4e9762.png",
@@ -2289,7 +2275,7 @@
         "manaCost": 5,
         "name": "Infectious Ghoul",
         "text": "<b>Deathrattle:</b> Give a random friendly minion \"<b>Deathrattle:</b> Summon an Infectious Ghoul.\"",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64ab6597ff5f44a30876c3c2bc384e140a1f9502d2e6616d9627cf558f00e6a6.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1c812762942ee781794cd8aae78cfbb2167de7123b399d8289d1571b4af0539.png",
         "imageGold": "",
         "flavorText": "They call him that because of his laughter! Also his plague.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ddc44a7b698c786782bac4d867d5e8b24d9606a374d9e1192f6024a03df7d5f0.png",
@@ -2350,7 +2336,7 @@
         "manaCost": 1,
         "name": "Jolly Roger",
         "text": "After your hero attacks, summon a 1/1 Undead Pirate.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33f04b46706931d02b182e06d96dc018f4db08287e8f8c1d52c382755b39253d.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee922e55a411ee15867a8005d0f921ea6767fea7f553dbc2f945921ff2524023.png",
         "imageGold": "",
         "flavorText": "That's a great pose, Roger. But this time try happier, and with your mouth open.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e3e7c70cf782d700a710c7b2583d6d912f1ed247b1cd5ac961c7c8845addc22.png",
@@ -2398,7 +2384,7 @@
         "manaCost": 3,
         "name": "Knight of the Dead",
         "text": "<b>Battlecry:</b> Deal 5 damage to your hero. <b>Manathirst (7):</b> Restore 5 Health to your hero instead.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a8d59efcfe6b2160a1de522a93670b09745d726f25f24365f3c330b79f09bf3.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92dea48922a33fc65514e885d8a6b16fd798034e86a4b4563da7aceb29b244bf.png",
         "imageGold": "",
         "flavorText": "A Paladin will follow their oath to slay the undead, even when they count themselves among them.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c6107483da82cdc64d5d0f4727bb66f1c9ea0426fee66be3504245605b3216e.png",
@@ -2543,6 +2529,9 @@
         "classId": 12,
         "multiClassIds": [],
         "minionTypeId": 11,
+        "multiTypeIds": [
+            2
+        ],
         "cardTypeId": 4,
         "cardSetId": 1776,
         "rarityId": 3,
@@ -2552,7 +2541,7 @@
         "manaCost": 4,
         "name": "Lost Exarch",
         "text": "<b>Deathrattle</b>: Spend all your Mana. Summon that many 2/2 Zombies with <b>Rush</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9d451aaa4df9e40d0cb437be10e3247e141db5f9ff1692706fb088d59684dd1.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b88da739b7df0708dec5609dfa6db99c153b86bb13b952077c8980e68571f8c.png",
         "imageGold": "",
         "flavorText": "She resisted the temptation of the Burning Legion's power only to fall victim to the Scourge.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58d2bec52874065913f05c57a1d9f9972852dfe09a6a179e43bcd5e27d2b7581.png",
@@ -2732,6 +2721,9 @@
         "keywordIds": [
             8,
             21
+        ],
+        "copyOfCardId": [
+            111328
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false,
@@ -2982,7 +2974,7 @@
         "manaCost": 2,
         "name": "Potionmaster Putricide",
         "text": "After a minion dies, add a Concoction to your hand.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/017f83d9aa9af308b5a471904e85855eec73626f29b4cf9c689ccb32a291304b.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a3fedb1ad0e27ae2da1a71911e0b0c2d34ef38ceb1cebb87c0d2d467f6be467.png",
         "imageGold": "",
         "flavorText": "\"Good news everyone! I'm a Rogue card now!\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ee5404e489ed863e87154e6404e06d0ee35c0cc8a03f145c4ce481cb6794ac8.png",
@@ -3268,7 +3260,7 @@
         "manaCost": 4,
         "name": "Rotting Necromancer",
         "text": "<b>Battlecry:</b> <b>Dredge.</b> If it's an Undead, deal 5 damage to the enemy hero.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/87e295c64076d640b3d2c46281c12aed94d45fbba533a8436fdd64881533fd03.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16dc32fd8fa989a8ebb52b8d05e903b320fb15f770c7069edfbb2f5b6eaa4d2b.png",
         "imageGold": "",
         "flavorText": "You can't spell dredge without D-E-D.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fde8ad60fbad5c2b6444dae56788cfd3a945f775eb1249400d4ead93ae798f5.png",
@@ -3608,7 +3600,7 @@
         "manaCost": 1,
         "name": "Shambling Chow",
         "text": "<b>Rush</b> <b>Deathrattle:</b> Deal 4 damage to your hero.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/372f0c7bf6729f6f422be5d99a879f69bdb84ce8236a069aef8971c2a0939d17.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6ac25969fe3b757752eba8a48d233c9fd32674ae671f63ead09579b4fcf1845.png",
         "imageGold": "",
         "flavorText": "And step, and shamble, and step, and flip the hair!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf0e49dc08f2cf6f7ceff0aa822481ca25bde0d051f554b7948b28ec05b9639e.png",
@@ -3864,17 +3856,20 @@
         "cardSetId": 1776,
         "rarityId": 1,
         "artistName": "Hideaki Takamura",
+        "health": 2,
         "attack": 3,
         "manaCost": 3,
-        "durability": 2,
         "name": "Soulbreaker",
         "text": "After your hero attacks and kills a minion, gain 2 <b>Corpses</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff72beb90d72e53f4ebf6100ff45c5b64ccb8bfae855a97d3b9d04f23fc22097.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82a5cb244e232443c9e946f136a23761ea7a3a652332b073268f3e0f4177531e.png",
         "imageGold": "",
         "flavorText": "Two for one special!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/107bfd90ae3905ef3fbd036c941b4fd48b670747b5ab684d740bb06bfa877bd4.png",
         "keywordIds": [
             247
+        ],
+        "copyOfCardId": [
+            111332
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false,
@@ -3894,12 +3889,12 @@
         "cardSetId": 1776,
         "rarityId": 5,
         "artistName": "Melvin Chan",
+        "health": 2,
         "attack": 4,
         "manaCost": 4,
-        "durability": 2,
         "name": "Souleater's Scythe",
         "text": "<b>Start of Game:</b> Consume 3 different minions in your deck. Leave behind Souls that <b>Discover</b> them.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f8974c65b39bd39a471f34255c88d9e2a3dc537e53357bc51fd738efdb496cf.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a17515bf63e15f914756dce75501b79d97d0b21c265cdc84a6ad126684d4d01e.png",
         "imageGold": "",
         "flavorText": "Would you like those souls for here or to-go?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/360e19a95df9e013bde3eadbf8b717e63d31acab560bb71e0791eb270620622e.png",
@@ -3943,6 +3938,9 @@
         "keywordIds": [
             8,
             247
+        ],
+        "copyOfCardId": [
+            111322
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false,
@@ -3991,7 +3989,7 @@
         "manaCost": 3,
         "name": "Stitched Creation",
         "text": "<b>Combo:</b> Gain +2/+2. <b>Infuse ( ):</b> Gain +3/+3. <b>Manathirst ( ):</b> Gain +4/+4.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22408735bebcbbaec6d89a455354a1def7bd79956d27e4510aa519296ed7475c.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b534f7bf4c08ebfb48bc7d76fbdc0f26d4b84d116e59a9a4ffbbaebf4b1be915.png",
         "imageGold": "",
         "flavorText": "To defend Naxxramas from the oncoming adventurers, the Scourge created a monstrosity the world had never seen before: an abomination wearing clothes!!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/037a954cd7bb13c0011717fc348da710755f7c67aff570f5ed09b74a086436f6.png",
@@ -4328,7 +4326,7 @@
         "manaCost": 1,
         "name": "Training Session",
         "text": "<b>Discover</b> a <b>Taunt</b> minion. If you play it this turn, repeat this.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55f72a650bce1b64a64b9aa55d1099f8b2bef67be7865d370dd71c8241e2e389.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8a914f4766f31a38b16d5d799e7abc9bf6f92a635ea6361ae1b4cfc467e1837.png",
         "imageGold": "",
         "flavorText": "Instructor Razuvious's training turns the Scourge's Death Knights into hardened killing machines. His merciless routines focus on breaking down his underlings until they build up a resistance to his strength.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e28db253c5d97acda7875706ec05fb26b8616d023b7be2a4e72c16e708bab9ce.png",
@@ -4583,6 +4581,9 @@
         "keywordIds": [
             247
         ],
+        "copyOfCardId": [
+            111327
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false,
         "runeCost": {
@@ -4737,6 +4738,32 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "85651": {
+        "id": 85651,
+        "collectible": 1,
+        "slug": "85651-wailing-banshee",
+        "classId": 12,
+        "multiClassIds": [],
+        "minionTypeId": 11,
+        "cardTypeId": 4,
+        "cardSetId": 1776,
+        "rarityId": 3,
+        "artistName": "Alex Stone",
+        "health": 1,
+        "attack": 2,
+        "manaCost": 1,
+        "name": "Wailing Banshee",
+        "text": "<b>Deathrattle:</b> Give a random friendly Undead +2/+1.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6b203f093e62c23d6435b32001f7ab2ce8537d9395c36539651e13420509c38.png",
+        "imageGold": "",
+        "flavorText": ":O",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd3a64947f40335b3e051c447f93a5c4b52b7d530e54594c58083daf1d9a2cbd.png",
+        "keywordIds": [
+            12
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false
+    },
     "84248": {
         "id": 84248,
         "collectible": 1,
@@ -4852,7 +4879,7 @@
         "manaCost": 2,
         "name": "ZOMBEEEES!!!",
         "text": "<b>Secret:</b> After your opponent plays a minion, summon four 1/1 Zombees to attack it.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/441d0b5d4a3233b2b73696111e41c10415c35cf639403956f9fb95dcc87ce389.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0475edfcc5c7a3b8ef87b6e97776d830dfb516e916361d21be11ece7644d01e.png",
         "imageGold": "",
         "flavorText": "In your brain, in your brain, Zombees, Zombees, Zombees-ees-ees.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d39edd25581c2d65a4aa3d99731a30412d2b9eb30530b7d3c85cb1179b0003c9.png",

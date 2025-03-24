@@ -202,6 +202,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            97326
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -324,6 +327,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cdf7a915c3057eba446642204ffc01848567b9a69e2c88691844249d91b2621.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            76318
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -526,6 +532,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8256d295da4d3733fbd47b0b01dd973a2f37ffc8f100bde6c9c14ec48ba55262.png",
         "flavorText": "\"It me! Togwaggle!\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0ef86cabe44e7759ec2427a5ecdb20a3d9372199da2af325667b1b3e3bed208.png",
+        "copyOfCardId": [
+            71011
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -751,12 +760,12 @@
         "cardSetId": 1158,
         "rarityId": 1,
         "artistName": "Jason Kang",
+        "health": 3,
         "attack": 1,
         "manaCost": 3,
-        "durability": 3,
         "name": "Desert Spear",
         "text": "After your hero attacks, summon a 1/1 Locust with <b>Rush</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0855c7dd672d6518ed63acde2a14b7d4d8c932e14308a28d3fd96c4cd8815024.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5b3c4897da7b944d07b32428a0980493288e57addce916a0c44705dbb1a382a.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cdd8e0464f4f07a073aafd655755975cb0797137dfe271397fe1eade827517f8.png",
         "flavorText": "Goes on the right, next to the desert spoon.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/147074e8e279010cff0e79d06c3b739096f686da749804779da853b1501b5897.png",
@@ -793,6 +802,10 @@
         ],
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            115766,
+            115765
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -987,6 +1000,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            115768
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1139,6 +1155,9 @@
             1,
             8,
             21
+        ],
+        "copyOfCardId": [
+            102719
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1380,9 +1399,9 @@
         "cardSetId": 1158,
         "rarityId": 1,
         "artistName": "Grace Liu",
+        "health": 2,
         "attack": 2,
         "manaCost": 3,
-        "durability": 2,
         "name": "Hooked Scimitar",
         "text": "<b>Combo:</b> Gain +2 Attack.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05df735fa8013f9c684672adba7684dc99dd5517f25d82ca5d83a418bd8d97fa.png",
@@ -1524,6 +1543,9 @@
             1,
             8
         ],
+        "copyOfCardId": [
+            86552
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1663,12 +1685,12 @@
         "cardSetId": 1158,
         "rarityId": 4,
         "artistName": "Jason Kang",
+        "health": 2,
         "attack": 2,
         "manaCost": 3,
-        "durability": 2,
         "name": "Livewire Lance",
         "text": "After your hero attacks, add a <b>Lackey</b> to your hand.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4cb52146cca9e7350d2009068260fc406f63f08d2ecb5a8fccee89bb07a5eacc.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96daecbb882854640c53ccfcf4ab1f1a7d561b2d84b5ae550cb501cbdf52b814.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8774562cb4be0c37f6d10f0d61941f8049de12326d9721b81b3442c88ab5b4e.png",
         "flavorText": "The lance is heavy but it\u2019s the battery pack that really does a number on the shoulders.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/031e02b8d4dbbbcdbc28d460e420d666796e3ec853ef4e0352fb582f3813e48c.png",
@@ -1899,6 +1921,9 @@
         "keywordIds": [
             78
         ],
+        "copyOfCardId": [
+            102228
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2023,6 +2048,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1d75d662da00bd682a9e86c7b9279d06df976c3b1a9de0a43467b415fc19d28.png",
         "keywordIds": [
             12
+        ],
+        "copyOfCardId": [
+            120576
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2287,6 +2315,9 @@
         "imageGold": "",
         "flavorText": "\"Thanks, I HATE it!\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fcd4ecbaa62b072ad427b2a8ec56065807eb7cddb8861548ccdcf46d56a70b20.png",
+        "copyOfCardId": [
+            108358
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2485,6 +2516,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            115763
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2537,6 +2571,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d483cbd0324fa6cd70cac7a3310065cc05ee4c96d63a608e40be4e43ed833f9.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            75963
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2776,6 +2813,9 @@
             11,
             53
         ],
+        "copyOfCardId": [
+            111464
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2853,6 +2893,9 @@
             8,
             21
         ],
+        "copyOfCardId": [
+            115767
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2889,12 +2932,12 @@
         "cardSetId": 1158,
         "rarityId": 4,
         "artistName": "Malcolm Davis",
+        "health": 2,
         "attack": 3,
         "manaCost": 4,
-        "durability": 2,
         "name": "Splitting Axe",
         "text": "<b>Battlecry:</b> Summon copies of your Totems.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9cabb1d7180a9eecfce136ead3f71309c1e264fd3fee392cb7e89cb5f7439a5d.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b30a2e16480f70fb26d2c0cb7745f14b4ab6a19da052b16d419c6e561c8c243.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/920542a0ef8754434b1be1f32575cbdc0dd3a0bf57724baf87dc11200e5b74e5.png",
         "flavorText": "The ancient shaman chant, \"Control Axe, Control Vee.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/045cd4c85a1b268e32c51217aaad2bef2c5558df01dfd03a8b55b58c8fa447c6.png",
@@ -3247,6 +3290,9 @@
             8,
             21
         ],
+        "copyOfCardId": [
+            86551
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3491,6 +3537,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e55eacff7a56ecfcde743ae8f61ceb3cf8029ba3cc2892bb8aaa24701d7ba38.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            115762
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false

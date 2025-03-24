@@ -114,6 +114,9 @@
         "keywordIds": [
             64
         ],
+        "copyOfCardId": [
+            111687
+        ],
         "bannedFromSideboard": 1,
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -284,14 +287,17 @@
         "artistName": "Dan Scott",
         "manaCost": 1,
         "name": "Blazing Invocation",
-        "text": "<b>Discover</b> a <b>Battlecry</b> minion.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0bedc139a2c20b8a26cf4d3fcef55d4e610f6a252586a43867edcdd9437f2049.png",
+        "text": "<b>Discover</b> a <b>Battlecry</b> minion. It costs (1) less.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b96c5b501c73427c259cba947cbe015ca5abb3e1710160cddb1d73c6733736f.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8fd76a3313c3630614f5de97c745522794b3b0ee167e45a0388a59cbe392355f.png",
         "flavorText": "A lot of shaman have started vaping their invocations.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1924f0abb1cdc1bbc58d1be549146369c77870ec81419467f8cc745976b4872.png",
         "keywordIds": [
             8,
             21
+        ],
+        "copyOfCardId": [
+            120572
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -705,6 +711,9 @@
         "keywordIds": [
             52
         ],
+        "copyOfCardId": [
+            75940
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -789,6 +798,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57866a75040a19f8e029e4375bb4f6ddbc166adc0d15761ce76b71b87b729dfc.png",
         "keywordIds": [
             53
+        ],
+        "copyOfCardId": [
+            76301
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -886,6 +898,9 @@
             8,
             38
         ],
+        "copyOfCardId": [
+            75927
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -931,6 +946,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d8e5fd94602814e54381e5cd0ce6f121518b8341b1b52c8480b76a5ccf3c2ca.png",
         "flavorText": "It's always Huffer. And Huffer. And Huffer. And Huffer.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ed4e48f119c0d42d17c63413cfb893add304cd3995ccb630e1586b8976d654b.png",
+        "copyOfCardId": [
+            69693
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1107,6 +1125,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c0975a2af976b1c84d387bf2c795fc372346ea02334163f88805e757af32d0b.png",
         "flavorText": "Or it might not.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53d66f1220d7e72794ad00845e1facd4eaf3429a688607424f0813182bdaaac3.png",
+        "copyOfCardId": [
+            71553
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1253,6 +1274,10 @@
         "childIds": [
             47502
         ],
+        "copyOfCardId": [
+            75951,
+            69734
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1324,6 +1349,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8bb23bdf2c5a0e163c42a9caa3dee6becade8443faecf62580bf029f6bbccb47.png",
         "keywordIds": [
             64
+        ],
+        "copyOfCardId": [
+            111686
         ],
         "bannedFromSideboard": 1,
         "isZilliaxFunctionalModule": false,
@@ -1511,7 +1539,7 @@
         "armor": 5,
         "name": "Hagatha the Witch",
         "text": "<b>Battlecry:</b> Deal 3 damage to all minions.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/846c3bf5005e251ffda1abed0b78d228b64e70f29c951707571f0a64bc43d057.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca803edc2e9f0e2ce0358c07af9665d53d1a03a563338eafb3af3c3a8e6afd5c.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a114492cefa3e03589e73f7f562cf6b71a2b44bd8c3fff6dd6da3315660632f8.png",
         "flavorText": "Curse-bringer, tree-twister, mother of wretched things\u2026Hanzo main.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3f73488619ac63872852644af9a9c63c1fcce3496040bc6b4a719be137c3c63.png",
@@ -1544,6 +1572,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/426aa18188f813fb485fc13edfd594f658c9d92dbe94de21a90d3cdd1eecb454.png",
         "flavorText": "Hard time making ends meet? Hate the League of Explorers? Get a job henching!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a966d11b5c68ca3766a2cb31b649f86c20230880bb272c26a39abad87cd1dd6.png",
+        "copyOfCardId": [
+            97343
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1584,7 +1615,7 @@
         "manaCost": 5,
         "name": "Holy Water",
         "text": "Deal 4 damage to a minion. If that kills it, add a copy of it to your hand.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71c8bc94f099fad5fca768630e439b3f401a878e1a34e5b78d98c706447c8abf.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a1386272ab02d4aa2c2f3e4540001b4061039ac2d24d51596be6011beecf2c2.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7c6ac738bfa1a535eebe32155356ee70615d17081c3dcf6be0dd12498c8d45c.png",
         "flavorText": "For a healthier option, try Holy Water: Zero.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65be317c422c5ceaf6425a8e31cd77d99a148ccd95b3f7adbb3ca971f2e99822.png",
@@ -1612,6 +1643,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bfae18ab603071d50a9a8bafcbf6f04b2b824002aa082071a7b6ddd9dcf3198e.png",
         "keywordIds": [
             53
+        ],
+        "copyOfCardId": [
+            76296
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1692,6 +1726,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1550416bbe0494e0267d0bb30958c16fe58f40a686e84eb0e982343b2d13bbd1.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            76320
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1876,6 +1913,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5496c5415a3e7c52efaa7b34716262893fc23ae3d9eb20f63c7f52f6ac30e98.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            86550
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2211,6 +2251,9 @@
         "keywordIds": [
             5
         ],
+        "copyOfCardId": [
+            111363
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2336,6 +2379,9 @@
             1,
             12
         ],
+        "copyOfCardId": [
+            102229
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2426,9 +2472,9 @@
         "cardSetId": 1125,
         "rarityId": 3,
         "artistName": "Nutchapol Thitinunthakorn",
+        "health": 4,
         "attack": 3,
         "manaCost": 8,
-        "durability": 4,
         "name": "Silver Sword",
         "text": "After your hero attacks, give your minions +1/+1.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ccfa4c752db320412bf67486eef0abd6424e74dd5a6ac7bf974fe7b0406324b8.png",
@@ -2458,6 +2504,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/661eb0a580b13de169b85c164fd10a927708f66949af90b918da9316cc4fa96b.png",
         "keywordIds": [
             10
+        ],
+        "copyOfCardId": [
+            69699
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2495,17 +2544,20 @@
         "cardSetId": 1125,
         "rarityId": 4,
         "artistName": "Nutchapol Thitinunthakorn",
+        "health": 2,
         "attack": 2,
         "manaCost": 4,
-        "durability": 2,
         "name": "Spectral Cutlass",
         "text": "<b>Lifesteal</b> Whenever you play a card from another class, gain +1 Durability.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aad83e6246db7c108fd812a19dab4b5a7144ff69a3a24c1398c536b14efe051a.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e1fc423b9b4064a17b945c749d4f625c125b0f509e76a1a7cfc43cc8deb50ab.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48037fa6d63de915b9424c50202ebcce8f01b4b0fd3748c286b867419642c3bb.png",
         "flavorText": "So sharp it can cut through a spectral tomato!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95e1f5ce7c398df404c35472ab4463c26b327c6925eadcfc1a4027375163e342.png",
         "keywordIds": [
             38
+        ],
+        "copyOfCardId": [
+            111376
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2746,6 +2798,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            86539
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2848,6 +2903,9 @@
         "keywordIds": [
             8,
             53
+        ],
+        "copyOfCardId": [
+            111460
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3232,6 +3290,9 @@
         "childIds": [
             48911
         ],
+        "copyOfCardId": [
+            102188
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3325,17 +3386,20 @@
         "cardSetId": 1125,
         "rarityId": 1,
         "artistName": "Izzy Hoover",
+        "health": 2,
         "attack": 2,
         "manaCost": 2,
-        "durability": 2,
         "name": "Woodcutter's Axe",
         "text": "<b>Deathrattle:</b> Give +2/+1 to a random friendly minion.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e962ca9cee178d513d189723d3a15e3e3fd36e897ddb93c5d9114adcc69e5d8e.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa4e18f2a7a0235f5a313b63663383064ca68d70fbbf837a9f68079944988922.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18666b3146620b8c8fd3a8717086d6c4c2079d0b5a0983ad437c5cf637e74c3d.png",
         "flavorText": "It's a lumberjack's axe and that's ok.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39161ba7477d9d56f593ebb4529011f7601183e8233e262f2301f66cb3ef010f.png",
         "keywordIds": [
             12
+        ],
+        "copyOfCardId": [
+            102215
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3410,6 +3474,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61a2d3ccf956ed35d02a1d8f6e96d37aadc54051f5dcdf691e459e955a7199fb.png",
         "keywordIds": [
             14
+        ],
+        "copyOfCardId": [
+            102208
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false

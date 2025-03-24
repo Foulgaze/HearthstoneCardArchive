@@ -153,12 +153,12 @@
         "cardSetId": 1578,
         "rarityId": 3,
         "artistName": "SARIYA ",
+        "health": 2,
         "attack": 2,
         "manaCost": 2,
-        "durability": 2,
         "name": "Auctionhouse Gavel",
         "text": "After your hero attacks, reduce the Cost of a <b>Battlecry</b> minion in your hand by (1).",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e59e6aaffdf9eb401cc6c78afc67c717ed56bdd49bbbb74f10f223667418fb93.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e94d7e2bd0e10876c101954c6ade2c06fa1557d6e52ba6a1e98362f835dfec5b.png",
         "imageGold": "",
         "flavorText": "\"I want to be a judge! Or an auctioneer! Look, all I want is one of those sweet, tiny hammers.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e442ebc2d285200930e1d95089471585535c57f15c7ef5274ee9b08d683b374.png",
@@ -217,6 +217,9 @@
             1,
             97
         ],
+        "copyOfCardId": [
+            108357
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -230,9 +233,9 @@
         "cardSetId": 1578,
         "rarityId": 3,
         "artistName": "Akkapoj T.",
+        "health": 1,
         "attack": 5,
         "manaCost": 4,
-        "durability": 1,
         "name": "Blacksmithing Hammer",
         "text": "<b>Tradeable</b> After you <b>Trade</b> this, gain +2 Durability.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa9adbd751e1ef31fc8631d9e58c94a78746cca73511d0b4ce0db1698758068f.png",
@@ -255,12 +258,12 @@
         "cardSetId": 1578,
         "rarityId": 1,
         "artistName": "Jason Kang",
+        "health": 2,
         "attack": 2,
         "manaCost": 1,
-        "durability": 2,
         "name": "Blackwater Cutlass",
         "text": "<b>Tradeable</b> After you <b>Trade</b> this, reduce the Cost of a spell in your hand by (1).",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0446b240df28a96549ab6f1b3c7b048936b10bc2916aafd3e39ca63e9840d90c.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbdd342153ece64f7f02adedabe3fa035e9e8b952dbd20826edc3250bfdea7d9.png",
         "imageGold": "",
         "flavorText": "Popular around Stormwind for slashing prices.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f56d1324ffa3f6e542ee261fbcc33875ec2862a5e1f3bb6037b89e88cc5cea41.png",
@@ -316,6 +319,9 @@
         "imageGold": "",
         "flavorText": "ALWAYS read the terms and conditions.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a63e307f06ccb49612b5a5aa8c7303f372a7bf7b1d1c228cf155fd6e49611446.png",
+        "copyOfCardId": [
+            113309
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -443,6 +449,9 @@
         "imageGold": "",
         "flavorText": "*Arrrrrmor",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97320b7ae434f5a48dd3c52981b43ea85b950a43b1bfecc8aa72dc3623d467d8.png",
+        "copyOfCardId": [
+            113117
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -482,12 +491,11 @@
         "cardSetId": 1578,
         "rarityId": 3,
         "artistName": "Jason Kang",
-        "attack": 0,
+        "health": 2,
         "manaCost": 2,
-        "durability": 2,
         "name": "Celestial Ink Set",
         "text": "After you spend 5 Mana on spells, reduce the Cost of a spell in your hand by (5). Lose 1 Durability.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fd3c1097829156d62fd69b33a2b07b73595d10ca56f5c375859d977488701d4.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08dd1cb4fc5fcb4bd27e934dd99800b5228dba04acccbf682d4727fabb88b1ba.png",
         "imageGold": "",
         "flavorText": "\"Dear Mother, I have a lot of spells and burst in my hand. You should maybe run more armor and healing next time. Cordially, Your child\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99708d6f58318c7d767f36e17483c2f259e3ae2e9dffd72cdccb8e9933ae368e.png",
@@ -776,6 +784,9 @@
         "imageGold": "",
         "flavorText": "Raised two perfectly normal daughters. Then one died and brought doom to Stormwind.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7daf48ce15cbb886cff6db34199c9cfc1ab3661ed089bdb528913f5a1ebb798d.png",
+        "copyOfCardId": [
+            120882
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -789,12 +800,12 @@
         "cardSetId": 1578,
         "rarityId": 4,
         "artistName": "SARIYA ",
+        "health": 2,
         "attack": 4,
         "manaCost": 4,
-        "durability": 2,
         "name": "Counterfeit Blade",
         "text": "<b>Battlecry</b>: Get a copy of a random friendly <b>Deathrattle</b> minion that died this game.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5f3a118fbc92c2540b9f954ee40a37048f1915f2e623d7c2477d0205fce4157.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7152b0ddf72b349b4dbe1096150936fe92aca766819e6f35d856e3891c87fa32.png",
         "imageGold": "",
         "flavorText": "Don't worry, the blade retracts into the handle!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/777b263764c02000fa19f626cd7504f3bc6440e1c43cbbc04770ec5bf323f2a9.png",
@@ -880,6 +891,9 @@
         "childIds": [
             67810
         ],
+        "copyOfCardId": [
+            111454
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -907,6 +921,9 @@
         ],
         "keywordIds": [
             64
+        ],
+        "copyOfCardId": [
+            102718
         ],
         "bannedFromSideboard": 1,
         "isZilliaxFunctionalModule": false,
@@ -1094,6 +1111,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            117062
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1137,6 +1157,9 @@
         "keywordIds": [
             53,
             97
+        ],
+        "copyOfCardId": [
+            102192
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1314,6 +1337,7 @@
         "slug": "64717-enthusiastic-banker",
         "classId": 12,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1578,
         "rarityId": 4,
@@ -1323,7 +1347,7 @@
         "manaCost": 3,
         "name": "Enthusiastic Banker",
         "text": "At the end of your turn, store a card from your deck. <b>Deathrattle:</b> Add the stored cards to your hand.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33a634f7874884b9071443a24a92374721792e0bbf98d70f98327d927e3a9c48.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9949e085e8773e34c99e5e3106155e9aac72d015f5cd8b44f959328c5677718.png",
         "imageGold": "",
         "flavorText": "She offers 0% interest.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/997c2b7a98c3e0a6e6ad07f47304bec8b4852f1f5d60b369ec6cad2fba3cd779.png",
@@ -1422,7 +1446,7 @@
         "manaCost": 4,
         "name": "Felgorger",
         "text": "<b>Battlecry:</b> Draw a Fel spell. Reduce its Cost by (2).",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7be117a9f5a363186265376ed10f97408f7e0861ac78cdefc7783968631e6890.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7bd612152b9c766c6b6de9a388b04a7b7e46494341545dd6a9fdfa16216b196.png",
         "imageGold": "",
         "flavorText": "The 'everything green' diet.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5544195c59a4a3dce2b7fe76a70566ad97d1e71f857e449196828d5d362be1f4.png",
@@ -1513,6 +1537,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9215e9732d0cbfd3030c06b2dde1c262f2cd3ec614a993970b5dcacae49f1308.png",
         "keywordIds": [
             97
+        ],
+        "copyOfCardId": [
+            102193
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1621,7 +1648,7 @@
         "manaCost": 2,
         "name": "Florist",
         "text": "At the end of your turn, reduce the Cost of a Nature spell in your hand by (1).",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09a6f819d4743709dda50df87b9370815617fd7114fc3f9bcef2a0abb983ae71.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/902804353e425d11aa6a2bb88cc4a611e7afcfca331bc5c64b43078072397b71.png",
         "imageGold": "",
         "flavorText": "Trade district. Trade district a shop. Color Legendary. Color Legendary golden. Rose is a rose is a rose is a rose.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df026d84183e85290e8d4836396f70734db578f8a6540f2ba0d684ce0dfc0548.png",
@@ -1880,6 +1907,9 @@
         "keywordIds": [
             97
         ],
+        "copyOfCardId": [
+            97333
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2099,7 +2129,7 @@
         "manaCost": 8,
         "name": "Jace Darkweaver",
         "text": "<b>Battlecry:</b> Cast all Fel spells you've played this game <i>(targets enemies if possible)</i>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8be39603c26e63a0d77eea8ccf2a29a5600ee93469a78d3af62009ce4567a9e4.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e670279c6d057eabbb9213ee8686899230a0311318ca56a8c55b3b4a328b0be6.png",
         "imageGold": "",
         "flavorText": "As a former mage, making the transition from fire to felfire was quite easy.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d88b8dda731b2eb5ee2298c171350ed85ba1dcfc87790dd15d1daeff61b4225.png",
@@ -2197,12 +2227,11 @@
         "cardSetId": 1578,
         "rarityId": 3,
         "artistName": "Kagi ",
-        "attack": 0,
+        "health": 3,
         "manaCost": 1,
-        "durability": 3,
         "name": "Leatherworking Kit",
         "text": "After three friendly Beasts die, draw a Beast and give it +1/+1. Lose 1 Durability.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a78688c5c5b8b0b2ae3acbc9e638007ffb47169d6dc71f0470a2c1e2d25657c3.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7c622509c93704d7df0024ca8a8ead22e93028eec90e51e70d3df8b8de8f08f.png",
         "imageGold": "",
         "flavorText": "Combining taxidermy and tailoring.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ebc893e0349aaab37e3f713c11ff3abf224d66cf242582c9aad124f277ddf68e.png",
@@ -2219,12 +2248,12 @@
         "cardSetId": 1578,
         "rarityId": 4,
         "artistName": "James Ryman",
+        "health": 2,
         "attack": 3,
         "manaCost": 3,
-        "durability": 2,
         "name": "Lightbringer's Hammer",
         "text": "<b>Lifesteal</b> Can't attack heroes.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aed312bbda993e6cfc409ac5bb7e60eb50b08c6ef27d6d67bf714d9b559228f3.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cefbeb9e3a6ffdd0ac01a8935a521d715ebe6d58b3e6b16ec7f7ab5e615ec81.png",
         "imageGold": "",
         "flavorText": "This entire city must be purged. Or at least just the minions.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb4519f5b69849baf3d96d8427b06a7b66143a520bf8169dfb5e07ee4b01c63f.png",
@@ -2244,12 +2273,11 @@
         "cardSetId": 1578,
         "rarityId": 4,
         "artistName": "Jason Kang",
-        "attack": 0,
+        "health": 2,
         "manaCost": 3,
-        "durability": 2,
         "name": "Lion's Frenzy",
         "text": "Has Attack equal to the number of cards you've drawn this turn.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0142d531651958b274f4c1aa0b2b39b4fb082a3515aaadb0259c6821fb12395.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e03abdc882effaa53fbd93a9c345c02d996fda84d3a82e2d4b9599ea275f859.png",
         "imageGold": "",
         "flavorText": "Only as sharp as your draw.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a18376dd694c768e02cd314288e4de7b9a9139bded52622929ce4d880c43595e.png",
@@ -2472,7 +2500,7 @@
         "manaCost": 1,
         "name": "Metamorfin",
         "text": "<b>Taunt</b> <b>Battlecry:</b> If you've cast a Fel spell this turn, gain +2/+2.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23d895b1d39deb44fa183abb13d027e1a8014a22cf3e95a0d4309b07b748aa1d.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d8c99c22a2774f17d7917030420b6c857be8bc341b502ba4db466ac83a9f9e7.png",
         "imageGold": "",
         "flavorText": "Always wanted to be the green ranger.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54205c30adf4fa304160a727e0c9af1c37264bcc01d253e54987d1cbcce33324.png",
@@ -2502,13 +2530,16 @@
         "manaCost": 8,
         "name": "Mo'arg Forgefiend",
         "text": "<b>Taunt</b> <b>Deathrattle:</b> Gain 8 Armor.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47ec353a8203c698afb7b3d0046127c6c3c5b5eeab86a4444ae8a303af62fdfb.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89a809e19a4b958fab8cc47b659eae0aae1b9db85ff75c7a17b5325da222f79b.png",
         "imageGold": "",
         "flavorText": "Enraged not by fel energies, but by an itchy nose he cannot scratch.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7462dc28f7514d956dbb33e8fef2b847f4426ac48c176092c7bd9cd5f890d022.png",
         "keywordIds": [
             1,
             12
+        ],
+        "copyOfCardId": [
+            120577
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2561,6 +2592,9 @@
         "keywordIds": [
             21
         ],
+        "copyOfCardId": [
+            90514
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2606,7 +2640,7 @@
         "manaCost": 4,
         "name": "Multicaster",
         "text": "<b>Battlecry:</b> Draw a card for each different spell school you've cast this game. <i>( )</i>",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25af18eb24a4e50a0c1106ba12f27546c8b4bfaf8a209cfd04c6431e4050c715.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/526fbbe6515c2ef8e88e19602d04a45ef1d46873d44a93f8654afca3bf02168e.png",
         "imageGold": "",
         "flavorText": "Has a questionable talent tree.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f79f559742416adca39d13c8ec8003ffdc10de673074f4258a62b45ced8fe88.png",
@@ -2759,6 +2793,9 @@
             14,
             97
         ],
+        "copyOfCardId": [
+            102207
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2768,6 +2805,7 @@
         "slug": "64705-package-runner",
         "classId": 12,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1578,
         "rarityId": 1,
@@ -2777,7 +2815,7 @@
         "manaCost": 3,
         "name": "Package Runner",
         "text": "Can only attack if you have at least 8 cards in hand.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/909b85ee7a6574667a53bb2cd097cb44e54210e546eabaae0d9b719e577aedd0.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a734fc154eb636b8d900634f4beb91f747333f3295b3a29a14b40da1903216fd.png",
         "imageGold": "",
         "flavorText": "He could go... all... the... way!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3685a524c327b529531e46f41729f568463b9bcff632873e2177810ae3a08892.png",
@@ -2832,6 +2870,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa8f80ed1049cad787186dca495e4370e67dbd6e501cec9d0e5e7fc4f0a82a85.png",
         "keywordIds": [
             53
+        ],
+        "copyOfCardId": [
+            111356
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2940,9 +2981,8 @@
         "cardSetId": 1578,
         "rarityId": 3,
         "artistName": "Grace Liu",
-        "attack": 0,
+        "health": 3,
         "manaCost": 1,
-        "durability": 3,
         "name": "Prismatic Jewel Kit",
         "text": "After a friendly minion loses <b>Divine Shield</b>, give minions in your hand +1/+1. Lose 1 Durability.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aff4373a58096a9a68a7be8c77c13f1cd57411e7201541331b822f59cc01792f.png",
@@ -3013,7 +3053,7 @@
         "manaCost": 3,
         "name": "Psyfiend",
         "text": "After you cast a Shadow spell, deal 2 damage to each hero.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad5b8d25054e82ea99675df009b4b30df96905da5e558c5ecf2f9898dde931dc.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/15ef0f8370234417069fa128b122ec6c058bcfe1e8f2f317bc487d964ab27385.png",
         "imageGold": "",
         "flavorText": "Listens to a LOT of K-pop.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b37d36ccbe92f1f43835481848fc7808c9cd62da4dde07e77cca498b6c9282b1.png",
@@ -3230,6 +3270,9 @@
             15,
             97
         ],
+        "copyOfCardId": [
+            102222
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3243,12 +3286,11 @@
         "cardSetId": 1578,
         "rarityId": 3,
         "artistName": "Akkapoj T.",
-        "attack": 0,
+        "health": 2,
         "manaCost": 5,
-        "durability": 2,
         "name": "Runed Mithril Rod",
         "text": "After you draw 4 cards, reduce the Cost of cards in your hand by (1). Lose 1 Durability.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7035fc58caec13e0d88f9619df3331583305943124d7c70e3371d8dbab8277ca.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2abdcf144008f655438e5f1b7428e0a3903a750bce5655467ccfd4259d2ff51d.png",
         "imageGold": "",
         "flavorText": "\"Please, I need these greens to disenchant them.\" \u2014Every Enchanter Ever",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3a4e48e9108bdc0ffcbcf40884dc668f886b38598f8a800bb69ac59ec6b687b.png",
@@ -3278,6 +3320,9 @@
         "keywordIds": [
             8,
             97
+        ],
+        "copyOfCardId": [
+            102221
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3496,12 +3541,11 @@
         "cardSetId": 1578,
         "rarityId": 3,
         "artistName": "Kagi ",
-        "attack": 0,
+        "health": 3,
         "manaCost": 1,
-        "durability": 3,
         "name": "Shadowcloth Needle",
         "text": "After you cast a Shadow spell, deal 1 damage to all enemies. Lose 1 Durability.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ddba1a1b1dead40dce57b60950be7d95c96769b324e586eadad5f1a794f61853.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9778d3166fdb735e34afb3d4d818b9d442ed8f9ac717853fa2763a687ff18185.png",
         "imageGold": "",
         "flavorText": "Makes light of the darkest repair jobs.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe8680f2ae35ba00c5acc93224ca99b45445909f447aa205c1ed01a019914e3d.png",
@@ -3555,6 +3599,9 @@
         "keywordIds": [
             15,
             97
+        ],
+        "copyOfCardId": [
+            102200
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3968,8 +4015,8 @@
         "artistName": "Slawomir Maniak",
         "manaCost": 1,
         "name": "The Demon Seed",
-        "text": "<b>Questline:</b> Take 10 damage on your turns. <b>Reward:</b> <b>Lifesteal</b>. Deal 3 damage to the enemy hero.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e999ecadab63f9cf51ff39fb31205f611fc78135f0ca0ef4283b6fbe18bfef67.png",
+        "text": "<b>Questline:</b> Take 12 damage on your turns. <b>Reward:</b> <b>Lifesteal</b>. Deal 3 damage to the enemy hero.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8830ae1b9a710caca7476cfc26ef2c55a83fda4551ed2ee223a1e9a603640c45.png",
         "imageGold": "",
         "flavorText": "Just need some elbow grease to get this working. Oh, and your soul.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aae925dc0f4150c5f6c5e64a53e715f59eb227ba75d0cb9ecb551accd1b8d697.png",
@@ -4085,6 +4132,7 @@
         "slug": "64419-twilight-deceptor",
         "classId": 6,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1578,
         "rarityId": 1,
@@ -4094,7 +4142,7 @@
         "manaCost": 2,
         "name": "Twilight Deceptor",
         "text": "<b>Battlecry:</b> If any hero took damage this turn, draw a Shadow spell.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55efe2d9168d2e488cfa0d017d0d3603e7ddfc9ebc9d404a5ff51c81d6153a08.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b1ce57a7bdbb19615f3b61abfbfe404106e7f09bfce301a10dd856385b38341.png",
         "imageGold": "",
         "flavorText": "Nobody asks questions if you're carrying a clipboard.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6c03ae6a6a0f6ab4ab259438f99b301a0c0285c95160c869ec0912dd6196c18.png",
@@ -4181,6 +4229,9 @@
         "keywordIds": [
             12
         ],
+        "copyOfCardId": [
+            120393
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4204,6 +4255,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5447578343694dfd85128a5a0eb69d3483330bf5c8d5db5e66a3343bbe1b2a61.png",
         "keywordIds": [
             38
+        ],
+        "copyOfCardId": [
+            111373
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false

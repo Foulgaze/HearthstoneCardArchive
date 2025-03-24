@@ -6,6 +6,7 @@
         "slug": "56530-akama",
         "classId": 7,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1414,
         "rarityId": 5,
@@ -15,7 +16,7 @@
         "manaCost": 3,
         "name": "Akama",
         "text": "<b>Stealth</b> <b>Deathrattle:</b> Shuffle 'Akama Prime' into your deck.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/baa38a67dac44eac6d353a4655535c54c05d52d652d564cf598b6cf0cb7950b7.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c96e72c7cfbcf7c7d8437ff34bad86ba7d6a87405788ea59f44287137e2e9707.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2de8b637b4b6a25f02138b8a62c56091b4b3dfd43769c0800344e102c09820ee.png",
         "flavorText": "\"To many of my people, I am known as a traitor... as Illidan's lapdog. I will remain in the shadows, for now... Actually, maybe I'll just remain in the shadows forever.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad7fb6c795bca7b49e725058ec7d0500f80e29c86445cf738d8e7b0f55c2320b.png",
@@ -67,6 +68,7 @@
         "slug": "56445-aldor-attendant",
         "classId": 5,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1414,
         "rarityId": 1,
@@ -76,7 +78,7 @@
         "manaCost": 1,
         "name": "Aldor Attendant",
         "text": "<b>Battlecry:</b> Reduce the Cost of your Librams by (1) this game.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/973ed15a0c103b14d745b99e04febc00adacfcd39861760e92c064a18f1d74fb.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f02a2679c40ac5a4e6beb869f6f4b4d7ba09f62c281a87d269bdc3c6ea7c76d0.png",
         "imageGold": "",
         "flavorText": "Will check to make sure you have a valid libramary card.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37cc5562c88dfd81381d816c20acc507d5bb67ec72eff2137917fb5fd0fd96fb.png",
@@ -101,6 +103,7 @@
         "slug": "56556-aldor-truthseeker",
         "classId": 5,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1414,
         "rarityId": 3,
@@ -110,7 +113,7 @@
         "manaCost": 5,
         "name": "Aldor Truthseeker",
         "text": "<b>Taunt</b>. <b>Battlecry:</b> Reduce the Cost of your Librams by (2) this game.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a35e78f42d0e82e3e06ba4a387fafebb29b06e531df5807913e924fc98b1fc7f.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/909dc5199c9a7c8b6485d1a0a8549d60b9e3e3d1f0aea28b55117dc146d22181.png",
         "imageGold": "",
         "flavorText": "It\u2019s under 'T.'",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83cc787f985026973631eb4b78c1341accc5abd16ce678d06f8d2c956e0e4868.png",
@@ -153,6 +156,9 @@
         "keywordIds": [
             5,
             32
+        ],
+        "copyOfCardId": [
+            102202
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -224,6 +230,9 @@
         "keywordIds": [
             38
         ],
+        "copyOfCardId": [
+            77213
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -265,6 +274,7 @@
         "slug": "56860-ashtongue-battlelord",
         "classId": 14,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1414,
         "rarityId": 1,
@@ -274,13 +284,16 @@
         "manaCost": 4,
         "name": "Ashtongue Battlelord",
         "text": "<b>Taunt</b> <b>Lifesteal</b>",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d3c91aab2b5669a682fefc4f2eed0cad24c3d52ade3f1ea6ebaf90a62b602cc.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d5416107ac2b06e00bc2c6d3844e17e7fae223208d6110b377ead2e3412ef2c.png",
         "imageGold": "",
         "flavorText": "Demons have destroyed the lives of the Ashtongue draenei. Now he\u2019s got a shoulder-axe to grind.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4dd545354930fe5eab0fb378e289ed26075622836103b79496c35779015bb3a.png",
         "keywordIds": [
             1,
             38
+        ],
+        "copyOfCardId": [
+            69681
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -291,6 +304,7 @@
         "slug": "56378-ashtongue-slayer",
         "classId": 7,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1414,
         "rarityId": 3,
@@ -300,7 +314,7 @@
         "manaCost": 2,
         "name": "Ashtongue Slayer",
         "text": "<b>Battlecry:</b> Give a <b><b>Stealth</b>ed</b> minion +3 Attack and <b>Immune</b> this turn.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0767e128e66928d6924aa2570302ec0df8477631991eec63a94ac9523ba5eb96.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/670e4b64d6b9b66f8a7e582541b4a1df6bb725f76555471d564e53eb5317e373.png",
         "imageGold": "",
         "flavorText": "Her other hand attachments include a corkscrew and a bottle opener.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c7418b167bdc47e74640649733c2b7cad0ab5b8a8843be3c97389105e47db04.png",
@@ -461,6 +475,9 @@
         "imageGold": "",
         "flavorText": "Dear minions: Woosh, woosh, woosh, woosh, woosh. Best regards, Bladestorm",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a59ca433d16c8b81ce82e87f66a2475ec6f52eabebe112e69f712c77f04c458.png",
+        "copyOfCardId": [
+            97332
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -531,6 +548,9 @@
         "imageGold": "",
         "flavorText": "Some think the mysterious bright lights in the bog are alien invaders, others think they're just swamp gas. Turns out, it's just druids.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/923ac8da7157b1e0d329b37ca16917ee364a1bce896595970dc61a86a28a8e25.png",
+        "copyOfCardId": [
+            108356
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -544,12 +564,12 @@
         "cardSetId": 1414,
         "rarityId": 4,
         "artistName": "Grace Liu",
+        "health": 2,
         "attack": 4,
         "manaCost": 5,
-        "durability": 2,
         "name": "Boggspine Knuckles",
         "text": "After your hero attacks, transform your minions into random ones that cost (1) more.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe6aaf727b0aea8a0d66ca3ab5f75f5fa61faea582c91b813f79eaa1d7f1d98f.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2f67e8036c0b011d2e4a5bbfdfcd3c14ff90e013778b4ef7d6dbce949b6d8a3.png",
         "imageGold": "",
         "flavorText": "I would NOT want to put my hand in there. It's... SQUISHY.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78f7431ede94181ae5a784d0140d456e2026bb20083bad6f3d775f994ca709f3.png",
@@ -629,6 +649,9 @@
             8,
             53
         ],
+        "copyOfCardId": [
+            75936
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -654,6 +677,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            75937
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -667,15 +693,18 @@
         "cardSetId": 1414,
         "rarityId": 5,
         "artistName": "SARIYA",
+        "health": 4,
         "attack": 1,
         "manaCost": 3,
-        "durability": 4,
         "name": "Bulwark of Azzinoth",
         "text": "Whenever your hero would take damage, this loses 1 Durability instead.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/660d62f79fca0ff2c09875211589e346e37792cf6e0a34a7cdf5af48029ac930.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f65a7687271ff700c312a82e8a7f7b1f3667475369a4a6bf7fdf5c0eaeaa0ba3.png",
         "imageGold": "",
         "flavorText": "This plate turned shield you shall wield, praying its powers fel will serve you well.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe37f16c302b1a5b57d2aad8504abe11c23892efe94a9b7fda5382df3f4d606d.png",
+        "copyOfCardId": [
+            116718
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -779,6 +808,9 @@
         "keywordIds": [
             86
         ],
+        "copyOfCardId": [
+            69683
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -826,11 +858,17 @@
         "attack": 3,
         "manaCost": 3,
         "name": "Darkglare",
-        "text": "After your hero takes damage, refresh a Mana Crystal.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9cf06251fe146e14aa9a523c1f37a9c858f7cae692f26414d1a523b91b673461.png",
+        "text": "<b>Battlecry:</b> If your hero took damage this turn, refresh 3 Mana Crystals.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c255bbc06a0dc015493c5f65f8e56c460915210a3dae76f0875f2766a6757b9b.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77ef6292117c5b678d6b82be4b013de30cde72c1868566e2e39b73245f6990f2.png",
         "flavorText": "He's got a dark glare, but he sees crystal clear!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ce4856ce6d620a97aaa57c59d37581638151ffa777da19a7ac0791443cb2bde.png",
+        "keywordIds": [
+            8
+        ],
+        "copyOfCardId": [
+            75948
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1018,6 +1056,9 @@
             12,
             38
         ],
+        "copyOfCardId": [
+            97346
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1135,13 +1176,16 @@
         "artistName": "Jason Kang",
         "manaCost": 1,
         "name": "Font of Power",
-        "text": "<b>Discover</b> a Mage minion. If your deck has no minions, keep all 3.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/426b0ffad9c2bc19e44df25f36f40f2b7f9b43a7e2ff856f218240f046eb57a8.png",
+        "text": "<b>Discover</b> a Mage minion. If your deck has no minions, keep all 3 instead.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/beec85f6abbd917a4b3dbff3b8b1e037a2ec805d4a67a769c581bb100cd4a58e.png",
         "imageGold": "",
         "flavorText": "It's Comic Sans.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a12a7ddc6541b12a39bbd3f8206a9425fb2f6e4f4c0154253cd8cd3534f4bb2e.png",
         "keywordIds": [
             21
+        ],
+        "copyOfCardId": [
+            74692
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1152,6 +1196,7 @@
         "slug": "57174-frozen-shadoweaver",
         "classId": 12,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1414,
         "rarityId": 1,
@@ -1161,7 +1206,7 @@
         "manaCost": 3,
         "name": "Frozen Shadoweaver",
         "text": "<b>Battlecry:</b> <b>Freeze</b> an enemy.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dc2cada82780771b2215e6039a611f99debd55d285d58afd9db790feadc7f45.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fccebb7476822d50501e3246b4f0a5fc7eac8aa3a73edf2da18ec64cc1f744e.png",
         "imageGold": "",
         "flavorText": "She still wears her Frozen Shadoweave set despite the many, many nerfs. She just can't let it go!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/acc2ae060f8f8c442e858c2c4a723d527caac068b12b4d5dff2b545f9ede8051.png",
@@ -1276,6 +1321,7 @@
         "slug": "56527-greyheart-sage",
         "classId": 7,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1414,
         "rarityId": 4,
@@ -1285,7 +1331,7 @@
         "manaCost": 3,
         "name": "Greyheart Sage",
         "text": "<b>Battlecry:</b> If you control a <b><b>Stealth</b>ed</b> minion, draw 2 cards.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92bed5ddccbdf953bdcb7a0a9d2f8760de8fe27cb163395aa604be1be53003ce.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/281382f4e5e42d87f4bce5212f08dea80760272e59a200ab044a3ad2e0815ee4.png",
         "imageGold": "",
         "flavorText": "\"What am I drinking again?\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/685f51c006a04f7a7bb47e145739e7dcd72e0345275e116c5c1e215df86fef1f.png",
@@ -1340,6 +1386,9 @@
         "imageGold": "",
         "flavorText": "When it meets the Hand of Gul'dan, they're SHAKING.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42b62967619f3b4ee9269e12596d6383ab324447ea52ef60a2d2e32abadbcb92.png",
+        "copyOfCardId": [
+            102197
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1361,6 +1410,9 @@
         "imageGold": "",
         "flavorText": "His skull also draws three cards. Imagine how many cards he could draw with HIS ENTIRE BODY!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab37367793b0b22e68882c9afa2202a55cf2fb6311f8e741da62320c07933ab3.png",
+        "copyOfCardId": [
+            75959
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1408,6 +1460,9 @@
         "imageGold": "",
         "flavorText": "If you can't take the heat, stop standing in the fire.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9a592e735295f8e6f74bc692af03a31e7c07aeb059ea7930bb69b8c078b1e0d.png",
+        "copyOfCardId": [
+            97379
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1802,6 +1857,9 @@
             1,
             4
         ],
+        "copyOfCardId": [
+            102184
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1851,6 +1909,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77e1594ab755f134c2033333047c45d70e7ebb8cabd093dffed78ba5e80de872.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            111368
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2068,6 +2129,9 @@
             8,
             21
         ],
+        "copyOfCardId": [
+            120464
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2092,6 +2156,9 @@
         "childIds": [
             56876,
             56877
+        ],
+        "copyOfCardId": [
+            76308
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2277,6 +2344,9 @@
             8,
             53
         ],
+        "copyOfCardId": [
+            75952
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2394,10 +2464,13 @@
         "manaCost": 7,
         "name": "Priestess of Fury",
         "text": "At the end of your turn, deal 6 damage randomly split among all enemies.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d056860889adac4f8d4dfd0abc3fdc96a54ebd2e16f9e0f94bc8d1e894f51d9.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b66cc9962a262507c983e2e1e87a8bbb28012d352f0c20b4c7beef0bfe353d6.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03a7a37e1702381e0a3cefafa54dd66f07e40273ebe1546531a51aee528c6849.png",
         "flavorText": "Furious that she only has six warglaives. The Sightless Watcher has eight! The fel is always greener on the other side.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a445807f5596364e1453a589fd975dd9d50be69e1bf2c1ac312d29dffb11f5c.png",
+        "copyOfCardId": [
+            120878
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2753,6 +2826,9 @@
         "keywordIds": [
             14
         ],
+        "copyOfCardId": [
+            75542
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2805,6 +2881,7 @@
         "slug": "57979-shadowjeweler-hanar",
         "classId": 7,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1414,
         "rarityId": 5,
@@ -2814,13 +2891,16 @@
         "manaCost": 2,
         "name": "Shadowjeweler Hanar",
         "text": "After you play a <b>Secret</b>, <b>Discover</b> a <b>Secret</b> from a different class.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f3b907deedb0dfab43a6f6895e437344118f20f0a79ad523d9c6dc4654bd204.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c42ec53c325d9168cadb66466cd6abdf3e02050401333cf082aa4bbc92ece75f.png",
         "imageGold": "",
         "flavorText": "What is a shadowjeweler? A miserable little pile of secrets.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96f781d0c801c56115855e94b7838696e8505d116e0e04c5d4db74deac06510f.png",
         "keywordIds": [
             5,
             21
+        ],
+        "copyOfCardId": [
+            102206
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2893,7 +2973,7 @@
         "manaCost": 6,
         "name": "Skull of Gul'dan",
         "text": "Draw 3 cards. <b>Outcast:</b> Reduce their Cost by (3).",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/262c53e74a4700c90851b7937e25307f8f62f4fd3476ad855dfbe96cfedbf219.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae10e68b0a4516c7444102286b81a9d30455bfac1cb407877d6576d0f2bd1c6f.png",
         "imageGold": "",
         "flavorText": "A fellow of evil possessed, of most devious shadow. He hath turned on his kin a thousand times, and now, how abhorred in all imagination he is!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59c24b7d3c12b4193fa18756060983b508e11c694238592353d27432b8466598.png",
@@ -2930,6 +3010,7 @@
         "slug": "57187-soulbound-ashtongue",
         "classId": 12,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1414,
         "rarityId": 1,
@@ -2939,7 +3020,7 @@
         "manaCost": 1,
         "name": "Soulbound Ashtongue",
         "text": "Whenever this minion takes damage, also deal that amount to your hero.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e7b6c511007dd3b4f65f7d60b4021dc0022b419fdc6c8210a6fd44af28d742a.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e314da4f680511fd00be08cdeb00d2eee170d44729c3bd50d234209d6404f9a.png",
         "imageGold": "",
         "flavorText": "He claims to be \"soulbound,\" but I just think he's clingy.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8eadbd6a67d4b7293ed6a4b135b0408488172b123db26ba0d090695d7d597a01.png",
@@ -2965,6 +3046,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f14b6e14a5ddad0bb0d198fe1e37911336ca0c72e243409fa304b7f7c4dad0c4.png",
         "keywordIds": [
             86
+        ],
+        "copyOfCardId": [
+            69684
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3216,15 +3300,18 @@
         "cardSetId": 1414,
         "rarityId": 4,
         "artistName": "Jason Kang",
+        "health": 2,
         "attack": 3,
         "manaCost": 3,
-        "durability": 2,
         "name": "Underlight Angling Rod",
         "text": "After your Hero attacks, add a random Murloc to your hand.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa073697b5a1582d21fcad4235b37a928f7a1dd3138534d88451f9184e50649e.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ecb04ae3f1fee1f0636d0c54b995945874ed675f87f1b59d7bed69a1b29f0ed2.png",
         "imageGold": "",
         "flavorText": "\"I said I wanted the ASHbringer not FISHbringer!\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d137fc7498eee29bac3fe788b7895d03b80840eb7ee3bdbc62c20addd85e57f.png",
+        "copyOfCardId": [
+            120879
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3283,15 +3370,18 @@
         "cardSetId": 1414,
         "rarityId": 4,
         "artistName": "SARIYA",
+        "health": 3,
         "attack": 3,
         "manaCost": 5,
-        "durability": 3,
         "name": "Warglaives of Azzinoth",
         "text": "After attacking a minion, your hero may attack again.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55177340e65ba89a3f1b381dc2ef683e54a16e72ba99652370234ef922c5161b.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b852e0aa377efee56bb399f0fffb499354bcf93b7fa4779b21c85edfbf9ddc86.png",
         "imageGold": "",
         "flavorText": "The blades glow green from things unseen, dark dreams whirling in the felfire gleam.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85d76ec4a717141f602196cf4e3c4c4919deb56e26426571a1b60a6e029fae47.png",
+        "copyOfCardId": [
+            69682
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },

@@ -67,6 +67,9 @@
             1,
             3
         ],
+        "copyOfCardId": [
+            69718
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -242,6 +245,9 @@
         "imageGold": "",
         "flavorText": "Only goblins would think this was a good idea. Even they are starting to have their doubts.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb44a4681fe053104e9e1e0e361aeac71a48b0c9b18b9f7736728e16994705f0.png",
+        "copyOfCardId": [
+            103228
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -284,6 +290,9 @@
         "imageGold": "",
         "flavorText": "Real hunters tame hungry crabs.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/139a5d97abfa2fd719ef2752555c96cf39ad82858667ab1a8ac0ff21cde2785b.jpg",
+        "copyOfCardId": [
+            84938
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -307,6 +316,9 @@
         "imageGold": "",
         "flavorText": "He and Mountain Giant don't get along.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39c3fbe3ea73f620c0b5ba972ea92338775190023eac4f6f866e3aea03f7e872.png",
+        "copyOfCardId": [
+            69720
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -390,6 +402,9 @@
         "imageGold": "",
         "flavorText": "\"Cobra Shot\" hurts way, way, way more than \"Cobra Cuddle.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f3860ee4b054cf08cfc486ea056832ed2938e2b5ef1f2578064de0f43edde97.png",
+        "copyOfCardId": [
+            103196
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -403,15 +418,15 @@
         "cardSetId": 13,
         "rarityId": 4,
         "artistName": "Dany Orizio",
+        "health": 3,
         "attack": 2,
         "manaCost": 3,
-        "durability": 3,
         "name": "Coghammer",
         "text": "<b>Battlecry:</b> Give a random friendly minion <b>Divine Shield</b> and <b>Taunt</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/004f5be05dacb1b6ab029370b4044c180f504af7892600a8cde8a651d7922ba2.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6115528cfede1a301cf409b9f83f12fa7a506e6e63f4b1fd4ec600dca2fbaeab.png",
         "imageGold": "",
         "flavorText": "So you ripped this out of a machine, carved some runes on it, stuck it on a handle, and now it's a weapon of great divine power? Seems legit.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d15a65a80d50ff515b83c6b3e098443b3a62943b515d8602a88cb9a38a6a1d44.jpg",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ef25aa5390e70696b9ac99ff9cca4d39d94283cabfaf5e45a214680bc289d99.png",
         "keywordIds": [
             1,
             3,
@@ -439,6 +454,9 @@
         "imageGold": "",
         "flavorText": "After a while, you don't see the cogs and sprockets. All you see is a robot, a spider tank, a deathray...",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f8ad90a6f4148c0ba6f5ea6c7057ec73127607bbe332e470ef78d5a903baf44.png",
+        "copyOfCardId": [
+            69715
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -452,15 +470,15 @@
         "cardSetId": 13,
         "rarityId": 4,
         "artistName": "Richard Wright",
+        "health": 3,
         "attack": 1,
         "manaCost": 3,
-        "durability": 3,
         "name": "Cogmaster's Wrench",
         "text": "Has +2 Attack while you have a Mech.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/616dd6829d251a5ce88cc02fadd01796d5f2f607cab6db09d6881e2269b2ef1f.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3eec25ddf9df9f4fc79cc8ffa45bf00a4b099d0de6d79aebc9ab039aa53cb915.png",
         "imageGold": "",
         "flavorText": "For tightening cogs and smashin' troggs!",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b1b0c5e261ed3938d1f4f770034af9ed1fd166f9338d98cab4c1951a28a3c83.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6ffc2c8fe18ee81902fae74f09112bcd541a4d5336dc2d87d3bb33180d46971.png",
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -553,6 +571,9 @@
         "imageGold": "",
         "flavorText": "If you're looking to make an \"Emo\" deck, this card is perfect!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5a3bd7972390a464fc7587b87f6da83e27a0722949383bb915a35613de2bf14.png",
+        "copyOfCardId": [
+            102638
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -601,6 +622,9 @@
         ],
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            102216
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -735,6 +759,9 @@
         "keywordIds": [
             12
         ],
+        "copyOfCardId": [
+            69717
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -831,6 +858,9 @@
             53,
             72
         ],
+        "copyOfCardId": [
+            102563
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -871,7 +901,7 @@
         "manaCost": 5,
         "name": "Floating Watcher",
         "text": "Whenever your hero takes damage on your turn, gain +2/+2.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d505619f12489c06b339d345c359baaa17711804b9888743cac3399bf6dc272d.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ce548c800aeb6e8bd7deedb017d52070f1a5a3eddc1dd605c4dcbab83f6c7a6.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34cc18ee1a4d5573e2c386f91225c6cb1bf5aca8f276d76024f77013f0fb4227.png",
         "flavorText": "\"Evil Eye Watcher of Doom\" was the original name, but marketing felt it was a bit too aggressive.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6b3f4f8d494b6734293486da1de110efbf07ce7e73ce9a2ce7f8aa4b2356056.png",
@@ -1033,12 +1063,12 @@
         "cardSetId": 13,
         "rarityId": 1,
         "artistName": "Gino Whitehall",
+        "health": 2,
         "attack": 2,
         "manaCost": 2,
-        "durability": 2,
         "name": "Glaivezooka",
         "text": "<b>Battlecry:</b> Give a random friendly minion +1 Attack.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a2d97a988752274eb5131ea5f1d83c0f25e9016966468c206a2682623ccc90f.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bbc64b7abcb9d290f867d38208c455dbf26e89982ed2041aa23c5e0f1a38b822.png",
         "imageGold": "",
         "flavorText": "For the times when a regular bazooka just isn't enough.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/827d1f7bc0ec914d654abf98333c6210f515e5419bc5a5240c320dc1d797bc72.png",
@@ -1143,12 +1173,15 @@
         "manaCost": 4,
         "name": "Goblin Blastmage",
         "text": "<b>Battlecry:</b> If you control a Mech, deal 6 damage randomly split among all enemies.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77e8c32ae8f471da9c6aed66a551ea570af4a70b1b6d620b95dbb44f2fb9f7e2.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94f86ca91a50eb9799d31d89f3fae2bb7771305c9493f635e6add7c4ad24e9c5.png",
         "imageGold": "",
         "flavorText": "If you can't find a bomb to throw, just pick up any goblin invention and throw that.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a46d80e2d0ea47380cd9dbbeee5a40de604bec5a8f5d424ac83c7497430251f.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            102560
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1212,7 +1245,7 @@
         "manaCost": 5,
         "name": "Hemet Nesingwary",
         "text": "<b>Battlecry:</b> Destroy a Beast.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60a3e23b2fd7e8e42819af295f2a36485b7755ad9af8dedd610ed90fe8bb9d42.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f62adbc3ddfc1bd90cc80feb06fc40ce3a53aedbb87e85b15f504fb8698ccb63.png",
         "imageGold": "",
         "flavorText": "It's hard to make a living as a hunter in a world where beasts instantly reappear minutes after you kill them.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b087bc2c3d5a23b04d2a09a4aa3fec335000b340a73ba5d947d7ee826d126a03.png",
@@ -1320,6 +1353,9 @@
         "keywordIds": [
             8,
             12
+        ],
+        "copyOfCardId": [
+            102658
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1442,6 +1478,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            102981
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1487,6 +1526,9 @@
         "imageGold": "",
         "flavorText": "This is what happens when you allow goblins to be priests.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/283d9ffb01f9c6f4b3dad4338a62bbe347875e215b38b0f9c17b033f0918fd42.png",
+        "copyOfCardId": [
+            86534
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1588,6 +1630,9 @@
         "keywordIds": [
             17
         ],
+        "copyOfCardId": [
+            102213
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1616,6 +1661,9 @@
         ],
         "keywordIds": [
             12
+        ],
+        "copyOfCardId": [
+            102530
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1844,6 +1892,9 @@
             2,
             6
         ],
+        "copyOfCardId": [
+            69719
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1889,6 +1940,9 @@
         "childIds": [
             1652,
             383
+        ],
+        "copyOfCardId": [
+            96916
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1977,9 +2031,9 @@
         "cardSetId": 13,
         "rarityId": 1,
         "artistName": "Richard Wright",
+        "health": 2,
         "attack": 4,
         "manaCost": 3,
-        "durability": 2,
         "name": "Ogre Warmaul",
         "text": "50% chance to attack the wrong enemy.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3083a5ece7399938663251fad8a0a379ff81cc9e2a6d5a8970d734820564ba5.png",
@@ -2077,15 +2131,15 @@
         "cardSetId": 13,
         "rarityId": 3,
         "artistName": "Zoltan & Gabor",
+        "health": 2,
         "attack": 3,
         "manaCost": 3,
-        "durability": 2,
         "name": "Powermace",
         "text": "<b>Deathrattle:</b> Give a random friendly Mech +2/+2.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/809f481f434784e738d3be32d6f9d5da4bbe6c8af5e268173ab8144bbe912b55.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b483e18937a57bd614d30e3daf1bc51287b677172afe7c6f32efbdb892af470d.png",
         "imageGold": "",
         "flavorText": "People assume that shamans control the elements, but really, they have to ask them stuff and the elements are like, \"Yeah ok, sure.\"",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/798370ea307a87127f1e0b2b55aeca43625f03a2a2dae14ba9112d5b087b89fb.jpg",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98181e4992e838a9af493545671132a0122917fd0b1a6292edfb1ccbd580e71d.png",
         "keywordIds": [
             12
         ],
@@ -2356,6 +2410,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            102596
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2430,6 +2487,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            69741
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2476,6 +2536,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36ae0044dc3a68fdadeee0529b912c3e4970bb9d3f41b9778c33c2f591880abd.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            103217
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2542,15 +2605,18 @@
         "artistName": "Christopher Moeller",
         "health": 7,
         "attack": 5,
-        "manaCost": 8,
+        "manaCost": 7,
         "name": "Sneed's Old Shredder",
         "text": "<b>Deathrattle:</b> Summon a random <b>Legendary</b> minion.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69f204b65c29ff9fb9887a62d0e9cc47e74f8192ad0c3fb659780fdcb36d88bc.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3af322efca271d25ecaa05a2ee9f67cb10231093f6428ab0681848774f3bb166.png",
         "imageGold": "",
         "flavorText": "When Sneed was defeated in the Deadmines, his shredder was sold at auction to an anonymous buyer. (Probably Hogger.)",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8bea758f4ef89428880d636e6cbca0899bc384365806168e3bcf2bc3e167e436.jpg",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8064248a5a8163e1e4407e7a72df068a28cdd087540fd2d1a3cd3b684bade78d.png",
         "keywordIds": [
             12
+        ],
+        "copyOfCardId": [
+            120575
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2605,6 +2671,9 @@
             2,
             8
         ],
+        "copyOfCardId": [
+            102558
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2628,6 +2697,9 @@
         "imageGold": "",
         "flavorText": "\"What if we put guns on it?\" -Fizzblitz, staring at the spider-transportation-machine",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19bb105e75a2410c9277b64421cca4216d74c6d1d673c056c41e0b6653179ad1.png",
+        "copyOfCardId": [
+            69716
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },

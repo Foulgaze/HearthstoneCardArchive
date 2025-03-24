@@ -350,7 +350,7 @@
         "manaCost": 1,
         "name": "Azsharan Scroll",
         "text": "<b>Discover</b> a Fire, Frost or Nature spell. Put a 'Sunken Scroll' on the bottom of your deck.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d810106f1ada1e915a226fab77b4581c2c8137c4770f4071ab477d7c9822ec0c.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bbfaa40961918ce14c0b61187c9f32b4a8417c849164c89faebb77d007401710.png",
         "imageGold": "",
         "flavorText": "Kids these days are always scrolling on their tomes.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a62f3fcc6fa8909d785da805111ca9a24d6a986f45acd0a7d5ae00083cee960.png",
@@ -431,12 +431,12 @@
         "cardSetId": 1658,
         "rarityId": 1,
         "artistName": "Tanamaes Leejiarasaes",
+        "health": 2,
         "attack": 3,
         "manaCost": 3,
-        "durability": 2,
         "name": "Azsharan Trident",
         "text": "<b>Deathrattle:</b> Put a 'Sunken Trident' on the bottom of your deck.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7b00183bcc1087a65af7c9664c69abe687385eefafe7e9cf27d8751bf2b3ae8.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02847a2e9727512c2045bd82012db2c0e8bd0121cf12078431103ac4af6fa609.png",
         "imageGold": "",
         "flavorText": "Nevermind the barnacles! A well-crafted weapon is eternally useful.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6827753e6b506947acb4f5125c268ee83d00ffe4fc02a1d4ad01e07f56b69e3f.png",
@@ -728,9 +728,9 @@
         "cardSetId": 1658,
         "rarityId": 1,
         "artistName": "Studio Hive ",
+        "health": 2,
         "attack": 5,
         "manaCost": 5,
-        "durability": 2,
         "name": "Bone Glaive",
         "text": "<b>Battlecry:</b> <b>Dredge</b>.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b9ba197900b0b9358fb8b62ed45ed76bd5d75f56b05ffc77ac46c1bbfe52a7f.png",
@@ -1445,6 +1445,9 @@
             1,
             53
         ],
+        "copyOfCardId": [
+            117037
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1484,7 +1487,7 @@
         "manaCost": 2,
         "name": "Fossil Fanatic",
         "text": "After your hero attacks, draw a Fel spell.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6d1c7e597654900f9225d49d1af5ac8625be11e87b37c75161a5f2808cb7687.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e2ec8dfcb84544b76830bd0e069e49fd2decf15e89364724fb76c92676d1339.png",
         "imageGold": "",
         "flavorText": "Praise Lord Helix!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/464cf2ef521ea003874a07cc1a78d3917aeb7b7a46194b22be929b6b7dc19f59.png",
@@ -1766,7 +1769,7 @@
         "manaCost": 6,
         "name": "Green-Thumb Gardener",
         "text": "<b>Battlecry:</b> Refresh empty Mana Crystals equal to the Cost of the highest Cost spell in your hand.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/049e47ef64d8a6e21c325dbfe683bdb40709a4d9c8acd7a52a78242a89a76599.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4883e5f4234a45d848a395949813eee7c6690bc2db3f6359c4f229638bd66780.png",
         "imageGold": "",
         "flavorText": "Sometimes all a plant needs is, like, A LOT of water.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98bc61ff809a07be07246c07fcb7d0c5a49a1f99cc0534dff70f914a21ea7c6d.png",
@@ -1838,12 +1841,12 @@
         "cardSetId": 1658,
         "rarityId": 3,
         "artistName": "Jason Kang",
+        "health": 2,
         "attack": 3,
         "manaCost": 3,
-        "durability": 2,
         "name": "Harpoon Gun",
         "text": "After your hero attacks, <b>Dredge</b>. If it's a Beast, reduce its Cost by (2).",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c612845cdd0d5bf0ceb79089f3c14765cdbbe23ddaa71a56dc8ca20692e7668.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3002fee9721fb050cbd98b1215774e81368339dc3a4afd666d5d96857c75faf4.png",
         "imageGold": "",
         "flavorText": "Get ooooover here!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d82742ddb34d732b00f33dbc4c52f7d00a63b043889fd946c50eb52a9f2e626.png",
@@ -1918,7 +1921,7 @@
         "manaCost": 3,
         "name": "Herald of Chaos",
         "text": "<b>Lifesteal</b> <b>Battlecry:</b> If you've cast a Fel spell while holding this, gain <b>Rush</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6a93fef8e76e927aa976ef0149a798c508416e68970c4ea90401632a6bea9f9.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab3b88a55c036de457966cfed2a38b4afc8107b859889b9565a1592b2e755946.png",
         "imageGold": "",
         "flavorText": "They used to be called the Heralds of Order before all of this silly Sundering nonsense.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb3a9fd567e44c995a6d5b02e669711ceb9f72112b844161480dd1786e34ac69.png",
@@ -1946,7 +1949,7 @@
         "manaCost": 3,
         "name": "Herald of Light",
         "text": "<b>Battlecry:</b> If you've cast a Holy spell while holding this, restore 6 Health to all friendly characters.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f670424d08f3f40a9352e43d8a1a3bcc1f82188bbcfdd902321bd2524b159e53.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9edf208b0e68b357436ece710adeb9dece0c95917b83a5c97cd3256daacc3edb.png",
         "imageGold": "",
         "flavorText": "Wake up! No sleeping in with the fishes!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a466d05cd125014622a63b2122de3ec99852a6a7fb403bf476b2a332cf977fb1.png",
@@ -2150,8 +2153,8 @@
         "artistName": "BOSi Studio",
         "manaCost": 7,
         "name": "Immortalized in Stone",
-        "text": "Summon a 1/2, 2/4, and 4/8 Elemental with <b>Taunt</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a87567155322ea655dc41b4c018e0193628e663b1152de7e563fbe9f76d1d9c0.png",
+        "text": "Summon a 4/8, 2/4, and 1/2 Elemental with <b>Taunt</b>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7b9995b05e374f2020f67b1536a13b1f778bb79fd14fa3c18b8880158a15be1.png",
         "imageGold": "",
         "flavorText": "They all secretly have '<b>Deathrattle:</b> Become very mortalized.'",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d6315eac368746fe3b64970675df13fb37c49aa367f3e316361792ba4601365.png",
@@ -2162,6 +2165,9 @@
         ],
         "keywordIds": [
             1
+        ],
+        "copyOfCardId": [
+            116713
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2286,7 +2292,7 @@
         "manaCost": 2,
         "name": "Kotori Lightblade",
         "text": "After you cast a Holy spell on this, cast it again on another friendly minion.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d7663365395ca7c7a334cacb23cafea4e486a4234fe6f0d016499298aa2012e.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f96750cab7190faf3c0311ca34e243a9b05750c2c20f32ec5615a01255a8b733.png",
         "imageGold": "",
         "flavorText": "You need healing.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d79620e740ef693f56e8561bcee49d439a37989f60cfe22325ad54710a36829.png",
@@ -2334,7 +2340,7 @@
         "manaCost": 5,
         "name": "Lady Naz'jar",
         "text": "While in your hand, this transforms after you cast a Fire, Frost, or Arcane spell.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d48a2e0b6f9ebb6ca343784db6bed6501afa216411f807f3dbc3a72d67f8279.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ecb737c56a008c339d398d029bc66f9d7e341981cb3f39c576c5d8c3a3bd46b9.png",
         "imageGold": "",
         "flavorText": "Talk about an identity crisis.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3bdd8ea0c93950f7cd28a45c7fd4f73ecf09fd3d861b87d9269e5561293df576.png",
@@ -2472,33 +2478,6 @@
         "imageGold": "",
         "flavorText": "The light of the moon may have disappeared from Zin-Azshari after the Sundering, but not its power.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ce4ee5ae5268bafd716acfc322f44e082cb0d0d44db7fa4281d5aab3dc355c7.png",
-        "isZilliaxFunctionalModule": false,
-        "isZilliaxCosmeticModule": false
-    },
-    "72931": {
-        "id": 72931,
-        "collectible": 1,
-        "slug": "72931-mothership",
-        "classId": 12,
-        "multiClassIds": [],
-        "minionTypeId": 17,
-        "cardTypeId": 4,
-        "cardSetId": 1658,
-        "rarityId": 3,
-        "artistName": "Arthur Bozonnet",
-        "health": 4,
-        "attack": 5,
-        "manaCost": 6,
-        "name": "Mothership",
-        "text": "<b>Rush</b> <b>Deathrattle:</b> Summon two random Mechs that cost (3) or less.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0bf7b48c4d34c2484f7cbce0ed40a37976b6eb09a82c985506b38c4b860e26b.png",
-        "imageGold": "",
-        "flavorText": "Has been known to abduct sea cows and leave kelp circles.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5814aa7d8c6e60bc71fa2f9d31926d51beee21b3ee52689c143670f62c504b66.png",
-        "keywordIds": [
-            12,
-            53
-        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2854,6 +2833,12 @@
         "keywordIds": [
             53
         ],
+        "copyOfCardId": [
+            80169,
+            80170,
+            80171,
+            80172
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3082,7 +3067,7 @@
         "manaCost": 3,
         "name": "Radiance of Azshara",
         "text": "<b>Fire Spell Damage +2</b> Your Nature spells cost (1) less. After you cast a Frost spell, gain 3 Armor.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66072e20a3cb4bda4b0672906864fdb83b2bf3c0bab815a47beb9fd8d3d189fb.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82f73efb5331805db7fb473743cfb61e4b2f301e90034620fe237185e94ae2da.png",
         "imageGold": "",
         "flavorText": "Uses Arcane, Fire, and Frost magic to vanquish Queen Azshara's foes. And for her skincare routine!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d1a841d1bf9a0ee27b703c898938ce66b81480a15ffbf89ab3a3cd8b58dcc9d.png",
@@ -3446,6 +3431,9 @@
         "imageGold": "",
         "flavorText": "Legends say that all those who look into her eyes are turned to plush.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b44820041f962c248f1a8f50aea71cec2a1e92e15979c86d0d035da299015c8.png",
+        "copyOfCardId": [
+            93965
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3464,8 +3452,8 @@
         "attack": 1,
         "manaCost": 1,
         "name": "Shattershambler",
-        "text": "<b>Battlecry:</b> The next <b>Deathrattle</b> minion you play immediately dies.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/058191b5a67cad639ff617de8c454be0c31124db6bbc25d5badb8b6886726f93.png",
+        "text": "<b>Battlecry:</b> Your next <b>Deathrattle</b> minion costs (1) less, but immediately dies when played.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0c8a620676202c5c704f75764506b2c4a09827633e75fe183fd03d885b01888.png",
         "imageGold": "",
         "flavorText": "Someone didn\u2019t realize the \u2018cold, black heart\u2019 thing was supposed to be a metaphor.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e6b1f2d9bf809180c0cffd88203f38a201ad19f3fa48097bc0d3919d582074c.png",
@@ -3513,7 +3501,7 @@
         "manaCost": 3,
         "name": "Shimmering Sunfish",
         "text": "<b>Battlecry:</b> If you're holding a Holy Spell, gain <b>Taunt</b> and <b>Divine Shield</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f79ee9e800113c30ed7eafce656cfa3a9417434e20ee7900cbc2f2e9484b48dc.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a34bde98d05f8effe60725840446a9308d17ca9ab45115df86fb8d7e64d86887.png",
         "imageGold": "",
         "flavorText": "Just keep shimmering, just keep shimmering.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b6806db77dd315fff395f5b704fa28937d486fd20004fab07aff60224b045fe.png",
@@ -3759,6 +3747,36 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "72931": {
+        "id": 72931,
+        "collectible": 1,
+        "slug": "72931-stormcoil-mothership",
+        "classId": 12,
+        "multiClassIds": [],
+        "minionTypeId": 17,
+        "cardTypeId": 4,
+        "cardSetId": 1658,
+        "rarityId": 3,
+        "artistName": "Arthur Bozonnet",
+        "health": 4,
+        "attack": 5,
+        "manaCost": 6,
+        "name": "Stormcoil Mothership",
+        "text": "<b>Rush</b> <b>Deathrattle:</b> Summon two random Mechs that cost (3) or less.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcf52ead4e92623e20f2caac962d991ac170296975a64d02c81fdc6338434e6c.png",
+        "imageGold": "",
+        "flavorText": "Has been known to abduct sea cows and leave kelp circles.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5814aa7d8c6e60bc71fa2f9d31926d51beee21b3ee52689c143670f62c504b66.png",
+        "keywordIds": [
+            12,
+            53
+        ],
+        "copyOfCardId": [
+            90709
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false
+    },
     "75555": {
         "id": 75555,
         "collectible": 1,
@@ -3775,7 +3793,7 @@
         "manaCost": 2,
         "name": "Submerged Spacerock",
         "text": "<b>Deathrattle:</b> Add two Arcane Mage spells to your hand. They are <b>Temporary</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/605b0627c984b225f1ad7398f7169db9483cefa272d7edb8817f511e5b803052.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e41a4cc6a096e9fc796dbb5df5227c44f2634233d00659888844f9f92ad34d54.png",
         "imageGold": "",
         "flavorText": "Time for some out of this world RNG.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a166115c2f9f72c86483d27d280a106c7aa5e94d885d45f957d768dc4d078aac.png",
@@ -3845,9 +3863,9 @@
         "cardSetId": 1658,
         "rarityId": 3,
         "artistName": "Arthur Bozonnet",
+        "health": 3,
         "attack": 2,
         "manaCost": 3,
-        "durability": 3,
         "name": "Swordfish",
         "text": "<b>Battlecry:</b> <b>Dredge</b>. If it's a Pirate, give this weapon and the Pirate +2 Attack.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5929a5cecba0ae50b0df690cfa2b5a16d02f389f2d4e9e1487a857f98641e54.png",
@@ -4110,7 +4128,7 @@
         "manaCost": 2,
         "name": "Tuskarrrr Trawler",
         "text": "<b>Battlecry:</b> <b>Dredge</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b920c046b61b475f6e6f67e1594fe9aee87bac691c07e756705f531a737c076.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b803cd63609ba37e4512a5b68c0530c40ffe3efb3bf7cca151af49f5929a2ffb.png",
         "imageGold": "",
         "flavorText": "\"Fish scales? Junk. A gravestone? Junk. This weird looking puzzle box? Junk. AHA! An Ancharrr!\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ca796117192ec59c2c73b14811ae953cb1ff66c892c902f9e9a10ac785f7bd1.png",
@@ -4217,6 +4235,9 @@
         "imageGold": "",
         "flavorText": "He goes by \u2018Fun-Loving Slitherspear\u2019 on his dating profile.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0836ecd96cce5701a1b1fdbfd3a87b754052204fe50135069fe80046d6c0a788.png",
+        "copyOfCardId": [
+            113111
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4260,7 +4281,7 @@
         "manaCost": 2,
         "name": "Volcanomancy",
         "text": "Choose a minion. When it dies, deal 3 damage to all other minions.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1bd3aa372d482875059ee3b7a370251a80bdfffcde0b3b4f66b3b18d3698e4f.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50e249595bed191c93c9cfef0c994116da837380be09d9327a5e338d8fb36d1e.png",
         "imageGold": "",
         "flavorText": "Do it again, this time with Pompeii and circumstance.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9f625f0538bb41d3c9c48b6d8357b607775fe766d8b6bff5d2dc1dacf828e78.png",
@@ -4292,6 +4313,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dad16b9b46feba7cf65dafa5d8be1425c806614c21821c1bfd8bded890e78e1d.png",
         "keywordIds": [
             86
+        ],
+        "copyOfCardId": [
+            111348
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -4357,7 +4381,7 @@
         "manaCost": 7,
         "name": "Wrathspine Enchanter",
         "text": "<b>Battlecry:</b> Cast a copy of a Fire, Frost, and Nature spell in your hand <i>(targets chosen randomly).</i>",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b46091e1130c22df0e158b60b9f84209190fa80988568d19626c81dbbed9c7c0.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c940981a503ee802c2eff106a2a52181d40f5c139f849cfec408019a3574854.png",
         "imageGold": "",
         "flavorText": "If he could see, he might be better at targeting.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc3c89a5cea9ae21bb7acb03243b780fe05c505deac8c4346156f373469599fb.png",

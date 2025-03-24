@@ -59,6 +59,9 @@
         "keywordIds": [
             265
         ],
+        "copyOfCardId": [
+            113108
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -84,6 +87,9 @@
         "keywordIds": [
             5,
             8
+        ],
+        "copyOfCardId": [
+            69702
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -354,6 +360,7 @@
         "slug": "41406-cornered-sentry",
         "classId": 10,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 27,
         "rarityId": 3,
@@ -363,7 +370,7 @@
         "manaCost": 2,
         "name": "Cornered Sentry",
         "text": "<b>Taunt</b>. <b>Battlecry:</b> Summon three 1/1 Raptors for your opponent.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d62c427dfe6565c163413c72f4e5c16930121c5e6d8477bda6be14fd52846ef.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/522381505d777acd5df475486f9edcab7256e4d5d8a5d267320237b8db24ee87.png",
         "imageGold": "",
         "flavorText": "The Draenei are seriously considering cancelling \"Bring Your Murderous Pet to Work Day.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/529a9cf25bb31d07952447e342d6528d520bcead483f08b88cfe61d6edcbce65.png",
@@ -633,6 +640,9 @@
         "imageGold": "",
         "flavorText": "You can make your own Earthen Scales at home. Step 1: Roll around in the dirt. Step 2: Magic.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6775f42baf569ad67667f36229be1fc0499d39112e97cf0264f90588c2cbf16f.png",
+        "copyOfCardId": [
+            86234
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -920,6 +930,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            111469
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -963,17 +976,20 @@
         "cardSetId": 27,
         "rarityId": 1,
         "artistName": "Dan Scott",
-        "health": 3,
+        "health": 4,
         "attack": 3,
         "manaCost": 4,
         "name": "Fire Plume Phoenix",
         "text": "<b>Battlecry:</b> Deal 3 damage.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d0a4ccf0d31be884cbc606b2a701e5ebd2ccb4369894af652088b56f40bdb3a.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/603f5c9577acdd4b9eaafb138edc30e94e5307ea1dd75bcca5c4037bde8699b9.png",
         "imageGold": "",
         "flavorText": "This is what happens when you use a volcano as a bird bath.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e0aa19a6dd641920994e4af1f17ce24d6c6a09dd44824b03fe8204a73f46dc6.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            120523
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1026,6 +1042,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4335ab45272bd8bd5696ad00bfa24fe7a2fc4bcd6f62d72beb7337329d62166.png",
         "childIds": [
             42044
+        ],
+        "copyOfCardId": [
+            102194
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1223,6 +1242,9 @@
             8,
             10
         ],
+        "copyOfCardId": [
+            102227
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1297,30 +1319,6 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
-    "42011": {
-        "id": 42011,
-        "collectible": 1,
-        "slug": "42011-hallucination",
-        "classId": 7,
-        "multiClassIds": [],
-        "spellSchoolId": 4,
-        "cardTypeId": 5,
-        "cardSetId": 27,
-        "rarityId": 1,
-        "artistName": "Daria Tuzova",
-        "manaCost": 1,
-        "name": "Hallucination",
-        "text": "<b>Discover</b> a card from your opponent's class.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a859ec3891c353fb4d2ae08adb0465334715b026ce9a482355b72b6a24a6b6ec.png",
-        "imageGold": "",
-        "flavorText": "It's the good kind of hallucination.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6ca946ed203cc24fe1df294f678fdc52e7b2406b1a3ac3569b752fe183dfe35.png",
-        "keywordIds": [
-            21
-        ],
-        "isZilliaxFunctionalModule": false,
-        "isZilliaxCosmeticModule": false
-    },
     "41885": {
         "id": 41885,
         "collectible": 1,
@@ -1392,6 +1390,9 @@
         "imageGold": "",
         "flavorText": "Loves goblins. In a light cream sauce.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94fe8850951b341b359238d5a6bb101f8e1d0553b16c9c65708f7548fbf42b39.png",
+        "copyOfCardId": [
+            69728
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1495,6 +1496,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            97376
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1554,6 +1558,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            111381
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1606,6 +1613,9 @@
         "keywordIds": [
             1,
             8
+        ],
+        "copyOfCardId": [
+            69737
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1743,6 +1753,9 @@
         "imageGold": "",
         "flavorText": "Arise, fair sun, and kill my envious foes. They don't have a legendary as beautiful as you.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb600ada42673e4de5ba962102fd5362426cc95cf6676b6121328b3c18fc0c3a.png",
+        "copyOfCardId": [
+            76275
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1847,9 +1860,9 @@
         "cardSetId": 27,
         "rarityId": 3,
         "artistName": "James Ryman",
+        "health": 1,
         "attack": 1,
         "manaCost": 1,
-        "durability": 1,
         "name": "Molten Blade",
         "text": "Transforms into a new weapon when in hand that changes each turn.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba0e3a388f41a51c4394000a60d82d292238e65cd782b6b83a78476d550ef78b.png",
@@ -1917,9 +1930,9 @@
         "cardSetId": 27,
         "rarityId": 3,
         "artistName": "Konstantin Turovec",
+        "health": 3,
         "attack": 3,
         "manaCost": 4,
-        "durability": 3,
         "name": "Obsidian Shard",
         "text": "Costs (1) less for each non-Rogue Class card added to your hand this game.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c677520fd45c8ece391f262b76f0379097d2da5ed6ce9da0d7b4aea8dd4804e.png",
@@ -2126,6 +2139,9 @@
             1,
             8
         ],
+        "copyOfCardId": [
+            76327
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2149,6 +2165,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/155ee529b53774d5ca1004ffb93028096bd855bdda82dbbcac484b5e01707fae.png",
         "keywordIds": [
             21
+        ],
+        "copyOfCardId": [
+            111366
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2242,10 +2261,14 @@
         "manaCost": 2,
         "name": "Radiant Elemental",
         "text": "Your spells cost (1) less <i>(but not less than 1)</i>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0590df082d1ad37ef303dfd789b3c0b7a185d38b5cdfaaab3095957473449376.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cfb81bde79c704aaac40b71dbbc95f5759b4e7309e5e747608e984dbc95afdc.png",
         "imageGold": "",
         "flavorText": "It's a literal lava lamp!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7c8734f7c3f34ab2172d0a89a114883728c9ca17493b80fc1455c6033502df0.png",
+        "copyOfCardId": [
+            76277,
+            119811
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2516,6 +2539,9 @@
             8,
             21
         ],
+        "copyOfCardId": [
+            75543
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2640,15 +2666,19 @@
         "cardSetId": 27,
         "rarityId": 3,
         "artistName": "Jim Nelson",
-        "manaCost": 6,
+        "manaCost": 5,
         "name": "Spikeridged Steed",
         "text": "Give a minion +2/+6 and <b>Taunt</b>. When it dies, summon a Stegodon.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00316f08aa6769ba1a55e0efebcf38a903300b6d2e8301280990b26a314d6c3b.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd8806fd5215b6bd686fbe79d25ffd3475a6f91d4cd782219f80e71457d83818.png",
         "imageGold": "",
         "flavorText": "What beats cavalry? Dinosaur cavalry.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1bbf19fbbc06c13a3f2aedbd9ebf31887d9fb906775ac78e9c97e5b33c5d00f.png",
         "keywordIds": [
-            1
+            1,
+            12
+        ],
+        "copyOfCardId": [
+            111369
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2698,6 +2728,30 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a052371beefba047ed7f5121b05a6d3bb4d0ec79597f00ccd49e6e5d0b106d05.png",
         "keywordIds": [
             12
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false
+    },
+    "42011": {
+        "id": 42011,
+        "collectible": 1,
+        "slug": "42011-spore-hallucination",
+        "classId": 7,
+        "multiClassIds": [],
+        "spellSchoolId": 4,
+        "cardTypeId": 5,
+        "cardSetId": 27,
+        "rarityId": 1,
+        "artistName": "Daria Tuzova",
+        "manaCost": 1,
+        "name": "Spore Hallucination",
+        "text": "<b>Discover</b> a card from your opponent's class.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a859ec3891c353fb4d2ae08adb0465334715b026ce9a482355b72b6a24a6b6ec.png",
+        "imageGold": "",
+        "flavorText": "It's the good kind of hallucination.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6ca946ed203cc24fe1df294f678fdc52e7b2406b1a3ac3569b752fe183dfe35.png",
+        "keywordIds": [
+            21
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2832,6 +2886,9 @@
             8,
             21
         ],
+        "copyOfCardId": [
+            112923
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2857,6 +2914,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1cbf96250b7818be08cf73b2f39e789e0c62060d88d722aa4ea1d194b88f6576.png",
         "keywordIds": [
             11
+        ],
+        "copyOfCardId": [
+            75941,
+            69727
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2981,6 +3042,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            76319
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3058,6 +3122,9 @@
         "keywordIds": [
             8,
             12
+        ],
+        "copyOfCardId": [
+            120996
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3237,6 +3304,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f242b7c9dc840828ea4906424111e8f5a0fa622da992c57aeef1c8e0cc07854.png",
         "keywordIds": [
             38
+        ],
+        "copyOfCardId": [
+            69744
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3560,12 +3630,12 @@
         "cardSetId": 27,
         "rarityId": 3,
         "artistName": "Joe Wilson",
+        "health": 3,
         "attack": 4,
         "manaCost": 6,
-        "durability": 3,
         "name": "Vinecleaver",
         "text": "After your hero attacks, summon two 1/1 Silver Hand Recruits.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/189eda5847ce40e5ca4e88646788c1b4b6679d604f5de69550fcf9bcd9548775.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f3e7240507002371e91e4f0898deba05ddfcc8bad4412dc42f965dc0693484b.png",
         "imageGold": "",
         "flavorText": "George and Karl! Thank the Light we found you!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8aec76f0f29fdf36c89a02f9db6665776ad62a0e5d1f4c61d8c038c75159fd81.png",

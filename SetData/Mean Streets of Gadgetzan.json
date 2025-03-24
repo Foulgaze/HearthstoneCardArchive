@@ -23,6 +23,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            75964,
+            76283
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -47,6 +51,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d5c34843de7781d652e64e8c5e6b29fc3d9ee63b910b1a95115c910fe2e76af.png",
         "keywordIds": [
             1
+        ],
+        "copyOfCardId": [
+            103242
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -146,7 +153,7 @@
         "manaCost": 6,
         "name": "Aya Blackpaw",
         "text": "<b>Battlecry and Deathrattle:</b> Summon a <b>Jade Golem</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00a438f429f8a4357a844c797bfb75bafc47c415d404c6a8b990c9c3f7fd2aec.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/edb66a50dc6811539f2deb39f8c55c003c688e0409e083628f42a8be91e4b97d.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa6c8ceb2b865f09fb25df96865ee93b1f1c2406ec02be256d1c8e16cad14edd.png",
         "flavorText": "Though young, Aya took over as the leader of Jade Lotus through her charisma and strategic acumen when her predecessor was accidentally crushed by a jade golem.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ea629b6ee1f42d3d893f86627da5f0214c00bc4033a5cbb76abf914836ae829.png",
@@ -156,8 +163,14 @@
             26,
             28
         ],
+        "copyOfCardId": [
+            102681
+        ],
         "isZilliaxFunctionalModule": false,
-        "isZilliaxCosmeticModule": false
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            483
+        ]
     },
     "40931": {
         "id": 40931,
@@ -252,6 +265,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c7eb62903ed1973feb2e9d6665ed5500a81967c2c5eb4886985f77f7b6c76d7.png",
         "flavorText": "There's a fine line between \"potion\" and \"grenade\". Wait. Actually, there's not.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/502525ac6378656dddf7837a635fc4167423d1202f6213aaca37f92fb9c79ade.png",
+        "copyOfCardId": [
+            75950
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -363,15 +379,18 @@
         "cardSetId": 25,
         "rarityId": 4,
         "artistName": "Anton Kagounkina",
+        "health": 3,
         "attack": 2,
         "manaCost": 3,
-        "durability": 3,
         "name": "Brass Knuckles",
         "text": "After your hero attacks, give a random minion in your hand +1/+1.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d61fe012953291c1d15d502f8c0afa4424f437cf21fa7602e4ecb7ec65873c13.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/172c860f199d698a98eb16d6a6fac5907c229222c581b30d6fefc1fea1e2b57e.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7915036a4522094c9047ccf3c1b5ef6e06371d07db894f088b2673c4edc2baf.png",
         "flavorText": "For the goon that wants to make a fashion statement.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/32b9c180200222e578e65b025b7064c91ad6787d837d159fd37504a311eafb63.png",
+        "copyOfCardId": [
+            103229
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -416,6 +435,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6726f92231fe5b5b8ab52f3723242673cd0c8c2eb43a94f5d1dfaa31672ae89.png",
         "childIds": [
             42223
+        ],
+        "copyOfCardId": [
+            102628
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -497,6 +519,7 @@
         "slug": "40391-crystalweaver",
         "classId": 9,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 25,
         "rarityId": 1,
@@ -506,7 +529,7 @@
         "manaCost": 4,
         "name": "Crystalweaver",
         "text": "<b>Battlecry:</b> Give your Demons +1/+1.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57c6f9819fdf0f1435d528ed4ea0d434b5200ba923984e639f72c4a4c9ae1d1c.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0f4468e3f35a6dd10529a08db297ae0a010be94ea29be2a63877b08825417c5.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb705f2d7541911cbbcf93970a783925e88663dbac565828562a8e8de3ef10c5.png",
         "flavorText": "The trick is soaking the crystals in warm milk to soften them up.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18c2f71691948013c8c5806382e7b07fdb936fd9128d1da17a24edf32594cad5.png",
@@ -609,6 +632,9 @@
             1,
             8
         ],
+        "copyOfCardId": [
+            102225
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -657,7 +683,7 @@
         "manaCost": 5,
         "name": "Don Han'Cho",
         "text": "<b>Battlecry:</b> Give a random minion in your hand +5/+5.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fd4b6b1cfda8b61f09df8bbdb2673cdda5540f1baf658c58fa99f5aa91a981c.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c5c52bcaadc8e19ff901fe28787a2b2e61942a38ac87e0c4d00b9c9e022b45e.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d54667667dff02059d85375317135c029f356adc48e395a6a830464ebde788da.png",
         "flavorText": "The brilliant mastermind of the Grimy Goons, Han sometimes thinks about ditching the idiot Cho, but that would just tear him apart.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9466723711797b3e0c37d5733174b952a01e9e1bb62046d19d79efc8ac5a279e.png",
@@ -665,8 +691,14 @@
             8,
             27
         ],
+        "copyOfCardId": [
+            102682
+        ],
         "isZilliaxFunctionalModule": false,
-        "isZilliaxCosmeticModule": false
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            482
+        ]
     },
     "40953": {
         "id": 40953,
@@ -742,6 +774,9 @@
             8,
             21
         ],
+        "copyOfCardId": [
+            86535
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -785,6 +820,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53063b19acc9f0b5f9b53f08e81d21900ce4a303526a8ea8b55559aa29f5b989.png",
         "flavorText": "Kazakus has a squad of imps bottling Felfire round-the-clock and he *still* can't keep up with demand.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a4b797e2ed8393b9995b98ed8c3716e43f13a24b6bda8db9dcace857da74ecc.png",
+        "copyOfCardId": [
+            75932
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -848,17 +886,20 @@
         "cardSetId": 25,
         "rarityId": 5,
         "artistName": "Matt Dixon",
-        "health": 4,
-        "attack": 2,
+        "health": 5,
+        "attack": 3,
         "manaCost": 5,
         "name": "Finja, the Flying Star",
         "text": "<b>Stealth</b> Whenever this attacks and kills a minion, summon 2 Murlocs from your deck.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5147c2fd8335d12e08b9c542d0714198aa1af419016d411f5751f1e02e733be9.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a383055327bc364623282ef3fc43102405199d9a7fb79e6f2a282a202ce4a18f.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0c52a89d643449d287aee0dfa8698f63dc1c7d5bc2f644faa3a0338dd931231.png",
         "flavorText": "The last true master of Finjitsu.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e07918b680bc6b6ceac99fd181365e355e975ae2cf2466dc41bf808880192677.png",
         "keywordIds": [
             6
+        ],
+        "copyOfCardId": [
+            120428
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1039,11 +1080,14 @@
         "artistName": "Tyler West Studio",
         "manaCost": 4,
         "name": "Greater Healing Potion",
-        "text": "Restore 12 Health to a friendly character.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/688da52b0dd51320d185dd66d4c13406d6921a24e4343d9f94c4b1e86ce8a1ab.png",
+        "text": "Restore 12 Health to a friendly character. Draw a card.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14a7ea85ccfbb8203fb362c2f30e2aa6dd2c4ef097283cac4fe513e3ddbf9caa.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/efbd3b460a9301035ea2a84ad5eb645225d8bf0dfb38e81abdc45e7296e15762.png",
         "flavorText": "Filled with electrolytes!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ea41f9a6c40af7a3d2bcc9541aef886ecea0d3917121d0fa945ef0f313c01bc.png",
+        "copyOfCardId": [
+            120459
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1066,6 +1110,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9caf221dc46618b93dff27ec284c2a26a8fe7a4ee32baf77e279ed223c7fd32.png",
         "flavorText": "\"Sir, you don't have a permit to park your mount here.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f056492d219895ccbb843106215a05858e93da8f53f256f69b73882b3d03a5a.png",
+        "copyOfCardId": [
+            102573
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1088,7 +1135,7 @@
         "manaCost": 2,
         "name": "Grimestreet Informant",
         "text": "<b>Battlecry:</b> <b>Discover</b> a Hunter, Paladin, or Warrior card.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1a78c692999fe08e699b40f817e60713daec28174020ec5e00b2f27b5fecfc7.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48d19b12f224462700c6d1559a3c0f79c01e7621f979fbaa051979aaa6c0a869.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f24221708cfeb91663d040cd034569fb7f7e65f0caf592c77895b5766b3776f1.png",
         "flavorText": "\"Naw, naw. You're talkin' about Grime BOULEVARD. I ain't know nuthin' 'bout that.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ba2292ea0fa1e1d8fe3d6ac15ad26d6e4a576c77b1d71e7925d1c3270914403.png",
@@ -1097,8 +1144,14 @@
             21,
             27
         ],
+        "copyOfCardId": [
+            103234
+        ],
         "isZilliaxFunctionalModule": false,
-        "isZilliaxCosmeticModule": false
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            482
+        ]
     },
     "40567": {
         "id": 40567,
@@ -1121,6 +1174,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a103112c139226d946f28d7fdffe0fa4fb993c9e93ccbc1a0e10a5e8b33a7c3.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            102196
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1196,7 +1252,7 @@
         "manaCost": 3,
         "name": "Grimestreet Smuggler",
         "text": "<b>Battlecry:</b> Give a random minion in your hand +1/+1.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c88383e194dd151e5d24b399e838c08617580bdf1122d6aa7285b33ce2fb69e3.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/041c71c32e4499e89baf1acc6a3d7b7ed454b2c2e6bc20773529a3ede184bf56.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7cc03791ce17497b2380f41f7431abbc276fdf614947b161ad65d3e4d007fb6.png",
         "flavorText": "She's got anything you want. Need the latest derpinger? No problem!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/156afb7574500b6095152849ee7ec6998e9d5516f565ee58238007acc7487bdf.png",
@@ -1205,7 +1261,10 @@
             27
         ],
         "isZilliaxFunctionalModule": false,
-        "isZilliaxCosmeticModule": false
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            482
+        ]
     },
     "40531": {
         "id": 40531,
@@ -1252,6 +1311,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58e70027b6c7be59f90c6245b784d1df4ad309512cd8e831990b532271a57796.png",
         "flavorText": "\"You look like a Gadgetgun 3000-Mark IV man, am I right?\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79f9ac13883b7b606bab356bfbcda6e7c39564a96178404cfae9b76147fca05d.png",
+        "copyOfCardId": [
+            102652
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1350,6 +1412,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            102661
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1398,6 +1463,10 @@
         "keywordIds": [
             1,
             21
+        ],
+        "copyOfCardId": [
+            106465,
+            120468
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1451,6 +1520,9 @@
             8,
             26
         ],
+        "copyOfCardId": [
+            103193
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1502,6 +1574,9 @@
             8,
             26
         ],
+        "copyOfCardId": [
+            102626
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1515,9 +1590,9 @@
         "cardSetId": 25,
         "rarityId": 3,
         "artistName": "A. J. Nazzaro",
+        "health": 2,
         "attack": 2,
         "manaCost": 2,
-        "durability": 2,
         "name": "Jade Claws",
         "text": "<b>Battlecry:</b> Summon a <b>Jade Golem</b>. <b><b>Overload</b>:</b> (1)",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/abdbe2968cf5b720e615939fb7b2513a7a36283b0227bcb258c0671adaa88cc9.png",
@@ -1579,6 +1654,9 @@
         "keywordIds": [
             26
         ],
+        "copyOfCardId": [
+            102624
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1603,6 +1681,9 @@
             13,
             26
         ],
+        "copyOfCardId": [
+            102606
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1626,7 +1707,7 @@
         "manaCost": 4,
         "name": "Jade Spirit",
         "text": "<b>Battlecry:</b> Summon a <b>Jade Golem</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/243afdd3eddf3fefd6c6971066b627edfd5674e832a1f8cb24f4016271d198b4.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22762983a17c0b9e4c6dc0785d1fed1a0f41bae747a6954b0842138e9fefad5a.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/332d475968cf0b8277033c2afdde2d694a8f7590f625f21adf4be8c3baf8be49.png",
         "flavorText": "\"He's so cute! I just want to squeeze him, then use him for Jade Golem parts!\" - Aya Blackpaw",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/acf1f8a492b7e8faa1c6bd83e365fdf0a76f63f127b092dfa204298c40d65310.png",
@@ -1635,8 +1716,14 @@
             26,
             28
         ],
+        "copyOfCardId": [
+            102662
+        ],
         "isZilliaxFunctionalModule": false,
-        "isZilliaxCosmeticModule": false
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            483
+        ]
     },
     "40697": {
         "id": 40697,
@@ -1661,6 +1748,9 @@
             6,
             12,
             26
+        ],
+        "copyOfCardId": [
+            102602
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1688,6 +1778,9 @@
             8,
             14
         ],
+        "copyOfCardId": [
+            120466
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1710,7 +1803,7 @@
         "manaCost": 4,
         "name": "Kabal Chemist",
         "text": "<b>Battlecry:</b> Add a random Potion to your hand.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dade2995d36185dd2064b23a455d1422d3368a3e2444cec20e7acf3f46f1d2fc.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe7a6a563e8425060ea55daa2970347bfd9a2935bb82cf9e9c1297c4363052bf.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21d831a402d2a196732c82a3db36225ebd8eef4fb15da12de558eda3d3dc8b68.png",
         "flavorText": "Sure you could have that Polymorph potion, but wouldn't you rather have this mystery potion? It could be anything. Even a Polymorph potion!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49dc6b504be20bdf7bf954ee438a79307099b96d548e545944df1601543bd0b4.png",
@@ -1732,7 +1825,10 @@
             29
         ],
         "isZilliaxFunctionalModule": false,
-        "isZilliaxCosmeticModule": false
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            484
+        ]
     },
     "40496": {
         "id": 40496,
@@ -1753,7 +1849,7 @@
         "manaCost": 2,
         "name": "Kabal Courier",
         "text": "<b>Battlecry:</b> <b>Discover</b> a Mage, Priest, or Warlock card.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2d24c81c167f879d6c9c045cfc3804132cfc809a1107725d89c37415ef797b9.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1024b00487378502b2d4d30200ed4df5d02b941aa1fc7664b603c1efe4f76a03.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54e254d7010c1524e989f986d7aa74d404e3e946b6de4e8dd87bd69787fb6c37.png",
         "flavorText": "Hey, you park your kodo under a harpy nest, you get what you deserve.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b9b51bdc3746c70e0c4c0ef6d95dae1d1fe7574b3cf5f63a6f40eaaa027d91c.png",
@@ -1762,8 +1858,14 @@
             21,
             29
         ],
+        "copyOfCardId": [
+            102674
+        ],
         "isZilliaxFunctionalModule": false,
-        "isZilliaxCosmeticModule": false
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            484
+        ]
     },
     "40583": {
         "id": 40583,
@@ -1771,6 +1873,7 @@
         "slug": "40583-kabal-crystal-runner",
         "classId": 4,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 25,
         "rarityId": 3,
@@ -1780,12 +1883,15 @@
         "manaCost": 6,
         "name": "Kabal Crystal Runner",
         "text": "Costs (2) less for each <b>Secret</b> you've played this game.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a89e18d892660431850f2be292552265da86280852964d559548ceda330997e.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f25cfd49608f8a3411793fdb1183c32dcd844fd278671d4bd81bbd007aa5347.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2f9ec164b3c5de97a735253714527bcc74961544266bb01ba1696a21d0b6170.png",
         "flavorText": "\"Listen, I can cut you in on a little of this premium mana, but you can't tell my boss.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d86f39419a540ff185f37d7e85a134e95a3f386d2c7778eb45b0079fd6457347.png",
         "keywordIds": [
             5
+        ],
+        "copyOfCardId": [
+            103203
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1908,7 +2014,7 @@
         "manaCost": 4,
         "name": "Kazakus",
         "text": "<b>Battlecry:</b> If your deck has no duplicates, create a custom spell.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00daf4c4f3ef631ed6365408842ead5914941690cba8a642c1e5ea0d79184d21.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1cbfb36484ac209b1a5649b75187d91a872114b77757f0c7459927cb6449881.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0ac6afd0052ff2b005afeaa1b21aa0ddcf0870f059964248e2c7777658f31d3.png",
         "flavorText": "The mysterious leader of the Kabal is NOT a dragon, and does NOT deal in illegal potions. Any public statements to the contrary will be met with litigation and Dragonfire Potions.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c45f02e862c9c43728a50501d85cc64247006b27ef4839f32e472d527bef91e0.png",
@@ -1958,7 +2064,10 @@
             29
         ],
         "isZilliaxFunctionalModule": false,
-        "isZilliaxCosmeticModule": false
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            484
+        ]
     },
     "40678": {
         "id": 40678,
@@ -2032,6 +2141,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            103227
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2104,7 +2216,7 @@
         "manaCost": 3,
         "name": "Lotus Agents",
         "text": "<b>Battlecry:</b> <b>Discover</b> a Druid, Rogue, or Shaman card.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a38dfd99434b303034f95dab828b6c7b1e53ac3c61a67cb22fe29ef5134815c7.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17c611e87b326ac1645ac1ebb8fa91d9e8430d6f650e27be6ed79a644a921dbb.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7c72473e673d545a9d2f58dca86cd29b81e60822efe46ce87e0e0675b506bef.png",
         "flavorText": "Mostly, they stand around and look cool.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64f376b6495b72973f34639f8bd8583434e26ff521baec649372c38dabc9663c.png",
@@ -2113,8 +2225,14 @@
             21,
             28
         ],
+        "copyOfCardId": [
+            103235
+        ],
         "isZilliaxFunctionalModule": false,
-        "isZilliaxCosmeticModule": false
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            483
+        ]
     },
     "40441": {
         "id": 40441,
@@ -2261,6 +2379,9 @@
         "keywordIds": [
             256
         ],
+        "copyOfCardId": [
+            97608
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2379,6 +2500,9 @@
         "keywordIds": [
             12
         ],
+        "copyOfCardId": [
+            76315
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2491,12 +2615,12 @@
         "cardSetId": 25,
         "rarityId": 4,
         "artistName": "Nick Southham",
+        "health": 4,
         "attack": 2,
         "manaCost": 5,
-        "durability": 4,
         "name": "Piranha Launcher",
         "text": "After your hero attacks, summon a 1/1 Piranha.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c27fc32d19e6ee8e4101cb2f75671c52e8541c0d08309691032f75ce61cb1f2a.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd16884b29049a572e22168613909ffbc4c410f49b51ac347037b6d61f636fc8.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b92bd937e8671ebe57cd2af7cb14a22934274dfa649a342d90254a40652950e.png",
         "flavorText": "A great improvement over the guppy launcher.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/495667179f5479dccd5e111ec759906d85ae98c3fcda27e598bafc90244893eb.png",
@@ -2794,17 +2918,20 @@
         "cardSetId": 25,
         "rarityId": 5,
         "artistName": "James Ryman",
-        "health": 3,
+        "health": 4,
         "attack": 2,
         "manaCost": 3,
         "name": "Shaku, the Collector",
         "text": "<b>Stealth</b>. Whenever this attacks, add a random card to your hand <i>(from your opponent's class).</i>",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/586fc14e19294f9f2f08fde38a42cc52e2fe62833e05ba716a36100275184ab4.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d0f9808a8cb1df64f6b1b663fb3af1c9b9251de586bc9edd78f8736783bc01f.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94cf2c7794d8012eb8e9f162a33870c707d0abc4dc8be0d7ae86acba81fbfa7c.png",
         "flavorText": "Aya even staged an intervention once, but Shaku still insists that he is not a hoarder.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5a03e299ef3f0802eddf14076e4bf4f0956bc5f441947934c85cc85ed41add8.png",
         "keywordIds": [
             6
+        ],
+        "copyOfCardId": [
+            120463
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2830,6 +2957,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4b273465443e7f8568d0ef0975002c761d7eef741c1400c26817992998f8f37.png",
         "keywordIds": [
             12
+        ],
+        "copyOfCardId": [
+            103197
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2874,6 +3004,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c8df698d547d181815d79499b4d43b860b3ffc476fc3cdaf89e1d5ca853b998.png",
         "flavorText": "\"Oh, I'm not serious about it. I only pirate on the weekends.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c281dd69c558318ed75e7ece3b46094aceb5804bf9782c140b5482cd578daae.png",
+        "copyOfCardId": [
+            106467
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2914,6 +3047,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8d21571e2c582527fe06f627a8bcbf8de65527cb4a99d07c097560169911dd7.png",
         "flavorText": "Are you sure these are the crates that are supposed to go to the Gadgetzan petting zoo?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc2fed97c4e8c17042f3187207a23c6ae348c10359d4ac9a1c055a4b578a2ce0.png",
+        "copyOfCardId": [
+            105901
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2985,6 +3121,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            102654
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3010,6 +3149,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a1a6cbbfb0a4da0f51db8ef1182cc3ef6d92acf85c2d0e1cda163ca952ea0ef.png",
         "keywordIds": [
             2
+        ],
+        "copyOfCardId": [
+            106568
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3162,6 +3304,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            102993
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3265,6 +3410,9 @@
             3,
             38
         ],
+        "copyOfCardId": [
+            103215
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3310,6 +3458,9 @@
         "imageGold": "",
         "flavorText": "Hair products are 79% of his monthly budget.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a30ecfead47415c13c8d726c7df01bd0f924a2815bdae377948a1d3a4b49905e.png",
+        "copyOfCardId": [
+            106578
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },

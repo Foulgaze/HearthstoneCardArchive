@@ -21,6 +21,9 @@
         "keywordIds": [
             21
         ],
+        "copyOfCardId": [
+            103236
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -66,6 +69,9 @@
         "imageGold": "",
         "flavorText": "Druids who spend too long in bear form are more susceptible to the whispers of the Old Gods. Right now they are whispering the lyrics to \"La Bamba\".",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4daec5db464da4ba8cd77d911d6deff30232d6e039657f87e4fdbde21b4f0797.png",
+        "copyOfCardId": [
+            102529
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -135,6 +141,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/744318e8d43bd84c7bf61eaed22ab3b48468c5e7b5f27cbda419a8c66361c5f3.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            102655
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -261,12 +270,15 @@
         "manaCost": 7,
         "name": "Blade of C'Thun",
         "text": "<b>Battlecry:</b> Destroy a minion. Add its Attack and Health to your C'Thun's <i>(wherever it is).</i>",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99b7e7f0973e2ba4ebae9131c83fe47f8458518277842f19accd64d7e1c73138.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef4eaf540cd192a9cb202ec7a7f873c33bfbd02561a97b9886a98bc7c8ae48b6.png",
         "imageGold": "",
         "flavorText": "C'Thun demands a sacrifice! Preferably a Deathwing.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ace7b58900e328ec6cfde42ee94dcdbeef1207131d14d3561cf27805e1a7a03d.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            102611
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -292,6 +304,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf7d0d7c901d4f5f90c8fe9e4af39887dd796c8c0aa969d959795fec2084b755.png",
         "keywordIds": [
             13
+        ],
+        "copyOfCardId": [
+            69743
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -386,6 +401,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            76303
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -462,6 +480,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            102680
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -489,6 +510,9 @@
             3,
             8
         ],
+        "copyOfCardId": [
+            102669
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -510,6 +534,9 @@
         "imageGold": "",
         "flavorText": "What's in there? I bet it's cookie recipes!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/269f3cbf14b43acc9e6d45d0515f75f7e6a9bb7c05d0076fcfce527ce2166c30.png",
+        "copyOfCardId": [
+            102562
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -582,6 +609,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/898613957ef88a491b0c0b8689c3f13635613ab4bd3db4d257c5ce8e3ec55473.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            102648
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -660,6 +690,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            102675
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -684,6 +717,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70598a51e178bf4d428ef115c0db31b53cae23647f908da7056ad948f7c1a150.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            103233
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -783,6 +819,9 @@
             1,
             8
         ],
+        "copyOfCardId": [
+            103194
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -807,6 +846,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0988175e7b2b42425f8f557a524fed2338da6087b15a6903cf953ba809c42a0.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            103218
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -855,6 +897,9 @@
         "keywordIds": [
             8,
             12
+        ],
+        "copyOfCardId": [
+            86538
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -957,6 +1002,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            102671
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1055,6 +1103,9 @@
         "keywordIds": [
             5,
             8
+        ],
+        "copyOfCardId": [
+            102226
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1211,7 +1262,7 @@
         "manaCost": 4,
         "name": "Faceless Shambler",
         "text": "<b>Taunt</b> <b>Battlecry:</b> Copy a friendly minion's Attack and Health.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/362b01ee69b20c404272df38329ff25b229707c6f4fccc5ad1addd74d3a034a9.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86378929280358785558b500a14f0835c0672696b9e37d6385b511644159f5d8.png",
         "imageGold": "",
         "flavorText": "\"What is that thing?!\" \"I'm not sure, but it seems to be sort of Ysera shaped.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8429a1a3c8cd4aef8fea495f1b4e90a7e9fb23e49966ff2c536bc6d0b5c54106.png",
@@ -1257,12 +1308,12 @@
         "cardSetId": 21,
         "rarityId": 5,
         "artistName": "Anton Zemskov",
-        "health": 5,
+        "health": 6,
         "attack": 3,
         "manaCost": 4,
         "name": "Fandral Staghelm",
         "text": "Your <b>Choose One</b> cards and powers have both effects combined.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8444b7deb468d65ca3a4fd0cf9a68c8ec739453ad1896780b4ba141e4a86fb3.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/396933a65662021401a7e2ecdbe9a34070eed225378e25301bfb629b7b7e52e8.png",
         "imageGold": "",
         "flavorText": "Always manages to mention \"Back when I was creating the World Tree\u2026\" in EVERY conversation. Sheesh! Enough already.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74af3ef953ea4cc39f6b625b664560c1f452a1313e10e7dab7a73ac8ec154239.png",
@@ -1270,6 +1321,9 @@
             38319,
             38320,
             38321
+        ],
+        "copyOfCardId": [
+            76287
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1291,6 +1345,9 @@
         "imageGold": "",
         "flavorText": "Let's be honest. One option is a lot ragier than the other.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62194b3f816aaa3a133e3be070f77f2b9b6910796357c0f641523ff6916b16fe.png",
+        "copyOfCardId": [
+            69688
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1556,6 +1613,9 @@
             2,
             38
         ],
+        "copyOfCardId": [
+            103239
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1569,12 +1629,12 @@
         "cardSetId": 21,
         "rarityId": 4,
         "artistName": "James Ryman",
+        "health": 2,
         "attack": 4,
         "manaCost": 5,
-        "durability": 2,
         "name": "Hammer of Twilight",
         "text": "<b>Deathrattle:</b> Summon a 4/2 Elemental.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20290ecd2780c25b4a47b45814de5e2f515e0e06d43ebf6884ad3e731dd2941f.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb24bdb4a58112a20cfbacfd49500f31b88eaa124f476acfe1414afc7a7b971a.png",
         "imageGold": "",
         "flavorText": "Stop! It's Twilight Hammer time.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93ec687e91d0881c19229e0e7cceecc1717abffffc563d4f431ead363603492f.png",
@@ -1661,6 +1721,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4252209620c2d53ca602ba99e294d4d5477b0619c7794eeebec0158b720c4e1c.png",
         "keywordIds": [
             1
+        ],
+        "copyOfCardId": [
+            103216
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1794,6 +1857,9 @@
             1,
             8
         ],
+        "copyOfCardId": [
+            102500
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1914,6 +1980,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f87672b8d883e33440f5a7a6cef7441343b981f39084a3d9d0ed83a346f0995.png",
         "childIds": [
             38921
+        ],
+        "copyOfCardId": [
+            103109
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2120,6 +2189,9 @@
         "keywordIds": [
             12
         ],
+        "copyOfCardId": [
+            69736
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2239,6 +2311,9 @@
         "imageGold": "",
         "flavorText": "What happens when you try and corrupt a corrupted firelord? DOUBLE NEGATIVE, INSECT!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab19031aa3a50359a439d31b24437515e3b98c141967437a05d193d3f373b365.png",
+        "copyOfCardId": [
+            86546
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2252,12 +2327,12 @@
         "cardSetId": 21,
         "rarityId": 3,
         "artistName": "Jeremy Cranford",
+        "health": 2,
         "attack": 3,
         "manaCost": 3,
-        "durability": 2,
         "name": "Rallying Blade",
         "text": "<b>Battlecry:</b> Give +1/+1 to your minions with <b>Divine Shield</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c79f3f13ad041be2bc7005a8a655069cbecda73038320f675142c2138135d91b.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b131dfc4b81f748917db6260e0589ac975012eb5f535104e574b54a5eb942614.png",
         "imageGold": "",
         "flavorText": "As far as blades go, this one is pretty great in the motivation department.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7dc47e33e92c3b02384b01859db854b4bc82b28db0ce9cb844a9e76ef1f28e1d.png",
@@ -2290,6 +2365,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e90d1c83d3557a39188eab75fced555b0d6d6be5228d87ac49f3af83752ccbfe.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            120573
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2344,6 +2422,7 @@
         "slug": "38740-selfless-hero",
         "classId": 5,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 21,
         "rarityId": 3,
@@ -2353,7 +2432,7 @@
         "manaCost": 1,
         "name": "Selfless Hero",
         "text": "<b>Deathrattle:</b> Give a random friendly minion <b>Divine Shield</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c31bb27684f654bc595975b5b4be907dc80845332d1a985e8799d3d31ef233f.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1031db94105710cfb1fe097ef64945feda7ff68202b3a4e70899bd50d6808ee2.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ee08641a9527f0e8c35258e0b85500c1082464a242dad123af22f47e10ac754.png",
         "flavorText": "\"Don't worry about me\u2026 I'll just be here... under these tentacles.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3f69b41a7a4aa9639428809b76b44f9598d16f98c5f041c8d11c5f5767abee1.png",
@@ -2385,6 +2464,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df7c02ee00764aed17d2c2ce54e6419db203600cb6b2cd1298b2e1f65d91e793.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            102561
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2671,6 +2753,9 @@
         "imageGold": "",
         "flavorText": "Most citizens of Darkshire wear those surgical masks to prevent spreading Madness to tourists.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27ab0a471c8510f0f1421e07cdd4dd139844b0a13fe3b42cfc256e2a626ba48c.png",
+        "copyOfCardId": [
+            102640
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2716,6 +2801,9 @@
         "imageGold": "",
         "flavorText": "Or if you're too tired, you can just kind of lean against the darkness.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bb3bf9913094f1643f778b4952282582c11f013a42549f0f0f17a456caa6a91.png",
+        "copyOfCardId": [
+            69706
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2740,6 +2828,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bab27c7db8ed81a4b0ebec9dc51d5e2c607e4ff3037b83f63ec5a829b54deb9f.png",
         "keywordIds": [
             3
+        ],
+        "copyOfCardId": [
+            103213
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2803,12 +2894,12 @@
         "cardSetId": 21,
         "rarityId": 4,
         "artistName": "Alex Konstad",
+        "health": 2,
         "attack": 2,
         "manaCost": 5,
-        "durability": 2,
         "name": "Tentacles for Arms",
         "text": "<b>Deathrattle:</b> Return this to your hand.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c48b2a419ed45cd0edf185b44fef038ca659ebf4f81241c17f848ab21e171d1.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d2a75feaa0cd47022e1017e267829637592b9427aecf6f638ebf262b2ee154b.png",
         "imageGold": "",
         "flavorText": "That's right. Garrosh just slapped you to death with a tentacle.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/511ad3cccce8cf2218aa3f600aa13045b03501601af5f95512178216647bc439.png",
@@ -2861,6 +2952,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42cd63df81767beaf81ef515e6f44021da20d4f5f2b808269c06e1b49ab5f071.png",
         "keywordIds": [
             1
+        ],
+        "copyOfCardId": [
+            102209
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2975,7 +3069,7 @@
         "manaCost": 2,
         "name": "Twilight Geomancer",
         "text": "<b>Taunt</b> <b>Battlecry:</b> Give your C'Thun +1/+1 and <b>Taunt</b> <i>(wherever it is)</i>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/844ab3847dfa4bccf9930bbd56e2f87d63eaa6aaced7025734c68a12b28892bb.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3c63b11d6cacb24b569f629ce1695eb4694c0cf710e52391f6e97177fcb570b.png",
         "imageGold": "",
         "flavorText": "\"Ok C'Thun, repeat after me: 'Your mother was a hamster.'\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/776ce9c7b15d041e78217c8c370640c0e5cfecc1d6b4bc30e314d510742621de.png",
@@ -2986,6 +3080,9 @@
         "keywordIds": [
             1,
             8
+        ],
+        "copyOfCardId": [
+            102668
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3045,6 +3142,9 @@
             1,
             8
         ],
+        "copyOfCardId": [
+            102678
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3096,6 +3196,10 @@
         "keywordIds": [
             12
         ],
+        "copyOfCardId": [
+            103220,
+            120880
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3118,6 +3222,9 @@
         "imageGold": "",
         "flavorText": "Nothing unburdens your soul like a good ushing!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f264b6e6544716ce66f0368e0fa220f7fa29fcd1b5e056bcc1dcc308096f3fae.png",
+        "copyOfCardId": [
+            103225
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },

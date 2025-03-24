@@ -138,7 +138,18 @@
             808,
             340,
             301,
-            489
+            489,
+            1186,
+            113184,
+            70980,
+            55030,
+            113321,
+            70485,
+            70484,
+            70474,
+            70475,
+            71422,
+            55778
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -192,6 +203,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4aba6d20e4d466bcc80518d2dc16e2214f0793c129dff00a8f4972b2290a5571.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            84937,
+            111357
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -445,7 +460,7 @@
         "manaCost": 4,
         "name": "Cariel Roame",
         "text": "<b>Rush</b>, <b>Divine Shield</b> Whenever this attacks, reduce the Cost of Holy spells in your hand by (1).",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63332a06156fb2cf8db3ee9f44a204d2668d229b44780e0de86a7eaced64297f.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c56bfe38761cc3b8b4fe3ae979123eeb4a90fecb5f25f661702ae09cd6c09e4.png",
         "imageGold": "",
         "flavorText": "Cariel had pledged her honor to the Alliance, but when someone matching her long-lost sister's description was sighted at the Crossroads, Cariel did the unthinkable: she abandoned her post and set out across the Barrens.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2f3b975b072812cc7b8723a8f133853be2bd466de242ca224f654a2d69895ab.png",
@@ -765,7 +780,7 @@
         "manaCost": 8,
         "name": "Deviate Dreadfang",
         "text": "After you cast a Nature spell, summon a 4/2 Viper with <b>Rush</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2ad6a1a7d37252531cea078100405ca8a83992170b3457356dcf1ec0b59728b.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/830e07d9c2ff9a166e75619ccccdf4cf09e4666d1a53484927ebf314fa58fd20.png",
         "imageGold": "",
         "flavorText": "Even with wings, snakes STILL don't have legs.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d34a4bb3a0a960227908820e2ec97f63ae487da3104b1ed2871284897af5a67b.png",
@@ -852,7 +867,7 @@
         "manaCost": 3,
         "name": "Devout Dungeoneer",
         "text": "<b>Battlecry:</b> Draw a spell. If it's a Holy spell, reduce its Cost by (2).",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5d66b2fcd251282cf93fc7e4f23ba8a301701486c847381268f3efed06d7ce7.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/550a3282b1836e7d8de467055a794cee1956be637e2ce89de5b6f40fb9b6e39b.png",
         "imageGold": "",
         "flavorText": "\"Please do smaller pulls, this is my first time healing.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e60aa64e6af70917a21eeaf4d2ae43fd708d3379abf99d7b238480430672ecda.png",
@@ -1021,6 +1036,10 @@
             12,
             53
         ],
+        "copyOfCardId": [
+            75925,
+            117030
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1172,7 +1191,7 @@
         "manaCost": 3,
         "name": "Frostweave Dungeoneer",
         "text": "<b>Battlecry:</b> Draw a spell. If it's a Frost spell, summon two 1/1 Elementals that <b>Freeze</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07d2d02c7cf45bc8e4fc9e6ee29cb452d212c8c6d72a4aca847fadd502f9c15b.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ba0de16a33e8d60ee59f0913b7b868738db527cb39460c2dd3eb9d5f707d739.png",
         "imageGold": "",
         "flavorText": "It's a woven blanket of ice but surprisingly comforting.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e29ad5f1568686abc8d059cea0781b8871efe6334e4a1e7f56a824a75a620af7.png",
@@ -1282,6 +1301,9 @@
         "imageGold": "",
         "flavorText": "\"What kind of bedtime story is this?\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/136def7e148121405415f851c5d57eb2d1f7568bd5990e8d76eca1b68ce1c30c.png",
+        "copyOfCardId": [
+            75924
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1325,7 +1347,7 @@
         "manaCost": 3,
         "name": "Guff Runetotem",
         "text": "After you cast a Nature spell, give another friendly minion +2/+2.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/beb0c4be03d0d33f8368e556d235c8803f2c0feb51972bb957a5efc8722b08c7.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5fd816c2c2fbc326323107d142fac2cf8812387f202a8050a958bf4b8b256790.png",
         "imageGold": "",
         "flavorText": "\"By the twins above and twins below, our companions will lead us through.\" \u2014Guff Runetotem",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6ffa5ac8524379239ab16e6a77dfdf4ca6029459afea5c8355bda65cd89be25.png",
@@ -1642,7 +1664,7 @@
         "manaCost": 1,
         "name": "Knight of Anointment",
         "text": "<b>Battlecry:</b> Draw a Holy spell.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e62b3075f37bdf70a18d51a4d15828ab3e08e1839377a75ccaa62ade0116a614.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5dc250f0688564009c656a624a29f8c3f082497de8e86d98e6f0ecfec9b6f7ea.png",
         "imageGold": "",
         "flavorText": "\"I dub thee... injured.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/549cb98d7a5dfb32af32439e2eff543fd49ccb2501c95f8a80c0bfeade0ace41.png",
@@ -1752,7 +1774,7 @@
         "manaCost": 6,
         "name": "Lady Anacondra",
         "text": "Your Nature spells cost (2) less.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70b16a63d4c09b4cd1912bfa41160c0f3aafe74d745d87e48eeb0021059f9eb3.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/689cff773dbc30072ecf848072d4bd3fa2f0f36c349234146f0d1fc3d1314d69.png",
         "imageGold": "",
         "flavorText": "Do you think she got her name before or after she turned into a snake?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1014b6797ca88075a616d2983bc20519b339431eaf9e26ea21b846ac1c5f962f.png",
@@ -1775,13 +1797,16 @@
         "manaCost": 6,
         "name": "Lightshower Elemental",
         "text": "<b>Taunt</b> <b>Deathrattle:</b> Restore 8 Health to all friendly characters.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28af2ddce53061e139416fb4796c1d83e38da3b79c6cd3cd0c606af52d70252a.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89056d1e9d553852fe1c41f82d9cc1849aa52ab9a77f967cd104e4e27d3c33b1.png",
         "imageGold": "",
         "flavorText": "The forecast calls for light showers, but you won\u2019t need an umbrella.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6cacd524a34a74aabce4ab6052f26dbb852245acb357dadf45ccff74b86fb6ce.png",
         "keywordIds": [
             1,
             12
+        ],
+        "copyOfCardId": [
+            120787
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2205,6 +2230,9 @@
         "keywordIds": [
             5
         ],
+        "copyOfCardId": [
+            120392
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2269,9 +2297,9 @@
         "cardSetId": 1525,
         "rarityId": 3,
         "artistName": "Jakub Kasper",
+        "health": 3,
         "attack": 3,
         "manaCost": 4,
-        "durability": 3,
         "name": "Outrider's Axe",
         "text": "After your hero attacks and kills a minion, draw a card.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f3052991d6f60e020a21d7fbc9ce4f503a38635367fb45e301a65f6944a5fec.png",
@@ -2410,6 +2438,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91a705830ed5aa6f40ea8f3d46914c7d916bf946fd13a1e0b1fd2f41c6fee1ad.png",
         "keywordIds": [
             99
+        ],
+        "copyOfCardId": [
+            71717
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2569,7 +2600,7 @@
         "manaCost": 3,
         "name": "Primal Dungeoneer",
         "text": "<b>Battlecry:</b> Draw a spell. If it's a Nature spell, also draw an Elemental.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f27de1d8f8764caaf4e2707542c99a9abaa27ee0e6ed517a9426baa4d3b90c3.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bddf0ff61951d81eb061101207b629a87cb20d4327c4d42bbd1ea4f04490347.png",
         "imageGold": "",
         "flavorText": "They wanted a Mature Dungeoneer. Instead they got this.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/045f44060d6987f879443cfbe661d97e8c4b9bfacbca21ee650fd65cfa1e36e4.png",
@@ -2601,6 +2632,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8bd9be9baf1b33b483cc7b5422625d953f16e8b628e729eeaa60c097a2dffe92.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            75532
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2837,7 +2871,7 @@
         "manaCost": 3,
         "name": "Rimetongue",
         "text": "After you cast a Frost spell, summon a 1/1 Elemental that <b><b>Freeze</b>s</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eade7356cf6d93d967bdd02411d5b5fc7366f293ae038cefd54b913eeff9e316.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/316e55a29ee13b68f0d8f1d636c1400dbb9c337076cad7b3c87e3f5c45eeec78.png",
         "imageGold": "",
         "flavorText": "Warriors are red, Frost spells are blue, If you're being hit by a weapon, Rimetongue's got you.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2bb7515f446437909bcbc501a643bcf1744da285f7d474c4236d5ae001e2917a.png",
@@ -2957,12 +2991,12 @@
         "cardSetId": 1525,
         "rarityId": 1,
         "artistName": "Konstantin Turovec",
+        "health": 3,
         "attack": 2,
         "manaCost": 3,
-        "durability": 3,
         "name": "Seedcloud Buckler",
         "text": "<b>Deathrattle:</b> Give your minions <b>Divine Shield</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3addb90d1014b838c00a4f530e9038602c6ef24bdf05f19080b40bf67c459f31.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25fb844b49b85d7f7ac1f2916bf91d061542891893020de1cc9045001415b97c.png",
         "imageGold": "",
         "flavorText": "A shield to some, a frisbee to others (mainly dogs).",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/367bbed7a34bc91146228d59cc635fe27b391b5ba890eb1657084d45726f58dd.png",
@@ -3303,6 +3337,9 @@
         "imageGold": "",
         "flavorText": "About as close to feeling guilt as a warlock's ever going to get.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39b6f40893f275fb6d93dc0435107ac407ba035ce465ec5da32d73d9beaab7f6.png",
+        "copyOfCardId": [
+            75991
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3404,7 +3441,7 @@
         "manaCost": 4,
         "name": "Spirit Healer",
         "text": "After you cast a Holy spell, give a random friendly minion +2 Health.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca9cc6ae9ae47d9e68605a017f755120b98711aa614b7323ac0cb7eca4a264ac.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ac9142928bd9426b6cb92473348458683d60323b351e81de27e4559e57c36be.png",
         "imageGold": "",
         "flavorText": "\"You again? What did I tell you about trying to fight ALL the quilboars.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ca42c0d117dadc3e1733b2f7cadc4764ef8d07b1f66f5b5731a284348552708.png",
@@ -3523,12 +3560,12 @@
         "cardSetId": 1525,
         "rarityId": 4,
         "artistName": "Kagi ",
+        "health": 2,
         "attack": 2,
         "manaCost": 3,
-        "durability": 2,
         "name": "Swinetusk Shank",
         "text": "After you play a Poison, gain +1 Durability.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/256925da4c785216f76e0fd4a2b69f2532ad25e54d3763cccdac424da3de71af.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a75eed6612bdfd731d639bcfd5cb5ffdbd5afb561537474682d66f8e13a6c6fd.png",
         "imageGold": "",
         "flavorText": "Comes with a rack of ribs!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34e7a880a83bffe26b7bea4d57f1e5c6a51e5ab5170484888fc80a6f5471b4e1.png",
@@ -3545,9 +3582,9 @@
         "cardSetId": 1525,
         "rarityId": 3,
         "artistName": "Jason Kang",
+        "health": 2,
         "attack": 1,
         "manaCost": 2,
-        "durability": 2,
         "name": "Sword of the Fallen",
         "text": "After your hero attacks, cast a <b>Secret</b> from your deck.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94d4640de5d6a57e69d22c7b2000ec4314ade40e39e9fd8a244fc438db162b38.png",
@@ -3658,7 +3695,7 @@
         "manaCost": 3,
         "name": "Tamsin Roame",
         "text": "Whenever you cast a Shadow spell that costs (1) or more, add a copy to your hand that costs (0).",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/581b36d5f3ad079190c56799ef34e6ad6449f043e08b6fa55d6e7c8b152aef3d.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea917ff17001d4ac03d4e70d4bff5ce44b810b53078ac5d6ba6f686c8d3b0ee4.png",
         "imageGold": "",
         "flavorText": "In life, Tamsin Roame was one of the Alliance's most promising mages; now she is the Horde's most dangerous warlock.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84ff735addc5e4d63f058a80885b9af6151a4f37119c3fe548340de792749c00.png",
@@ -3736,6 +3773,9 @@
             1,
             12
         ],
+        "copyOfCardId": [
+            111354
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3804,7 +3844,7 @@
         "manaCost": 2,
         "name": "Toad of the Wilds",
         "text": "<b>Taunt</b> <b>Battlecry:</b> If you're holding a Nature spell, gain +2 Health.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e15c9a8c565b9680a9feb3865f3954f11e7aacab201e589ea6708ab49ce57d2.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41a1290884fa28f15a4706963f665527e377ff913d58f73769bf98db49487bc5.png",
         "imageGold": "",
         "flavorText": "\"Someday we'll find it. The Oasis Connection. The peons, the caravans, and me.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3eba78c1103fe63784f1ccae602540c676f548719de38156fe0bb334deb2e2e.png",
@@ -3825,17 +3865,20 @@
         "cardSetId": 1525,
         "rarityId": 3,
         "artistName": "Kagi ",
+        "health": 2,
         "attack": 1,
         "manaCost": 1,
-        "durability": 2,
         "name": "Tuskpiercer",
         "text": "<b>Deathrattle:</b> Draw a <b>Deathrattle</b> minion.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/062b9ffc06fe15bd8c752388cff493f39d29a554611ff0ced4b0ea330c6dd758.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ab464236479c04753d7ab5be014448a3f7b53157d402c8999f00043839d6206.png",
         "imageGold": "",
         "flavorText": "It's the Barrens, everything has tusks! The Quilboar have tusks, the boars have tusks, the tusks have tusks.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e1b3dcae2ff859283acdcc0b5fd0a4ef4fbf1f706fa9d66bab9c623f8ed8884.png",
         "keywordIds": [
             12
+        ],
+        "copyOfCardId": [
+            120785
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3952,9 +3995,9 @@
         "cardSetId": 1525,
         "rarityId": 3,
         "artistName": "Jason Kang",
+        "health": 2,
         "attack": 1,
         "manaCost": 4,
-        "durability": 2,
         "name": "Venomstrike Bow",
         "text": "<b>Poisonous</b>",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a313ac4429b485bc160997361fbde6cd3c779a5760c425fa33db87c48349e3e0.png",
@@ -3982,7 +4025,7 @@
         "manaCost": 4,
         "name": "Veteran Warmedic",
         "text": "After you cast a Holy spell, summon a 2/2 Medic with <b>Lifesteal</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79de52096e6e594971da38697aca10c7c6ddde1de48a2213395a78309cd9e715.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e64eb53000c8603d33a050c19fb99baee88eefd46e3c34079173f03e8deb6be8.png",
         "imageGold": "",
         "flavorText": "In times of war, warmedics bring their own medics.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fef3e59d7909a7c0e92b3a754124f79ae09a2f71a90749784fd37dd2a1a592e4.png",
@@ -4067,6 +4110,9 @@
         "imageGold": "",
         "flavorText": "If you have The Vapors, your Humors might be imbalanced.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/280dd989d803ecb3fd859a343d13397230e7a1f3a1c1b707f454df3da61b0364.png",
+        "copyOfCardId": [
+            120881
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4158,12 +4204,12 @@
         "cardSetId": 1525,
         "rarityId": 3,
         "artistName": "Luca Zontini",
+        "health": 4,
         "attack": 1,
         "manaCost": 1,
-        "durability": 4,
         "name": "Whetstone Hatchet",
         "text": "After your hero attacks, give a minion in your hand +1 Attack.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91b333365362b488cf5f223b21485208a342c8268d7b097e580376932000146b.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8397bb98bfc31fd311b6d0c45f9d837cc0fb6a2c1458850e5942d34c24cea2f5.png",
         "imageGold": "",
         "flavorText": "A bad hatchet can make a good spear better.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a416d77346ef1181de8af841a6dbb9c1bc7c2a16947504c0be6685d91881b785.png",
@@ -4264,6 +4310,9 @@
         "keywordIds": [
             53
         ],
+        "copyOfCardId": [
+            117039
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4273,6 +4322,7 @@
         "slug": "63188-xyrella",
         "classId": 6,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1525,
         "rarityId": 5,
@@ -4282,7 +4332,7 @@
         "manaCost": 4,
         "name": "Xyrella",
         "text": "<b>Battlecry:</b> If you've restored Health this turn, deal that much damage to all enemy minions.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12b19bddc80b2c6b1e52f1e15d93336f91beb95eaeb912624b316673f05fc2c2.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bef59e49aaa9d06786fcbb5c87455fd7f0b9f372e85370588ff40e26e7a7a241.png",
         "imageGold": "",
         "flavorText": "On the Night of Falling Stars, Xyrella had a vision of a shattered naaru. \"Go to the Barrens,\" the being said. \"Seek the shards of my broken body. Restore me, and I will restore your daughter.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4f41a19b0ab5ae1a0e81162bb4265caec76a329048937b9f2a002b07b2879d0.png",

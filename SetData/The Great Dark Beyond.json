@@ -32,12 +32,12 @@
         "cardSetId": 1935,
         "rarityId": 4,
         "artistName": "Anzka Nguyen",
-        "health": 5,
-        "attack": 5,
-        "manaCost": 5,
+        "health": 4,
+        "attack": 4,
+        "manaCost": 4,
         "name": "Ace Wayfinder",
-        "text": "<b>Battlecry:</b> Gain two random <b>bonus effects</b>. The next Draenei you play gains them as well.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4158473e26926a34bb5dac4b1a803c36a767a67583380c417e0830b9e30def1.png",
+        "text": "<b>Battlecry:</b> Gain two random <b>Bonus Effects</b>. The next Draenei you play gains them as well.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf652fc98055aa545c145af016f52b191c17b55ae78f61f87cc036378793ad2c.png",
         "imageGold": "",
         "flavorText": "She's the ace of space.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2507f93b657e3ab533bb9bcba6431ad6719fb74d8f71801dfb22e5393cd1c2d3.png",
@@ -91,8 +91,8 @@
         "artistName": "Sergey Tsvelykh",
         "manaCost": 5,
         "name": "Alien Encounters",
-        "text": "Summon two 2/5 Beasts with <b>Taunt</b>. Costs (1) less for each card you <b><b>Discover</b>ed</b> this game.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd0cd0eb5d3a94982beee9c19a6bf3f16162c3116517a717fe6987159e571711.png",
+        "text": "Summon two 2/4 Beasts with <b>Taunt</b>. Costs (1) less for each card you <b><b>Discover</b>ed</b> this game.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb4b5477dbbd94944b53e7fddeabd87cc6e5d89a77256a1dffa4847a5dc125b7.png",
         "imageGold": "",
         "flavorText": "Close encounters of the cuddly kind.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9073717f33c496fa335aa77e45c7b75cfbce6a967bf95f5a06ce26ca7f085ae8.png",
@@ -122,7 +122,7 @@
         "manaCost": 3,
         "name": "Anchorite",
         "text": "Whenever another minion is <b>Overhealed</b>, give it that much extra Health.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69862fe8116e0340d3c61b5759807589e62d1a5d5befeb815697c3b0bf41c697.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9061d05a3d0227cb896fe6f2fa75e068fc09f2427919fc608f5fbbbfebec9083.png",
         "imageGold": "",
         "flavorText": "A Priest is nothing without their anchor. Wait, what?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb303e93bc4fa41ee00f3a20862a90c4b92c3d94ee9dc317a403760ee7d28c27.png",
@@ -172,8 +172,8 @@
         "attack": 3,
         "manaCost": 4,
         "name": "Arkonite Defense Crystal",
-        "text": "<b>Taunt</b> <b>Deathrattle:</b> Gain 6 Armor. <b>Starship Piece</b>",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf082e28cc90f3aaf383e11a5ef227e1cb1ee948a8a83a76ef3734ee918ab319.png",
+        "text": "<b>Taunt</b> <b>Deathrattle:</b> Gain 4 Armor. <b>Starship Piece</b>",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f66836ec43a3b30cfe2cb6275fdd7f670d0c8de5c9254c98b260cf61448f63fb.png",
         "imageGold": "",
         "flavorText": "I was just asking if that's what you wanted your Starship to look like, there's no need to get defensive.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/257cfd3f6b516c29d1e78fc7de8085aa93985e712eb09280f7d4d53fe07d4baa.png",
@@ -244,6 +244,44 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "113171": {
+        "id": 113171,
+        "collectible": 1,
+        "slug": "113171-artanis",
+        "classId": null,
+        "multiClassIds": [
+            2,
+            4,
+            6,
+            7
+        ],
+        "cardTypeId": 3,
+        "cardSetId": 1935,
+        "rarityId": 5,
+        "artistName": "Grafit",
+        "health": 30,
+        "manaCost": 7,
+        "armor": 5,
+        "name": "Artanis",
+        "text": "<b>Battlecry:</b> Summon two 3/4 Zealots with <b>Charge</b>. Your Protoss minions cost (2) less this game.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a579d818dd7f68dbbd0885fc52f32ca7b1c2347af589665ada2edf69fe2c334f.png",
+        "imageGold": "",
+        "flavorText": "Artanis will forge a new future for the protoss, even if it means destroying everything they ever knew.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23dd08187b3495eeb7071bb101c2a72b27b2069500544489c75ab0f425c05b42.png",
+        "childIds": [
+            113172,
+            113732
+        ],
+        "keywordIds": [
+            4,
+            8
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
+    },
     "111020": {
         "id": 111020,
         "collectible": 1,
@@ -255,12 +293,12 @@
         "cardSetId": 1935,
         "rarityId": 5,
         "artistName": " Mooncolony",
-        "health": 5,
+        "health": 4,
         "attack": 4,
-        "manaCost": 5,
+        "manaCost": 4,
         "name": "Askara",
         "text": "<b>Battlecry:</b> The next Draenei you play summons a copy of itself.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10aaa4a0a02c867b7813e387dca62abf7cdea785def2db6fabdc4cee2f8b8460.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca0c51d32ccefbcc63227c5565b16c308a79353131d1d4f8f42f2c8a6a1033aa.png",
         "imageGold": "",
         "flavorText": "That's Askara card!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1fe64b2d5bba158f3f028dc653336fefa9c56b7ecb3f24ec95b1a191217f326.png",
@@ -335,12 +373,12 @@
         "cardSetId": 1935,
         "rarityId": 1,
         "artistName": "Patrik Bjorkstrom",
-        "health": 1,
+        "health": 2,
         "attack": 1,
         "manaCost": 1,
         "name": "Astral Vigilant",
         "text": "<b>Battlecry:</b> Get a copy of the last Draenei you played.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c41305d864fb815eef8f04c05a63a5e52ba60e281807024e76d35841fca0be96.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83af1b231c79d524ea04bd48f3649f14a8d8c5661165bd74df2be341ac9b6426.png",
         "imageGold": "",
         "flavorText": "Draenei are so dedicated that they remain vigilant even in death.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0133ea43175582e83f6d8830d456c7929e69964906c62d8cd7b562d9612ae7f5.png",
@@ -422,7 +460,7 @@
         "manaCost": 6,
         "name": "Bad Omen",
         "text": "In 2 turns, summon two 6/6 Demons with <b>Taunt</b>. If you're building a <b>Starship</b>, summon them now.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be5e5b5f91717ee903527df49d62b3f23c0885dd94a132af46435ae8085eb091.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8730e491bdd1470b03a8e11faa12d7830549feb52271bf4ea7c17905333a8a96.png",
         "imageGold": "",
         "flavorText": "What good is a sign from alien life if I CAN'T EVEN READ IT?!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5324fdd857ed46ee2ec914b7e5396882f343fd97396388e3e68e5d9fe19e9a26.png",
@@ -437,6 +475,35 @@
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "112812": {
+        "id": 112812,
+        "collectible": 1,
+        "slug": "112812-baneling-barrage",
+        "classId": 1,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Felideus Bubastis",
+        "manaCost": 1,
+        "name": "Baneling Barrage",
+        "text": "Get a 1/1 Baneling that explodes. If you control a Zerg minion, get another Baneling.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73848bb15cdcef8145b23103e8c0392614c27805da13d566035d516f5bb2e526.png",
+        "imageGold": "",
+        "flavorText": "Banelings, banelings, banelings OHHHH!",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d781cf825eebbd1f3bb3de76d8d52c586d9b923a15fa7b77b7e14691e76192e3.png",
+        "childIds": [
+            113666
+        ],
+        "keywordIds": [
+            12
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
     },
     "111596": {
         "id": 111596,
@@ -556,7 +623,7 @@
         "manaCost": 3,
         "name": "Blazing Accretion",
         "text": "<b>Battlecry:</b> Destroy the top 3 cards of your deck. Any Fire spells or Elementals are drawn instead.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a52a093ace4c0ad3b236500774c4dbbcd777176c56e7e47228150521ad22b80.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49322280ef91d27a7864bc40d5368dba11a6578f080f451f3131b910994d3980.png",
         "imageGold": "",
         "flavorText": "Much like the Draenei, this Elemental just wants a place to call home. Unlike the Draenei, it incinerates everything it touches.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c44ece45030b11bf369582d1efb4d4b356f8240a53faacaa40b328254474f87.png",
@@ -565,6 +632,32 @@
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "113192": {
+        "id": 113192,
+        "collectible": 1,
+        "slug": "113192-blink",
+        "classId": 7,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Ramzy Kamen",
+        "manaCost": 2,
+        "name": "Blink",
+        "text": "Draw a Protoss minion. <b>Combo:</b> It costs (2) less.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21789ecce24edf46b3ffae6725edb01bedba03672df5318afda7ff8c8c2bd76e.png",
+        "imageGold": "",
+        "flavorText": "Highly mobile. Solid range. Awful at staring contests.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f97d1968c20d1af5a80de9d81fc51d363f92b2e18c607d76e30b8efa4bbc5759.png",
+        "keywordIds": [
+            13
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
     },
     "110743": {
         "id": 110743,
@@ -582,7 +675,7 @@
         "manaCost": 4,
         "name": "Bolide Behemoth",
         "text": "<b>Battlecry:</b> Your Asteroids deal 1 more damage this game. <b><b>Spellburst</b>:</b> Shuffle 3 of them into your deck.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa5ff663055115de292ec068f8aea80039827c14f2e9165b1a94c342276e3d14.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09062a6cab3f9ff322f5fe9e207a97db84006e09d6a024a6455ba30d138e781d.png",
         "imageGold": "",
         "flavorText": "There's only so many words that exist for rocks in space.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d86ef798b6be2ad77325e3c9e9cdc6027d935e0daa9a912501688d58fd5a318.png",
@@ -612,7 +705,7 @@
         "manaCost": 2,
         "name": "Braingill",
         "text": "<b>Battlecry:</b> Give all friendly Murlocs \"<b>Deathrattle:</b> Draw a card.\"",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7b151481dd03c526bda2a5c96ba8c4cbb45265f0f400f2a55e32ac4da5b16f6.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8057e4b776ba003a9bc0b356ee4aa3de34bd25787acdd11ed49f7ab329331651.png",
         "imageGold": "",
         "flavorText": "\"That is highly illogigill, Captain.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/015aa7845cf4cf09db57c3e0d8c9c8029d5415fa7529ab3854d9c0016af74d1e.png",
@@ -643,6 +736,35 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "113174": {
+        "id": 113174,
+        "collectible": 1,
+        "slug": "113174-carrier",
+        "classId": 2,
+        "multiClassIds": [],
+        "minionTypeId": 17,
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Kevin Sidharta",
+        "health": 14,
+        "attack": 2,
+        "manaCost": 12,
+        "name": "Carrier",
+        "text": "At the end of your turn, summon four 4/1 Interceptors that attack random enemies.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54fd85bd188333b3b93ad9e86c66bb88ee4a9f029503ca5167bf77014e088cb0.png",
+        "imageGold": "",
+        "flavorText": "Yeah, my teammates always call me this.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5bdba400b5ef1cd3d15ccce2af7a6775fe8f10d2e5d23cb5cc92131099a5fe86.png",
+        "childIds": [
+            113175
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
+    },
     "111651": {
         "id": 111651,
         "collectible": 1,
@@ -663,6 +785,144 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/506ab8dbd5b1339697b6937fc930d5e5d9d1094a5c1d6b6a9cff52dca9270df1.png",
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "113163": {
+        "id": 113163,
+        "collectible": 1,
+        "slug": "113163-chrono-boost",
+        "classId": null,
+        "multiClassIds": [
+            2,
+            4,
+            6,
+            7
+        ],
+        "cardTypeId": 5,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Grafit",
+        "manaCost": 4,
+        "name": "Chrono Boost",
+        "text": "Draw 2 Protoss cards. Summon a 3/4 Zealot with <b>Charge</b>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/988ecbff3e8a0c9110faba9b9a2893cfe5e3cde2966d756740197d471702e426.png",
+        "imageGold": "",
+        "flavorText": "Just think of all the tempests I can make! ...Ah, who am I kidding? I'm just going to use this on probes.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee650b948f444b3bd2c2dcaa1962bb747b32898edc5581a0a41eaa07a3b14896.png",
+        "childIds": [
+            113732
+        ],
+        "keywordIds": [
+            4
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
+    },
+    "113177": {
+        "id": 113177,
+        "collectible": 1,
+        "slug": "113177-colossus",
+        "classId": 4,
+        "multiClassIds": [],
+        "minionTypeId": 17,
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "James Ryman",
+        "health": 4,
+        "attack": 9,
+        "manaCost": 12,
+        "name": "Colossus",
+        "text": "<b>Battlecry:</b> Deal damage to all enemies, twice. <i>(Improved by Protoss spells you cast this game!)</i>",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbaaebd5ae4fa58d0b1424137393e8f16b28dc254e184dcc53d02043d31df1de.png",
+        "imageGold": "",
+        "flavorText": "How's the weather up there?",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/153560f1ba4338dfae99f53f4c551d121f7965ae85bfe7dfc7ba42e7559bfa70.png",
+        "keywordIds": [
+            8
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
+    },
+    "113212": {
+        "id": 113212,
+        "collectible": 1,
+        "slug": "113212-concussive-shells",
+        "classId": 10,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Zoltan Boros",
+        "manaCost": 1,
+        "name": "Concussive Shells",
+        "text": "Deal 2 damage and gain 2 Armor. Your next <b>Starship</b> launch costs (2) less.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bc4bc24f1416d3ef0975ca3afcb5dab81a24a2295693fa8b6e2a64c06504823.png",
+        "imageGold": "",
+        "flavorText": "Zerg patients rated these a solid 7 on the pain chart.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6998391b58d6301d845ad986c63b7f3bf4cdac38a33378efaba8c5a043da4375.png",
+        "childIds": [
+            114363
+        ],
+        "keywordIds": [
+            323
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3458
+        ]
+    },
+    "113173": {
+        "id": 113173,
+        "collectible": 1,
+        "slug": "113173-construct-pylons",
+        "classId": 2,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Studio Hive ",
+        "manaCost": 0,
+        "name": "Construct Pylons",
+        "text": "Your next Protoss card this turn costs (2) less.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4acab3aa9dd593938b324969e876bc1ffd073e96caec1eca889783badb8098b4.png",
+        "imageGold": "",
+        "flavorText": "You must... y'know...",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/15343f138fa3444ef0f5034e239a9cf080db945507e383b927578360b5516842.png",
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
+    },
+    "113667": {
+        "id": 113667,
+        "collectible": 1,
+        "slug": "113667-consume",
+        "classId": 9,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "Jason Kang",
+        "manaCost": 1,
+        "name": "Consume",
+        "text": "Remove 1 Durability from a friendly location to restore 8 Health to your hero.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c96227194531c7fc200d1f2035e870f083bf32c71fa682c36620b383654c575.png",
+        "imageGold": "",
+        "flavorText": "What are you looking at? This isn't a mukbang.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/081c55650d0fcd7601494bec68d6a3ba1f77d877e507c19f75e6b68c8fcb40fc.png",
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
     },
     "114581": {
         "id": 114581,
@@ -707,7 +967,7 @@
         "manaCost": 7,
         "name": "Cosmonaut",
         "text": "<b>Battlecry:</b> <b>Discover</b> a spell from your deck. Reduce its Cost by (5).",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d85dbf2de9901d0d1d69e856bf87f1a6bad1e92226d64ae2cd683e0eec588637.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66abc0456c81285928a6b039f572613cd13a9883916d1f5d0b35f98d125abb76.png",
         "imageGold": "",
         "flavorText": "It might look like they're underwater, but they're cosmo-not!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a76324b454b82ea1305fc080fe33d8c016d010c802622f29f9f95a662b66fc25.png",
@@ -717,6 +977,32 @@
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "112869": {
+        "id": 112869,
+        "collectible": 1,
+        "slug": "112869-creep-tumor",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Felideus Bubastis",
+        "manaCost": 2,
+        "name": "Creep Tumor",
+        "text": "Your Zerg minions have +1 Attack and <b>Rush</b>. Lasts 3 turns.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a812694901aafd96cde910c9dbe1ff578f72234b2ab5d0cfb7cc341a22cf64b.png",
+        "imageGold": "",
+        "flavorText": "\"If you spot one of these, back away or burn it to hell. Never fight on their turf.\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e87f89f9c3b4a26d0d7bc9f63fb279eaa70f75bb0befa1a27071be603f9caba.png",
+        "keywordIds": [
+            53
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
     },
     "110564": {
         "id": 110564,
@@ -785,17 +1071,49 @@
         "cardSetId": 1935,
         "rarityId": 3,
         "artistName": "Gabriel Lopes",
+        "health": 2,
         "attack": 2,
         "manaCost": 2,
-        "durability": 2,
         "name": "Crystalline Greatmace",
         "text": "After your hero attacks, give all Draenei in your hand +2 Attack.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41692a2e90d4d74da43404902b85d7944925e848e8b0383b9d9ebedaaf13600f.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b908e4e5981d8789faefc2c03986923a5d434748f8e069d9b8191e30a7e6a63.png",
         "imageGold": "",
         "flavorText": "The only difference between a mace and a greatmace is... PRESENTATION!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aae6f09b11dc4e595c25c37064f3e547fae2185c1699db9c8259242091cbcce7.png",
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "113165": {
+        "id": 113165,
+        "collectible": 1,
+        "slug": "113165-dark-templar",
+        "classId": 7,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "Timur Shevtsov",
+        "health": 3,
+        "attack": 5,
+        "manaCost": 6,
+        "name": "Dark Templar",
+        "text": "<b>Stealth</b>. <b>Battlecry:</b> Destroy an enemy minion. <i>Play another Templar to merge into an Archon!</i>",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93275a41b985ef04367a8ba8ad93fe4108a85aa59c3910784d852d9bb31fb540.png",
+        "imageGold": "",
+        "flavorText": "*stab* *stab* *stab* \"Hey, where'd my SCVs go?\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38676d38ad472d01096b0b398f483582d27a481b5fcec54a4da7f0413a7697aa.png",
+        "childIds": [
+            113202
+        ],
+        "keywordIds": [
+            6,
+            8
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
     },
     "111973": {
         "id": 111973,
@@ -856,11 +1174,11 @@
         "rarityId": 1,
         "artistName": "Jaemin Kim",
         "health": 2,
-        "attack": 3,
-        "manaCost": 3,
+        "attack": 2,
+        "manaCost": 2,
         "name": "Dimensional Core",
         "text": "<b>Divine Shield</b> <b>Starship Piece</b>",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/873e26d756c3bf627749dc797dcd0c7ef5e36d6589823d877e4cc0d19991f2a1.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5236243a2cb752c9a4526c405650a27c0a7b822526aecac23d2d5018d0145920.png",
         "imageGold": "",
         "flavorText": "At the core of every Starship is a Naaru giving its own energy as a power source. At the core of every Draenei is their unbridled faith in the Naaru.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/776b6584ea03b014998fc5177935fcb6f9a4a33616b758ba1b4331a691fedf1c.png",
@@ -889,8 +1207,8 @@
         "attack": 5,
         "manaCost": 4,
         "name": "Dirdra, Rebel Captain",
-        "text": "<b>Rush</b> <b>Battlecry:</b> Shuffle all 8 Crewmates into your deck. <b>Deathrattle:</b> Draw one.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02dbbcc311863deab42709a97263a46554826fbe65011fe9bcb3ac715d414ac4.png",
+        "text": "<b>Rush</b>. <b>Battlecry:</b> Shuffle all 8 Crewmates into your deck. <b>Deathrattle:</b> Draw two Crewmates.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a11655a82be5527e873dc93e98c4ad21046866ec39ce185f12c28a4e516420b.png",
         "imageGold": "",
         "flavorText": "Under Velen's command, the Draenei avoid engaging with the enemy in fear of eradication. Under Dirdra's command, the Voronei fight the Legion head on in hopes of eradication.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aacde6b27b472f375c3ab612bcffc4a3d0acafd16295d9fa4771a15bba988413.png",
@@ -993,7 +1311,7 @@
         "manaCost": 10,
         "name": "Dwarf Planet",
         "text": "Fill your board with random 2-Cost minions that attack random enemies.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a840f12b333b2d9baa1a6f22e5d398630d617a66e3c01a4e054c994ba014c8e3.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18f9f0eaebe442491df47bc7c5c8df5b00bd4dbd8471e59b7296f0d20587d877.png",
         "imageGold": "",
         "flavorText": "Hey, who let Magni Bronzebeard, who we all know is famous for his Magni Touch, land on this planet!?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0131a66a340c035d9fff0739856ffe967d9fb4b3c8fb8c3e67b6dbf025bdef54.png",
@@ -1015,7 +1333,7 @@
         "manaCost": 1,
         "name": "Eldritch Being",
         "text": "<b>Outcast and <b>Spellburst</b>:</b> Shuffle your hand.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cb06b40afd6533647399589670454df9120245af7f7db0b5e6300abeb4dca63.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/846d130a99ef4b4d6b2ef97ac9d97b6ebfb96d4a54358ef3e602eaa2a93fe292.png",
         "imageGold": "",
         "flavorText": "Tor flud huth respa di blarry? Fleebletor glomdor!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5e53d1134579b88166cd3070bc63231042359d5f75d20ed80d519b012b36f78.png",
@@ -1149,10 +1467,10 @@
         "artistName": "AJ Nazzaro",
         "health": 3,
         "attack": 2,
-        "manaCost": 3,
+        "manaCost": 4,
         "name": "Ethereal Oracle",
         "text": "<b>Spell Damage +1</b> <b><b>Spellburst</b>:</b> Draw 2 spells.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b5fa97ccb95656befe58e4ae071e989de1fbdb0a8a4ba5a79d1035a5b497469.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9820d4dc83cc5e936af4ac05b63af09049ecda1ef8dd8c318e2d7b1bc2580d1.png",
         "imageGold": "",
         "flavorText": "I see 2 spells in my future.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e44a519efbfa66b9d4cdd548b97411c4985b315b6f68162c425cf17d54f4685a.png",
@@ -1162,6 +1480,29 @@
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "113671": {
+        "id": 113671,
+        "collectible": 1,
+        "slug": "113671-evolution-chamber",
+        "classId": 3,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Jakub Kasper",
+        "manaCost": 2,
+        "name": "Evolution Chamber",
+        "text": "Give your minions +1 Attack. Give your Zerg an extra +1/+1.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6412ccb8db618d1eee9407d94c1bbe68461ca798bef5a0a43fce279817acb46.png",
+        "imageGold": "",
+        "flavorText": "\"Survival of Swarm dependent on evolution, iteration. Trust process, trust sequences. Swarm will not fail.\" - Abathur",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/423cb014a9101a77beaddd103980582234a5218a3daea97736ebc8240d2479eb.png",
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
     },
     "110922": {
         "id": 110922,
@@ -1179,7 +1520,7 @@
         "manaCost": 5,
         "name": "Exarch Akama",
         "text": "After this attacks, all other friendly minions can attack again <i>(except Exarch Akama)</i>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c56724f77dd43485e3cb3ea8ae2b7d78a07068614a2464e6325d05771fae6250.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36b279a2c948201e7e3192df005afb88788bc79f7e519125eaaaeddda65039d0.png",
         "imageGold": "",
         "flavorText": "Akama fiercely led the Vindicators in the Draenei's quest to find a new home. If only he knew what would await him on the planet of Draenor\u2026",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b42a5aa6d307896fb046b9bf2178517c7a6531386eb7d0dba593f7108c4f6ff6.png",
@@ -1202,7 +1543,7 @@
         "manaCost": 5,
         "name": "Exarch Hataaru",
         "text": "<b>Battlecry:</b> <b>Discover</b> a spell and reduce its Cost by (1). If you play it this turn, repeat this effect.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62b2855ac46550b9933c6667c4b759a086c3056104298bbda6f9b8bd7fb6890c.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9847a74780589027379a11bc84f58c244de9777f9fab58a92ada5892bcd2a960.png",
         "imageGold": "",
         "flavorText": "Severely outmatched by the Burning Legion, the Draenei had no hopes of survival\u2026 That changed with the invention of arkonite crystals, giving Hataaru and his Artificers new ways to empower their people.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f555993d5e715d878545a27ff52d27995d419cfb503153edfa54b6db259cbdf.png",
@@ -1401,12 +1742,12 @@
         "cardSetId": 1935,
         "rarityId": 3,
         "artistName": "Kevin Sidharta",
-        "health": 3,
+        "health": 4,
         "attack": 2,
         "manaCost": 3,
         "name": "Felfire Thrusters",
         "text": "<b><b>Spellburst</b>:</b> Deal this minion's Attack damage to 2 random enemy minions. <b>Starship Piece</b>",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9cc1fd85105f6ce7e69c35c2c65ff1d6db362aff80f568d6c98d30f219db1af6.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e46721a169603f9e986697f54e79fa9bcb01853e0964487573179845f560e634.png",
         "imageGold": "",
         "flavorText": "The coolness factor of a fire decal is universal.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91aea495a5ecaa7ad8eee1f5f80264e5cf8e1a7c1eb50724683bc4ddf2334193.png",
@@ -1548,6 +1889,43 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "112912": {
+        "id": 112912,
+        "collectible": 1,
+        "slug": "112912-ghost",
+        "classId": null,
+        "multiClassIds": [
+            5,
+            8,
+            10
+        ],
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "AJ Nazzaro",
+        "health": 2,
+        "attack": 6,
+        "manaCost": 4,
+        "name": "Ghost",
+        "text": "<b>Stealth</b>. <b>Battlecry:</b> If you're building a <b>Starship</b>, destroy the lowest-Cost card in your opponent's hand.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd8213f62797585f6c427e20e90274f552bcce9793af46384aff5fcd2b28ba16.png",
+        "imageGold": "",
+        "flavorText": "Busters!",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4877048b52b837ea347a2c0d340ef2285868038927fb3d618591aa90a323d50.png",
+        "childIds": [
+            114363
+        ],
+        "keywordIds": [
+            6,
+            8,
+            323
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3458
+        ]
+    },
     "110870": {
         "id": 110870,
         "collectible": 1,
@@ -1564,7 +1942,7 @@
         "manaCost": 3,
         "name": "Gorm the Worldeater",
         "text": "<b>Dormant</b> for 5 turns. At the end of your turn, destroy the minion to the right of this to awaken 1 turn sooner.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93cf5aaaea006c522d5287a61945cd3cb9e78fe8b131a577179d38b9e6994891.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7eb248db82da63686215517f28e008d4ffe65fdbbdbd1e09123cf06a90f8e2a5.png",
         "imageGold": "",
         "flavorText": "His diet consists of entire WORLDS! Because moons upset his tummy.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/565ac37f5bd018144717fe0eed16034b79109480375dfaebae27f350ce0733ed.png",
@@ -1588,6 +1966,35 @@
         "imageGold": "",
         "flavorText": "Did someone forget to pay the gravity bill?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e165618d479d7eef4041805b4c19d936b641726163ea2d16d67156957435031.png",
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false
+    },
+    "113249": {
+        "id": 113249,
+        "collectible": 1,
+        "slug": "113249-grunty",
+        "classId": 12,
+        "multiClassIds": [],
+        "minionTypeId": 14,
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 5,
+        "artistName": "Ivan Fomin",
+        "health": 4,
+        "attack": 3,
+        "manaCost": 8,
+        "name": "Grunty",
+        "text": "<b>Battlecry:</b> Summon four random Murlocs, then shoot them at enemy minions. <i>(You pick the targets!)</i>",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9884f79debfed854d49c74a86d9fa749ba25dd6a363761231a6c56f386eb233e.png",
+        "imageGold": "",
+        "flavorText": "<Mrrglglg, it's about time.>",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb458157c5e93c0f8c07b5738f698f2583e8f2772482bbd29484e5f10ffbcc00.png",
+        "childIds": [
+            108965
+        ],
+        "keywordIds": [
+            8
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1621,6 +2028,29 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "113176": {
+        "id": 113176,
+        "collectible": 1,
+        "slug": "113176-hallucination",
+        "classId": 6,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "BOSi Studio",
+        "manaCost": 1,
+        "name": "Hallucination",
+        "text": "Summon a copy of a friendly Protoss minion. It takes double damage.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b891415f98f261bf29e452c99ded2cfadb6b274083dcd0e63f2b01da89758632.png",
+        "imageGold": "",
+        "flavorText": "\"Protoss? In our base? I think you're seeing things.\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fbb1ec7134b5395532412b84cd73728438bd4cb0af16cba24cd4fa433b8a329.png",
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
+    },
     "111934": {
         "id": 111934,
         "collectible": 1,
@@ -1633,8 +2063,8 @@
         "artistName": "Sergey Tsvelykh",
         "manaCost": 1,
         "name": "Headhunt",
-        "text": "Deal 2 damage. Get a 4/4 Crewmate with a random <b>bonus effect</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ca29c0eded0f62df013b1fe9be31e1299fd7321d5d0844541c320b444486176.png",
+        "text": "Deal 2 damage. Get a 4/4 Crewmate with a random <b>Bonus Effect</b>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d339dc61042afee727c55208453b1adb373ad8a93cd557ac4506c404bdbcb469.png",
         "imageGold": "",
         "flavorText": "Even though the red lenses blurred his vision and greatly inhibited his ability to make out color and detail, he looked cool as heck.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7920eb0be867c3515b97d792dc353a6257655da3abb144d2b9f2c326de2437dc.png",
@@ -1704,6 +2134,122 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "113855": {
+        "id": 113855,
+        "collectible": 1,
+        "slug": "113855-hellion",
+        "classId": 5,
+        "multiClassIds": [],
+        "minionTypeId": 17,
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "Mike Sass",
+        "health": 4,
+        "attack": 4,
+        "manaCost": 4,
+        "name": "Hellion",
+        "text": "Your other minions have +1 Attack. <i>(Transforms if you launched a <b>Starship</b> this game.)</i>",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6286d2fd6018ac1d8f25333791947ac2cfb9473db70af565e0fbe0423db7ee90.png",
+        "imageGold": "",
+        "flavorText": "Let's upgrade to the non-flammable tires next time.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86924d0d6e5a7e7dff984517166f0fb1d76ae08be23120b05b5ab4ba4f28bc2a.png",
+        "childIds": [
+            113858,
+            114363
+        ],
+        "keywordIds": [
+            323
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3458
+        ]
+    },
+    "113739": {
+        "id": 113739,
+        "collectible": 1,
+        "slug": "113739-high-templar",
+        "classId": 7,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "James Ryman",
+        "health": 5,
+        "attack": 3,
+        "manaCost": 6,
+        "name": "High Templar",
+        "text": "<b>Battlecry:</b> Deal 2 damage to all enemies. <i>Play another Templar to merge into an Archon!</i>",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23cdc16d3aac748318eb7c84dd7bf2e06f4767c7ba7518b9c00bdc72d839978e.png",
+        "imageGold": "",
+        "flavorText": "If this job doesn't work out, I can always fall back on being a Psionic Storm Chaser.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ffdee736dafb5fdfe2e23f765abd466dcb3432a747eb49f99e506e447281c06b.png",
+        "childIds": [
+            113202
+        ],
+        "keywordIds": [
+            8
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
+    },
+    "112834": {
+        "id": 112834,
+        "collectible": 1,
+        "slug": "112834-hive-queen",
+        "classId": null,
+        "multiClassIds": [
+            1,
+            3,
+            9,
+            14
+        ],
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Slawomir Maniak",
+        "health": 5,
+        "attack": 2,
+        "manaCost": 3,
+        "name": "Hive Queen",
+        "text": "At the end of your turn, get a Larva that transforms into random Zerg minions.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a986c6dc35f6bd7e51818b26be7cfd8522ccf66b61832e8cb7843d36627489a0.png",
+        "imageGold": "",
+        "flavorText": "Her favorite game is \"The Floor is Larva.\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1ca5c4d88cefb37e472c2411e77f05271364b834d0f560b98ba714d95b5d1b7.png",
+        "childIds": [
+            113569,
+            112799,
+            112867,
+            112812,
+            113663,
+            112846,
+            112830,
+            113576,
+            112869,
+            112859,
+            113673,
+            113664,
+            112872,
+            113672,
+            112862,
+            113671,
+            113667,
+            113666,
+            112847,
+            112854
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
+    },
     "110566": {
         "id": 110566,
         "collectible": 1,
@@ -1747,7 +2293,7 @@
         "manaCost": 5,
         "name": "Hostile Invader",
         "text": "<b>Battlecry, <b>Spellburst</b>, and Deathrattle:</b> Deal 2 damage to all other minions.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/342a9de0e92328c49cc45f29a9eabe816533286cb63f2dd069e1f1c3489e83c1.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7cbd947c876dd2668bd58a0e32dc4b96e5c13c4148f2b16440ccc4298d9ff2c.png",
         "imageGold": "",
         "flavorText": "\"And my Axe!\" \"And my Axe!\" \"And my Axe!\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0dfd048c0d945fde87965dc91f19c7876c3ce438b781a83bc9908bd99ff8d0bf.png",
@@ -1758,6 +2304,65 @@
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "112859": {
+        "id": 112859,
+        "collectible": 1,
+        "slug": "112859-hydralisk",
+        "classId": 3,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "Luca Zontini",
+        "health": 2,
+        "attack": 4,
+        "manaCost": 3,
+        "name": "Hydralisk",
+        "text": "<b>Battlecry:</b> Deal 2 damage to a random enemy. Repeat for each other Zerg minion you control.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14c7294f618ff312f5c7718c28d3fa771adbc009bc8869e282398c4072bc61f9.png",
+        "imageGold": "",
+        "flavorText": "*tsst* *tsst* *tsst* *tsst* *tsst* *tsst*",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8201a4026fd3e782dcae5ed18b0809978e8f720717d1971526b605a248196aa.png",
+        "keywordIds": [
+            8
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
+    },
+    "113735": {
+        "id": 113735,
+        "collectible": 1,
+        "slug": "113735-immortal",
+        "classId": 2,
+        "multiClassIds": [],
+        "minionTypeId": 17,
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "Vlad Botos",
+        "health": 8,
+        "attack": 5,
+        "manaCost": 7,
+        "name": "Immortal",
+        "text": "<b>Taunt</b>, <b>Divine Shield</b> <b>Battlecry:</b> Spend 4 Mana to double this minion's stats.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4f05560a6feb81d88b2aed65b7dcebfb3ec0f5c9e22627eab8c6a609a42a26c.png",
+        "imageGold": "",
+        "flavorText": "Hi Mortal, I'm Dad.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0038225ad6ff0f56ae5223ab29193247299598c89e1fe7983121830264a0d852.png",
+        "keywordIds": [
+            1,
+            3,
+            8
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
     },
     "111139": {
         "id": 111139,
@@ -1780,6 +2385,34 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "112830": {
+        "id": 112830,
+        "collectible": 1,
+        "slug": "112830-infestor",
+        "classId": 1,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "Juan Calle",
+        "health": 2,
+        "attack": 4,
+        "manaCost": 3,
+        "name": "Infestor",
+        "text": "<b>Deathrattle:</b> Your Zerg minions have +1 Attack for the rest of the game.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2c703f7cd4ca4f5a8ced45d785d9440f24dd7d0f6878784f1c3907afe864baa.png",
+        "imageGold": "",
+        "flavorText": "Even if you survive its neural parasite, you will never live it down.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ab00d7433fe4100f6259a04a07b0c4cf6728255084666488b5de4b02463b06f.png",
+        "keywordIds": [
+            12
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
+    },
     "114513": {
         "id": 114513,
         "collectible": 1,
@@ -1793,7 +2426,7 @@
         "manaCost": 3,
         "name": "Infiltrate",
         "text": "Choose a minion. Deal 3 damage to all other minions.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37826bf8484222e8851b1f9a073eeec5f4e4d1311cf20a66c1a128937bb7c8cf.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf1dfc4e42d7e04ead9a270ab93e5067377e64b23c14b661c7e0483b75172cc2.png",
         "imageGold": "",
         "flavorText": "Everybody get out of here! Except you. You can stay.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0e16bd2176096729d0d768ac42d8427de69bab21a4ea22d2056ab0ff1549db7.png",
@@ -1863,14 +2496,14 @@
         "cardSetId": 1935,
         "rarityId": 3,
         "artistName": "Sergey Tsvelykh",
-        "attack": 2,
+        "health": 2,
+        "attack": 3,
         "manaCost": 3,
-        "durability": 3,
         "name": "Interstellar Starslicer",
         "text": "<b>Battlecry and Deathrattle:</b> Reduce the Cost of your Librams by (1) this game.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fe8da8f18fef74a6eb2050135220b55f58c77f3b2a17a01991a01b86377f154.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78cee8f5ca2450ed8503d70e9bc7cbae4e443bebb623c097b4cf6457002389fc.png",
         "imageGold": "",
-        "flavorText": "That's not a knife. THIS is a knife.",
+        "flavorText": "The universe is infinite. Ever-expanding, its sheer size is something that even the ancestors of our ancestors can only dream of knowing. And even still, across every single pocket of the galaxy, every one thing is unique. So, no, we've never made the same flavor-text twice, IDK what you're talking about.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/087c2b7dd29e50833bd0aabad23fbf3c8c4ce648f1a98c19d29ba022585c52b2.png",
         "keywordIds": [
             8,
@@ -1929,6 +2562,44 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "112815": {
+        "id": 112815,
+        "collectible": 1,
+        "slug": "112815-jim-raynor",
+        "classId": null,
+        "multiClassIds": [
+            5,
+            8,
+            10
+        ],
+        "cardTypeId": 3,
+        "cardSetId": 1935,
+        "rarityId": 5,
+        "artistName": "Alex Horley Orlandelli",
+        "health": 30,
+        "manaCost": 8,
+        "armor": 5,
+        "name": "Jim Raynor",
+        "text": "<b>Battlecry:</b> Relaunch every <b>Starship</b> that you launched this game.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d34766debf65c321ea54582765adf9888be3a5440e575181ab06b18096953440.png",
+        "imageGold": "",
+        "flavorText": "He\u2019s lost his faith, his friends, and his beloved, but he still believes that one day, he can make things right again.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0630b16d70df8b2891a30633834a90a6e54578b89196025f43365f9d7d66282.png",
+        "childIds": [
+            112818,
+            112861,
+            114363
+        ],
+        "keywordIds": [
+            8,
+            323
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3458
+        ]
+    },
     "111179": {
         "id": 111179,
         "collectible": 1,
@@ -1944,7 +2615,7 @@
         "manaCost": 3,
         "name": "K'ara, the Dark Star",
         "text": "<b><b>Spellburst</b>:</b> Steal 2 Health from a random enemy. <i>(Shadow spells don't remove this <b>Spellburst</b>.)</i>",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/277185335eb5ed5f132943eb596bb61c893d6f617e24c265011c6eb3330fc968.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79aa6669cec601d1b96e93114065483a23253f82190c5de608769c1c6ed3ee9f.png",
         "imageGold": "",
         "flavorText": "Velen had never seen a shooting star in real life, so when the opportunity arose\u2026",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6726dbf9013722075d53f47a546d7f273f014a04a5b50724b2988a7d31f2e0bd.png",
@@ -1979,6 +2650,61 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "112846": {
+        "id": 112846,
+        "collectible": 1,
+        "slug": "112846-kerrigan-queen-of-blades",
+        "classId": null,
+        "multiClassIds": [
+            1,
+            3,
+            9,
+            14
+        ],
+        "cardTypeId": 3,
+        "cardSetId": 1935,
+        "rarityId": 5,
+        "artistName": "James Ryman",
+        "health": 30,
+        "manaCost": 8,
+        "armor": 5,
+        "name": "Kerrigan, Queen of Blades",
+        "text": "<b>Battlecry:</b> Summon two 2/5 Hive Queens. Deal 3 damage to all enemies.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/676162048a9575896effa747c87f5ef107c05542634a22aafc8c142c09bfd8f7.png",
+        "imageGold": "",
+        "flavorText": "Betrayed by the terrans, she is determined to use the power of the zerg Swarm for her revenge.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e6e0a5b26e23cf6d32c99a9afc2529cafbbbde1ede08fb9c2acf1e8d2cd5c76.png",
+        "childIds": [
+            112847,
+            112834,
+            113569,
+            112799,
+            112867,
+            112812,
+            113663,
+            112830,
+            113576,
+            112869,
+            112859,
+            113673,
+            113664,
+            112872,
+            113672,
+            112862,
+            113671,
+            113667,
+            113666,
+            112854
+        ],
+        "keywordIds": [
+            8
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
+    },
     "112361": {
         "id": 112361,
         "collectible": 1,
@@ -1995,7 +2721,7 @@
         "manaCost": 7,
         "name": "Kil'jaeden",
         "text": "<b>Battlecry:</b> Replace your deck with an endless portal of Demons. Each turn, they gain an additional +2/+2.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07e15e04a940d990864d3e818e2bd8c564a7152e00413752871b47554b07bb29.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84125e3ae3035f72707edfb011a1c88e9769302164b552810d1e58107e7b2bec.png",
         "imageGold": "",
         "flavorText": "With complete control of the Burning Legion's forces, Kil'jaeden will stop at nothing until all of the traitorous Draenei have been squelched. *right clicks the enemy hero*",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc53441615bfa9fd2a20329551b4ddc7ba3987f1b0beb2a6d536c8682fff538b.png",
@@ -2101,6 +2827,45 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "113211": {
+        "id": 113211,
+        "collectible": 1,
+        "slug": "113211-lift-off",
+        "classId": null,
+        "multiClassIds": [
+            5,
+            8,
+            10
+        ],
+        "cardTypeId": 5,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "BOSi Studio",
+        "manaCost": 3,
+        "name": "Lift Off",
+        "text": "Draw 2 Terran cards. Summon a 2/1 <b>Starship Piece</b> with an effect when launched.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/976fcf9f7c3dd542db13907c8be82cad5532b175bd15e5c494579961b3c70e83.png",
+        "imageGold": "",
+        "flavorText": "It's a bird! It's a plane! It's a burning command center slowly moving to the corner of the map!",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4459ba99aded254301f6ed8c6aa1e9a591d2600046032143c2f7821964710109.png",
+        "childIds": [
+            113237,
+            113240,
+            113242,
+            113244,
+            113247,
+            112861,
+            114363
+        ],
+        "keywordIds": [
+            323
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3458
+        ]
+    },
     "111991": {
         "id": 111991,
         "collectible": 1,
@@ -2152,6 +2917,35 @@
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "112876": {
+        "id": 112876,
+        "collectible": 1,
+        "slug": "112876-lock-on",
+        "classId": 8,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Daniil Kudriavtsev",
+        "manaCost": 1,
+        "name": "Lock On",
+        "text": "Set a minion\u2019s Health to 1. Your next <b>Starship</b> launch costs (2) less.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cddd78ea503fefa75494bf205e50c0d38ec377940f5d78ba348fea7b7cc1e26d.png",
+        "imageGold": "",
+        "flavorText": "Time to lock in. *ahem* I mean lock on.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0a56d54ad48c5625bf61d66538e495d10608b29b237a3c5ab75bfad26d0d9b9.png",
+        "childIds": [
+            114363
+        ],
+        "keywordIds": [
+            323
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3458
+        ]
     },
     "111292": {
         "id": 111292,
@@ -2229,6 +3023,31 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "112862": {
+        "id": 112862,
+        "collectible": 1,
+        "slug": "112862-lurker",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "Vlad Botos",
+        "health": 6,
+        "attack": 2,
+        "manaCost": 4,
+        "name": "Lurker",
+        "text": "After a friendly minion attacks, deal 1 damage to a random enemy <i>(or 2 if your minion is a Zerg)</i>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9a918e1577ed0d62ee382592c4d5fa0d1cfad0f895b3ff6564818037224a8c7.png",
+        "imageGold": "",
+        "flavorText": "Never typed in chat. Subscribed for 40 months. The perfect viewer.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9ecba8f9476f1aca8c4b7c9435d411c78b8d769352cb99f054fbe56cffb3905.png",
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
+    },
     "110872": {
         "id": 110872,
         "collectible": 1,
@@ -2243,7 +3062,7 @@
         "manaCost": 6,
         "name": "Meteor Storm",
         "text": "Deal 5 damage to all minions. Shuffle 5 Asteroids into your deck.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34c9609ec29371a76932efed28d80730bf1b73d7745f7004970e1ba087ba341d.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2dd370d1a97660712b0442edc3f81eacad080c0f8adafded91484b8efa1228d.png",
         "imageGold": "",
         "flavorText": "\"Sir, the possibility of successfully drawing all of your Asteroids in a row are approximately 3,720:1!\" \"Never tell me the odds!\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7a215526542fa4a1d8f68f35d3d2292f3286c79442320536ac252599a07f891.png",
@@ -2252,6 +3071,39 @@
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "113209": {
+        "id": 113209,
+        "collectible": 1,
+        "slug": "113209-missile-pod",
+        "classId": 8,
+        "multiClassIds": [],
+        "minionTypeId": 17,
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Daniil Kudriavtsev",
+        "health": 3,
+        "attack": 1,
+        "manaCost": 2,
+        "name": "Missile Pod",
+        "text": "<b>Starship Piece</b> <b>Battlecry:</b> Deal 1 damage to all enemies. Also triggers on launch.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c530ebe0a8ba4c39910436478812d6a18c40014747ed0bb0d28f7d4f8afdaaf5.png",
+        "imageGold": "",
+        "flavorText": "Welcome to the Missile Pod, your one-stop shop for all things missile-related. Tune in each week for developments in the world of missiles.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11425b61f6312cfb32f53305ac22e3ff60a3b802bfd57b56ecce655550ebbd73.png",
+        "childIds": [
+            114363
+        ],
+        "keywordIds": [
+            8,
+            323
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3458
+        ]
     },
     "110744": {
         "id": 110744,
@@ -2282,6 +3134,59 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "113203": {
+        "id": 113203,
+        "collectible": 1,
+        "slug": "113203-mothership",
+        "classId": 6,
+        "multiClassIds": [],
+        "minionTypeId": 17,
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 4,
+        "artistName": " Mooncolony",
+        "health": 10,
+        "attack": 10,
+        "manaCost": 12,
+        "name": "Mothership",
+        "text": "<b>Taunt</b> <b>Battlecry and Deathrattle:</b> Get two random Protoss minions.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/450367b9ac4f5854398a3d4cb4fb8d1c9105b0a5a91498ad9db46bb0624101f5.png",
+        "imageGold": "",
+        "flavorText": "You talk to your mothership with that mouth!?",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/212956784c99e32de2239ad384a7f7167217d711de911cd05d565642f971d655.png",
+        "childIds": [
+            113163,
+            113164,
+            113733,
+            113171,
+            113168,
+            113173,
+            113174,
+            113735,
+            113178,
+            113181,
+            113738,
+            113177,
+            113192,
+            113176,
+            113739,
+            113165,
+            113732,
+            113172,
+            113175,
+            113202
+        ],
+        "keywordIds": [
+            1,
+            8,
+            12
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
+    },
     "110881": {
         "id": 110881,
         "collectible": 1,
@@ -2298,7 +3203,7 @@
         "manaCost": 6,
         "name": "Murmur",
         "text": "Your <b>Battlecry</b> minions cost (1), but immediately die after being played.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ae7c027e6b88c5385411f7bf70f977557c7daacfdee3b93c567332842df8cb9.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/889cab14fe54d404177f56207db26bcc26fd11185bf3b1503a2e1dbf2a965e48.png",
         "imageGold": "",
         "flavorText": "What?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b11971b81d507f5f295215e359114fbcb94b104046b36f3c4d9596fa938fb25b.png",
@@ -2307,6 +3212,31 @@
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "113672": {
+        "id": 113672,
+        "collectible": 1,
+        "slug": "113672-mutalisk",
+        "classId": 14,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "Juan Calle",
+        "health": 2,
+        "attack": 5,
+        "manaCost": 4,
+        "name": "Mutalisk",
+        "text": "Also damages minions next to whomever this attacks <i>(and the enemy hero if a neighbor is missing)</i>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3d813fbb87147bc156a022004030b40acec59031232b27bcf3e57b185559c36.png",
+        "imageGold": "",
+        "flavorText": "A flock of seagulls. A murder of crows. A ball of mutalisks.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2161d3b48305a11d0fb410b8e8141428c3633821ea979980c8e99116bec967fd.png",
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
     },
     "111982": {
         "id": 111982,
@@ -2323,10 +3253,10 @@
         "attack": 3,
         "manaCost": 5,
         "name": "Mutating Lifeform",
-        "text": "After this survives damage, gain a random <b>bonus effect</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdfb8b5cf7e93ac37b0fffe3b0167ca67ee4b3d65e80c84833d010d36834a9ab.png",
+        "text": "After this survives damage, gain a random <b>Bonus Effect</b>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73ffd1ffd0b6a0162c7885b4fc6a6fd63d3ad4dda55008af751d2669bf143c7d.png",
         "imageGold": "",
-        "flavorText": "Who knows how many amazing discoveries are out there! ... Nevermind, I'm going home.",
+        "flavorText": "Who knows how many amazing discoveries are out there! ... Never mind, I'm going home.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4fc31c5206651c3d0444be08d5a4c2167378bd2951d64a61316245977827b27.png",
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2396,16 +3326,44 @@
         "attack": 3,
         "manaCost": 3,
         "name": "Nexus-Prince Shaffar",
-        "text": "<b><b>Spellburst</b>:</b> Give a minion in your hand +3/+3 and this <b>Spellburst</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4820edef6c52a930c56a4217ea3388045146d5ddcc315b9c82ec206c6bc3efb.png",
+        "text": "<b>Spellburst:</b> Give a minion in your hand +3/+3 and this <b>Spellburst</b> <i>(unless it already has these effects).</i>",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11e088a738516794bd201f0793d201cf481150ee97113fdbc2725312d35ede54.png",
         "imageGold": "",
         "flavorText": "Whatever you do, do not give him OR his ethereal parrot a magical lamp.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ede18971e640259786efb3504680a46b30e1a9ea75dcc7b202757fbaea51936.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7ff86764fc50eaa2f5c6da9764df08882579dbcb0ad5f0f26b06d0b00e21d85.png",
         "keywordIds": [
             88
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "113576": {
+        "id": 113576,
+        "collectible": 1,
+        "slug": "113576-nydus-worm",
+        "classId": null,
+        "multiClassIds": [
+            1,
+            3,
+            9,
+            14
+        ],
+        "cardTypeId": 5,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Gabor Szikszai",
+        "manaCost": 3,
+        "name": "Nydus Worm",
+        "text": "Draw two Zerg cards. They cost (1) less.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/982b552eac9133455dba0a29e691922f7c10ab3070c8d83d48a1fc8a087d7197.png",
+        "imageGold": "",
+        "flavorText": "How did they fit an ultralisk in there!?",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/026ae06ffc428a28f2c3fac5269457d9e2a9ee3dba864cae274ed79ce6a285fa.png",
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
     },
     "110835": {
         "id": 110835,
@@ -2420,8 +3378,8 @@
         "artistName": "Vika Yarova",
         "manaCost": 2,
         "name": "Orbital Halo",
-        "text": "Give a minion +2/+1 and <b>Divine Shield</b>. Costs (0) if you played an adjacent card this turn.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e587da5adc7378905bede1156acdfbe02274879e8c4354f30c3f9db6e6229812.png",
+        "text": "Give a minion +1/+1 and <b>Divine Shield</b>. Costs (0) if you played an adjacent card this turn.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb1925005553dfbbab05c0d3cceb4a59285d5b49ed5733339864a1bde1f8646f.png",
         "imageGold": "",
         "flavorText": "I can see your halo. HALO. Haaaalo.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31bef56054868e9a469d530246e542043bf9458d482dec2c68cee05c16ecb3df.png",
@@ -2518,17 +3476,16 @@
         "slug": "111068-parallax-cannon",
         "classId": 3,
         "multiClassIds": [],
-        "spellSchoolId": 1,
         "cardTypeId": 7,
         "cardSetId": 1935,
         "rarityId": 4,
         "artistName": "Drew Hill",
+        "health": 3,
         "attack": 2,
         "manaCost": 3,
-        "durability": 3,
         "name": "Parallax Cannon",
         "text": "Has +2 Attack if you've <b><b>Discover</b>ed</b> this turn. <b><b>Spellburst</b>:</b> Your hero is <b>Immune</b> this turn.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f69ec8be3f94deaa5a52d5a639016b1f6455b19c0199e30dafba4f5a68c09928.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/765f11404144c4f783d1770ce60ecb5f38ef4c8bcc3b5bca942bb95b00f76739.png",
         "imageGold": "",
         "flavorText": "Math is now cannon in the Warcraft universe.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e76856c6dc930ae11e47247f47c770367f993a4cee8c3299effed6d19c6bf704.png",
@@ -2567,6 +3524,34 @@
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "113168": {
+        "id": 113168,
+        "collectible": 1,
+        "slug": "113168-photon-cannon",
+        "classId": null,
+        "multiClassIds": [
+            2,
+            4,
+            6,
+            7
+        ],
+        "cardTypeId": 5,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Mauricio Herrera",
+        "manaCost": 2,
+        "name": "Photon Cannon",
+        "text": "Deal 3 damage. If this kills a minion, your Protoss minions cost (1) less this game.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e07e6387b05d016e51f9b12b7497a17b0bd10d44eb905dfbfd1d7dd01de325b.png",
+        "imageGold": "",
+        "flavorText": "If this card were a minion, it would have <b>Rush</b>.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28f96c2ca08b521257a561aada24bd05778a3ffbc5c2cc880efbae69ad399e10.png",
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
     },
     "110865": {
         "id": 110865,
@@ -2653,10 +3638,10 @@
         "cardSetId": 1935,
         "rarityId": 4,
         "artistName": "Vika Yarova",
-        "manaCost": 6,
+        "manaCost": 8,
         "name": "Quasar",
         "text": "Shuffle your hand into your deck. Reduce the Cost of cards in your deck by (3).",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/feb965156fbe36a74d0c2c77817c824d0bd802bf28fcc0ea6c8e66e04986930f.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ab86af6910ab9f7ede7d43996ff51478fd5ecdc61aef678d533b31bf36623d0.png",
         "imageGold": "",
         "flavorText": "No one is going to believe that quasars are a real thing, Durg'tash the Sorcerer.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17096bd9f598fa205ad35611f1965ab6229b97ef781d71a1f6445e0fdb35971f.png",
@@ -2739,6 +3724,147 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "113181": {
+        "id": 113181,
+        "collectible": 1,
+        "slug": "113181-resonance-coil",
+        "classId": 4,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Kevin Sidharta",
+        "manaCost": 3,
+        "name": "Resonance Coil",
+        "text": "Deal 5 damage to a minion. Get a random Protoss spell.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df0a513dc20f4d3162869e55e6d7e35493c6dabd7e139d5de697a265b59b3024.png",
+        "imageGold": "",
+        "flavorText": "This thing can snipe minions three screens away!",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fa828b6bb8a67b9ce2e6d9d36e3e7f96982755e4c8f6b321222755dc8b1b98a.png",
+        "childIds": [
+            113163,
+            113164,
+            113173,
+            113735,
+            113171,
+            113174,
+            113733,
+            113168,
+            113178,
+            113192,
+            113165,
+            113176,
+            113203,
+            113177,
+            113738,
+            113739,
+            113732,
+            113172,
+            113175,
+            113202
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
+    },
+    "112872": {
+        "id": 112872,
+        "collectible": 1,
+        "slug": "112872-roach",
+        "classId": 3,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "Juan Calle",
+        "health": 2,
+        "attack": 2,
+        "manaCost": 2,
+        "name": "Roach",
+        "text": "When you draw this, get a copy of it. <b>Battlecry:</b> If you control another Zerg minion, gain +1/+2.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8259ec8576a24d175e773039c9e05511b6cd84df91d9937513b6122acbb18a01.png",
+        "imageGold": "",
+        "flavorText": "These still aren't as bad as the ones in my old apartment complex.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb3434e906857fff5e1f037eac7cc107facc906a87fd6d8db2759591123fb43a.png",
+        "keywordIds": [
+            8
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
+    },
+    "112820": {
+        "id": 112820,
+        "collectible": 1,
+        "slug": "112820-scv",
+        "classId": null,
+        "multiClassIds": [
+            5,
+            8,
+            10
+        ],
+        "minionTypeId": 17,
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "Brian Despain",
+        "health": 3,
+        "attack": 1,
+        "manaCost": 1,
+        "name": "SCV",
+        "text": "<b>Battlecry:</b> Your next <b>Starship</b> launch costs (2) less.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aca9fa58e1a2c657bbeb813404b51f2e57d5d0902480a018cb0bd2c172b632ce.png",
+        "imageGold": "",
+        "flavorText": "They're called SCVs because they're Super Cool (Very).",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/024aa0aaf5357101600fb696d884d27426650940acd3c09a074f036e9ac78bae.png",
+        "childIds": [
+            114363
+        ],
+        "keywordIds": [
+            8,
+            323
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3458
+        ]
+    },
+    "112858": {
+        "id": 112858,
+        "collectible": 1,
+        "slug": "112858-salvage-the-bunker",
+        "classId": 5,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Gabor Szikszai",
+        "manaCost": 3,
+        "name": "Salvage the Bunker",
+        "text": "Summon two 2/2 Marines with <b>Taunt</b>. Your next <b>Starship</b> launch costs (2) less.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8b24fa9e82e30a9b63eed6f14fc6c2c5157547f76261fb17c913bd38a102a2c.png",
+        "imageGold": "",
+        "flavorText": "You just HAD to go with the cheap sheet metal didn't you?",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e62fe083e3e0ed367523fbf244564dd77d9a9b093eb2620217ffc90adb676af2.png",
+        "childIds": [
+            112861,
+            114363
+        ],
+        "keywordIds": [
+            1,
+            323
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3458
+        ]
+    },
     "111938": {
         "id": 111938,
         "collectible": 1,
@@ -2781,8 +3907,8 @@
         "attack": 3,
         "manaCost": 2,
         "name": "Scrounging Shipwright",
-        "text": "<b>Deathrattle:</b> Get a random <b>Starship Piece</b> from another class.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e124503d64ad7b8a46d9358a9786e2e3a9d795dc976cd765fb7874ec198f51df.png",
+        "text": "<b>Battlecry:</b> Get a random <b>Starship Piece</b> from another class.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79d3fcb9d0477003b41a17ffacb0ac08ae8cd2966bec573377ab820f77d0aa33.png",
         "imageGold": "",
         "flavorText": "Mi Starship es tu Starship.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/581ff059e246c8dba505eccadd2eded57ddffd355bfb76b697d1e9af93acdb5b.png",
@@ -2790,11 +3916,41 @@
             113710
         ],
         "keywordIds": [
-            12,
+            8,
             323
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "113738": {
+        "id": 113738,
+        "collectible": 1,
+        "slug": "113738-sentry",
+        "classId": 6,
+        "multiClassIds": [],
+        "minionTypeId": 17,
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Melvin Chan",
+        "health": 2,
+        "attack": 2,
+        "manaCost": 2,
+        "name": "Sentry",
+        "text": "<b>Lifesteal</b>. <b>Deathrattle:</b> Your Protoss minions cost (1) less this game.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dfebf0a07b5ebc4f273677f727c0a5c467aa1b16eaaafcd917e5b133b8d18ca5.png",
+        "imageGold": "",
+        "flavorText": "Need a dispenser here!",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b9e444b8bb4d2a08fa13dad71b4c33f9eecc010dfade2f8366c6ec9a99ac0f5.png",
+        "keywordIds": [
+            12,
+            38
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
     },
     "110111": {
         "id": 110111,
@@ -2806,12 +3962,12 @@
         "cardSetId": 1935,
         "rarityId": 1,
         "artistName": "Vlad Botos",
-        "health": 3,
+        "health": 4,
         "attack": 1,
         "manaCost": 2,
         "name": "Sha'tari Cloakfield",
         "text": "<b>Elusive</b>. Your first spell each turn costs (1) less. <b>Starship Piece</b>",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2597f1f631b8a4cb1d05774ddfe18641a0f0442ee0abc17ee1415712b1aad966.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7c1960c07c774ae010467146147c2fbf4d291fa9242e61dba4d20d542bc0afe.png",
         "imageGold": "",
         "flavorText": "The Sha'tari are the reigning champions of interdimensional hide-and-go-seek.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08bc4652a4bab58b7d65d32fd06e7e7a4edade78291f98e92b73c3294aaf70eb.png",
@@ -2855,6 +4011,29 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "113178": {
+        "id": 113178,
+        "collectible": 1,
+        "slug": "113178-shield-battery",
+        "classId": 4,
+        "multiClassIds": [],
+        "cardTypeId": 5,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Studio Hive ",
+        "manaCost": 2,
+        "name": "Shield Battery",
+        "text": "Gain 6 Armor. Your next Protoss spell costs (2) less.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b0be45f54b4cfd314280ff79db70918c263b1ec8c316ca9c26c253608ee73fd.png",
+        "imageGold": "",
+        "flavorText": "Hey Artanis, can I use your charger?",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa5e92e037eaa96f54edb7ee8f7d89869581fac9473ac1dc4bebcb8c6cbc532f.png",
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
+    },
     "110973": {
         "id": 110973,
         "collectible": 1,
@@ -2883,6 +4062,40 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "113864": {
+        "id": 113864,
+        "collectible": 1,
+        "slug": "113864-siege-tank",
+        "classId": 8,
+        "multiClassIds": [],
+        "minionTypeId": 17,
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "  Grafit",
+        "health": 5,
+        "attack": 5,
+        "manaCost": 5,
+        "name": "Siege Tank",
+        "text": "<b>Battlecry:</b> Deal 10 damage to a random enemy minion. <i>(Transforms if you launched a <b>Starship</b> this game.)</i>",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dac859e27bc41381f04903093bee8b88771e7531c8094ed82a8e9c44110a6d27.png",
+        "imageGold": "",
+        "flavorText": "Pretty decent as an off tank, but incredible as a main tank.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c7696237a3b2cd1a6bb10f648e88a13362b3f42862ebf0d0cb105c9dd25463c.png",
+        "childIds": [
+            113865,
+            114363
+        ],
+        "keywordIds": [
+            8,
+            323
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3458
+        ]
+    },
     "111967": {
         "id": 111967,
         "collectible": 1,
@@ -2897,7 +4110,7 @@
         "manaCost": 5,
         "name": "Solar Flare",
         "text": "Deal 2 damage to all enemies. Costs (1) less for each Elemental you control.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6734e0d4f4550ad19fde515e099f9d276db94d8bf5698bbdcf776483f093d561.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26dfd712f46c7cfa7595635355351f19ba3415df41804c03c764dc613e6131b5.png",
         "imageGold": "",
         "flavorText": "Saruun is quite the dancer. Their pirouette is deadly.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d009f30f46e2fde2a00667383fe6f928dd38de2a50d925dbf98100aa229e8c9f.png",
@@ -2986,6 +4199,42 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "112799": {
+        "id": 112799,
+        "collectible": 1,
+        "slug": "112799-spawning-pool",
+        "classId": null,
+        "multiClassIds": [
+            1,
+            3,
+            9,
+            14
+        ],
+        "cardTypeId": 39,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "BOSi Studio",
+        "health": 2,
+        "manaCost": 1,
+        "name": "Spawning Pool",
+        "text": "Get a 1/1 Zergling. <b>Deathrattle:</b> Your Zerg minions have <b>Rush</b> this turn.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1916a1e3365b5a8799e09b995c307d215fefebc1fd2ad739abe998f7a2e2965e.png",
+        "imageGold": "",
+        "flavorText": "Looks more like a spawning hot tub to me, just based on the size.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2323363a486f45eb0fc8cf1fd93b981642d08608959dcc005b8f117de1e8416c.png",
+        "childIds": [
+            112867
+        ],
+        "keywordIds": [
+            12,
+            53
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
+    },
     "110119": {
         "id": 110119,
         "collectible": 1,
@@ -3013,6 +4262,34 @@
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "113673": {
+        "id": 113673,
+        "collectible": 1,
+        "slug": "113673-spine-crawler",
+        "classId": 9,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "Patrik Bjorkstrom",
+        "health": 6,
+        "attack": 1,
+        "manaCost": 2,
+        "name": "Spine Crawler",
+        "text": "<b>Taunt</b>. Can't attack. Has +3 Attack if you control a location.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cca6f78c9f13d5d991fc46a3557ea7c2c476c2def47932077bd359ca363ba638.png",
+        "imageGold": "",
+        "flavorText": "Give him one second, he's rooting! ... Ok give him one more second he's almost done!",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62c115d19b1e57d6c576f911581ce23f77740d58d187ceaaffec6fb2d0ec6b61.png",
+        "keywordIds": [
+            1
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
     },
     "112029": {
         "id": 112029,
@@ -3091,6 +4368,7 @@
         "keywordIds": [
             64
         ],
+        "bannedFromSideboard": 1,
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3193,7 +4471,7 @@
         "manaCost": 3,
         "name": "Starlight Reactor",
         "text": "After you cast an Arcane spell, recast it <i>(targets chosen randomly)</i>. <b>Starship Piece</b>",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9586185ca8c37aa86fea0f9d1940aef82ca03bfbbefbced7493dcdcc597367ce.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6afdfe584aa48260922370d0e710351cf0ea4200e0bd0238114e92b33064a68.png",
         "imageGold": "",
         "flavorText": "5/5 stars - my reaction.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d29c967198d516ffb4bc6b5d8d53bf31f07afc832c604e1b8d7911fa03328c8d.png",
@@ -3231,6 +4509,46 @@
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "112856": {
+        "id": 112856,
+        "collectible": 1,
+        "slug": "112856-starport",
+        "classId": null,
+        "multiClassIds": [
+            5,
+            8,
+            10
+        ],
+        "cardTypeId": 39,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": " Mooncolony",
+        "health": 2,
+        "manaCost": 2,
+        "name": "Starport",
+        "text": "Summon a 2/1 <b>Starship Piece</b> with an effect when launched.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/367efaed4c1542c19ae8fb169e2b90e14f5bec30ea4dc45c6ddd18768a339a29.png",
+        "imageGold": "",
+        "flavorText": "Make sure to arrive 3 light-years early for any intergalactic flights.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc45959598603140679e06508b00198c922b70a3c8709df720562e332782ce86.png",
+        "childIds": [
+            113237,
+            113240,
+            113242,
+            113244,
+            113247,
+            112861,
+            114363
+        ],
+        "keywordIds": [
+            323
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3458
+        ]
     },
     "111180": {
         "id": 111180,
@@ -3270,8 +4588,8 @@
         "artistName": "James Ryman",
         "manaCost": 1,
         "name": "Starship Schematic",
-        "text": "<b>Discover</b> a <b>Starship Piece</b> from another class.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea90cfec1a0eface4f707495816f7a6cfede6dc3aec9806e09d14ba8948903aa.png",
+        "text": "<b>Discover</b> a <b>Starship Piece</b> from another class. It costs (1) less.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39cc6fce794e47603774c935c05eaad0dbd5124e4e7b90ff57803e4879933ae7.png",
         "imageGold": "",
         "flavorText": "It's not plagiarism if you blow up the original ship with lasers.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b07ca4d1b680c846e73854eab0220aefed487f8b603875d0411230edca765450.png",
@@ -3326,7 +4644,7 @@
         "manaCost": 4,
         "name": "Suffocate",
         "text": "Destroy a minion. If you're building a <b>Starship</b>, also destroy a random neighbor.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5ccba60ecca1819991d47ad140218d1343c7561137efcd8d55764f3fed54af9.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98872ff9a47fa17edc157c55ae9090ed4d11c822af02fd28e9908d21700f3190.png",
         "imageGold": "",
         "flavorText": "He's already floating in the void of space. The shadow magic seems like overkill, idk.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19ad87bb69dc33de94a54a731f0c8c16e6b74a74d89ade2aae7d8f93f05a3873.png",
@@ -3371,9 +4689,9 @@
         "cardSetId": 1935,
         "rarityId": 5,
         "artistName": "Nicola Saviori",
-        "health": 4,
-        "attack": 4,
-        "manaCost": 4,
+        "health": 3,
+        "attack": 3,
+        "manaCost": 3,
         "name": "Talgath",
         "text": "Undamaged enemy minions take double damage. <b>Combo:</b> Get a Backstab.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6dd449b67e9203afd2dfdd1cd8ab64127830ced5d7da5bfb3523f6f93cf97f0.png",
@@ -3430,12 +4748,12 @@
         "cardSetId": 1935,
         "rarityId": 5,
         "artistName": "James Ryman",
-        "health": 15,
-        "attack": 15,
+        "health": 10,
+        "attack": 10,
         "manaCost": 100,
         "name": "The Ceaseless Expanse",
         "text": "Costs (1) less for each time a card was drawn, played, or destroyed. <b>Battlecry:</b> Destroy all other minions.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b15129cce47cf9c313149ef0d186141e8589a9ee74890e78b016f362c1974a62.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7084f72670deb0f19c3f9d2c1a8057397a4f911873959f98bde63a52a0a3e4fb.png",
         "imageGold": "",
         "flavorText": "If you play this for its full Mana cost, you know what? You win. Good day sir!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52bc529e73a86564fa6a9fc3292e9f22aaa3678c8c0a083116b587a9e2273a48.png",
@@ -3455,12 +4773,12 @@
         "cardSetId": 1935,
         "rarityId": 5,
         "artistName": "BOSi Studio",
-        "health": 10,
+        "health": 8,
         "attack": 6,
-        "manaCost": 8,
+        "manaCost": 7,
         "name": "The Exodar",
         "text": "<b>Battlecry:</b> If you're building a <b>Starship</b>, launch it and choose a Protocol!",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45686cd9b869c616de2621ce2502f38687ca54225c0e02f4621503dd209f313f.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/551c2c45f4ea8bab8cbd7844be423ebaae787ddc6c21a2f32c4c03636d502b26.png",
         "imageGold": "",
         "flavorText": "Limitless potential! Boundless hope! Fourth rate space insurance.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e123a787b2ebb21850aceed133a43396c74c8d7aa36b9137cda898805b1fcbe4.png",
@@ -3487,12 +4805,12 @@
         "cardSetId": 1935,
         "rarityId": 5,
         "artistName": "Kevin Sidharta",
-        "health": 3,
-        "attack": 4,
+        "health": 4,
+        "attack": 5,
         "manaCost": 5,
         "name": "The Gravitational Displacer",
         "text": "<b>Starship Piece</b> When this is launched, summon a copy of the <b>Starship</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/527f51fd6865b7639c88455f72c5061f3c5a074ee71f7ce821d42a35c7e10930.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f65661c0601707fae7c6b3150e7ca485d3308be6ed13c03d16aa16e24e8aee4.png",
         "imageGold": "",
         "flavorText": "You ever wonder why some planets have two moons?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13193209dae6fe6ace3f5d4db12af531137131da41a70a4bfde20c9901a50bfa.png",
@@ -3504,6 +4822,40 @@
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "113869": {
+        "id": 113869,
+        "collectible": 1,
+        "slug": "113869-thor",
+        "classId": 10,
+        "multiClassIds": [],
+        "minionTypeId": 17,
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "  Grafit",
+        "health": 8,
+        "attack": 8,
+        "manaCost": 8,
+        "name": "Thor",
+        "text": "<b>Battlecry:</b> Deal 5 damage. <i>(Transforms if you launched a <b>Starship</b> this game.)</i>",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9d76cfaf43d06249ca4c111448db8e1fbceb466ab86ac0ae06c6cea2e03f7fd.png",
+        "imageGold": "",
+        "flavorText": "\"I need your clothes, your boots and your chitinous exoskeleton.\"",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f317d168ec3f229c9a723b378e41af3c7ff2dca75ab38c92f499305b2fed272.png",
+        "childIds": [
+            113871,
+            114363
+        ],
+        "keywordIds": [
+            8,
+            323
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3458
+        ]
     },
     "110968": {
         "id": 110968,
@@ -3555,6 +4907,71 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "112866": {
+        "id": 112866,
+        "collectible": 1,
+        "slug": "112866-ultra-capacitor",
+        "classId": 5,
+        "multiClassIds": [],
+        "minionTypeId": 17,
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "Mauricio Herrera",
+        "health": 1,
+        "attack": 1,
+        "manaCost": 2,
+        "name": "Ultra-Capacitor",
+        "text": "<b>Starship Piece</b> <b>Battlecry:</b> Gain +1/+1 for each other friendly minion. Also triggers on launch.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d5c19a26980805d5395f387b807ad78983b860d1df97e67087dafcfa687fd4b.png",
+        "imageGold": "",
+        "flavorText": "If my calculations are correct, when this baby hits 88 miles per hour...",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/129e113d6bf48b578f4f0d6e30f1604643606bece48ffe37baeb58e584c81249.png",
+        "childIds": [
+            114363
+        ],
+        "keywordIds": [
+            8,
+            323
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3458
+        ]
+    },
+    "113664": {
+        "id": 113664,
+        "collectible": 1,
+        "slug": "113664-ultralisk-cavern",
+        "classId": 9,
+        "multiClassIds": [],
+        "cardTypeId": 39,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": " Mooncolony",
+        "health": 3,
+        "manaCost": 3,
+        "name": "Ultralisk Cavern",
+        "text": "Deal 1 damage to all enemies. <b>Deathrattle:</b> Summon an 8/8 Ultralisk with <b>Rush</b>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10a8d2d95bca5d28fbeb95ccb36305e8f0dc4c247af97628de2a8015367deac0.png",
+        "imageGold": "",
+        "flavorText": "Don't let your ultralisk get stuck on a ramp.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d280d7d7eb45817505453f6f663e35978682416bd3b333c5262e2d25db9f3dc7.png",
+        "childIds": [
+            112854,
+            113666
+        ],
+        "keywordIds": [
+            12,
+            53
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
+    },
     "113677": {
         "id": 113677,
         "collectible": 1,
@@ -3600,7 +5017,7 @@
         "manaCost": 5,
         "name": "Uluu, the Everdrifter",
         "text": "Each turn this is in your hand, gain two random <b>Choose One</b> choices. <b>Choose One -</b> ; or .",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b727ba1623bb74cf8999b5df92a4224ec829900da60d6b5bb1f29fe9e57722c5.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/349d9b2b98894deb9f593d3af0958209159b42fdc140378f8524908c2050ba64.png",
         "imageGold": "",
         "flavorText": "Uluu is such a tryhard, he's carrying an entire planet!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fc0bd66f47b3295a74a44e4c1fc1bf66dbbe7fb5256bd4314dde670f7f13819.png",
@@ -3649,7 +5066,7 @@
         "manaCost": 3,
         "name": "Ur'zul Rager",
         "text": "<b>Lifesteal</b> <b><b>Spellburst</b>:</b> Attack a random enemy minion.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9eb576345ecadafa07d265541f9187810fd7f58d8c2b576c18b61bd7e0cf8fa.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9832f00a2254cbbff622c4ac03a2fd4aa6ba8d528097f0e37853661386558835.png",
         "imageGold": "",
         "flavorText": "The Burning Legion is host to many horrors, but a 3 Mana 5/1 is the worst of all!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d28476db6592877dded540e62c07a84148d4b4a93a693077d0499c6183ab577d.png",
@@ -3688,6 +5105,71 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "113663": {
+        "id": 113663,
+        "collectible": 1,
+        "slug": "113663-viper",
+        "classId": 1,
+        "multiClassIds": [],
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "Alex Stone",
+        "health": 3,
+        "attack": 5,
+        "manaCost": 4,
+        "name": "Viper",
+        "text": "<b>Battlecry:</b> Summon a minion from your opponent's hand. Your other Zerg minions gain <b>Reborn</b> and attack it.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89119c94432d424400999ed0eefabfb48e05eb845ec5662d7a48c5316c7f990c.png",
+        "imageGold": "",
+        "flavorText": "No viping!",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b57ea2ec52bcfdcf2d57ef81cc84056e5199feedfe59424c5167b845547609b6.png",
+        "keywordIds": [
+            8,
+            78
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
+    },
+    "113733": {
+        "id": 113733,
+        "collectible": 1,
+        "slug": "113733-void-ray",
+        "classId": null,
+        "multiClassIds": [
+            2,
+            4,
+            6,
+            7
+        ],
+        "minionTypeId": 17,
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "Drew Hill",
+        "health": 2,
+        "attack": 3,
+        "manaCost": 3,
+        "name": "Void Ray",
+        "text": "<b>Rush</b>, <b>Divine Shield</b> <b>Battlecry:</b> If this costs (0), gain +2/+2.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca377fa983674065b3dfec0e2c845ceee4b18bb21e7f5d3cfb411c1396ee6cc2.png",
+        "imageGold": "",
+        "flavorText": "Raymond just had this empty feeling.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2762345f72da7794c573a7d6c1d90eee0084a6bf34e3852a969bf0a092dae954.png",
+        "keywordIds": [
+            3,
+            8,
+            53
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
+    },
     "111906": {
         "id": 111906,
         "collectible": 1,
@@ -3700,11 +5182,11 @@
         "rarityId": 1,
         "artistName": "L. Lullabi & T. Shevtsov",
         "health": 3,
-        "attack": 1,
+        "attack": 2,
         "manaCost": 2,
         "name": "Voronei Recruiter",
-        "text": "At the end of your turn, get a 4/4 Crewmate with a random <b>bonus effect</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af2f0776ce85faebd67c7e3526cc6c4cd86bde098323934b75aa152efb8bde14.png",
+        "text": "At the end of your turn, get a 4/4 Crewmate with a random <b>Bonus Effect</b>.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99465e5c305f6a0df86eb70ab4a5a91fc7002ee34f3fd658f9fba72d1bf6d86e.png",
         "imageGold": "",
         "flavorText": "He has an eyepatch but isn't a Pirate. He's a Recruiter but doesn't Recruit. Smh my head.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6caaafe57f7b191d6018683d6c22e9d196607aca831baaa054d4efb51e7e194.png",
@@ -3780,6 +5262,38 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "113164": {
+        "id": 113164,
+        "collectible": 1,
+        "slug": "113164-warp-gate",
+        "classId": null,
+        "multiClassIds": [
+            2,
+            4,
+            6,
+            7
+        ],
+        "cardTypeId": 39,
+        "cardSetId": 1935,
+        "rarityId": 1,
+        "artistName": "BOSi Studio",
+        "health": 3,
+        "manaCost": 4,
+        "name": "Warp Gate",
+        "text": "Your next Protoss minion costs (3) less.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d94e5a89aa136ecb20e8804ea92edc8d7c7d21202329a751bc3bd935f81a2831.png",
+        "imageGold": "",
+        "flavorText": "This is gonna be really meta-warping.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1714334d5d163a0ade27042ff54f90a6ec1b5988aa6a95e4a37cc72c45f259ff.png",
+        "childIds": [
+            113732
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3469
+        ]
+    },
     "110923": {
         "id": 110923,
         "collectible": 1,
@@ -3810,6 +5324,39 @@
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
+    "112873": {
+        "id": 112873,
+        "collectible": 1,
+        "slug": "112873-yamato-cannon",
+        "classId": 10,
+        "multiClassIds": [],
+        "minionTypeId": 17,
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "BOSi Studio",
+        "health": 3,
+        "attack": 3,
+        "manaCost": 4,
+        "name": "Yamato Cannon",
+        "text": "<b>Starship Piece</b> <b>Battlecry:</b> Destroy a random enemy minion. Also triggers on launch.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e030b82ebc8633fd34b9e4e505f502a86ab61f11330a6690b054f6192060827.png",
+        "imageGold": "",
+        "flavorText": "Ya-may-to, Ya-mah-to",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dce5e70469eaf82ac29c8fd271d05d7bc007af4bf010fbdf374fe4fbc60559b.png",
+        "childIds": [
+            114363
+        ],
+        "keywordIds": [
+            8,
+            323
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3458
+        ]
+    },
     "111653": {
         "id": 111653,
         "collectible": 1,
@@ -3822,11 +5369,11 @@
         "rarityId": 5,
         "artistName": "James Ryman",
         "health": 3,
-        "attack": 4,
-        "manaCost": 5,
+        "attack": 3,
+        "manaCost": 4,
         "name": "Yrel, Beacon of Hope",
         "text": "<b>Rush</b> <b>Deathrattle:</b> Get three different Librams from an older timeline!",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a76f18f79a8e79bc6d2f22f124d57252fdee2c6baf32de5a6e26e7fc69dff580.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/057760bf9642c1c3e2fcf53f92aa6e58800a1a030de2064b053d14f485acda67.png",
         "imageGold": "",
         "flavorText": "Yrel has a lot of overdue library books.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bbeccb7fdde17e2463ca8d0546042031bed1fc435635ca23684280b041440bd9.png",
@@ -3843,5 +5390,38 @@
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
+    },
+    "112867": {
+        "id": 112867,
+        "collectible": 1,
+        "slug": "112867-zergling",
+        "classId": null,
+        "multiClassIds": [
+            1,
+            3,
+            9,
+            14
+        ],
+        "cardTypeId": 4,
+        "cardSetId": 1935,
+        "rarityId": 3,
+        "artistName": "Jaemin Kim",
+        "health": 1,
+        "attack": 1,
+        "manaCost": 1,
+        "name": "Zergling",
+        "text": "<b>Battlecry:</b> Summon a 1/1 Zergling.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a916d9a45dffe9b92a15069cc0e29ad4e5cff9baf418d6d8b02227b6ad5e4554.png",
+        "imageGold": "",
+        "flavorText": "It's all fun and games until 8 of these show up at your door at the 2 minute mark.",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a4ea0bd0c65f6c42814b6c1516483054a9489312857fcc324931b584cc1e62a.png",
+        "keywordIds": [
+            8
+        ],
+        "isZilliaxFunctionalModule": false,
+        "isZilliaxCosmeticModule": false,
+        "factionId": [
+            3457
+        ]
     }
 }

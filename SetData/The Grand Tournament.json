@@ -23,6 +23,9 @@
         "childIds": [
             2634
         ],
+        "copyOfCardId": [
+            102547
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -72,6 +75,9 @@
         "keywordIds": [
             14
         ],
+        "copyOfCardId": [
+            102246
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -102,6 +108,9 @@
         ],
         "keywordIds": [
             12
+        ],
+        "copyOfCardId": [
+            102612
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -166,12 +175,12 @@
         "cardSetId": 15,
         "rarityId": 3,
         "artistName": "Joe Wilson",
+        "health": 2,
         "attack": 2,
         "manaCost": 2,
-        "durability": 2,
         "name": "Argent Lance",
         "text": "<b>Battlecry:</b> Reveal a minion in each deck. If yours costs more, +1 Durability.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a56762f1ce9496a72134a4ce9133ffce455aa0848d5109e435b445bc63783c19.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64e70b3054dd62e9626e0ec45698bfc749740f3f34e8bdea6f4c6407dd8dcdb8.png",
         "imageGold": "",
         "flavorText": "The stripes make it look like a candy cane, but we recommend against licking it.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74ea0e1e082da044a83ce15d4d336dfd0fcc95959a7e91cc282c6805f12ebb3e.png",
@@ -276,6 +285,9 @@
         "imageGold": "",
         "flavorText": "Call her \"Tweety\". She'll find it real funny. I PROMISE.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb7b8760cfda608af72a162045fd54b3e95814e71c09fae13593635e2e9a38bf.png",
+        "copyOfCardId": [
+            102531
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -302,6 +314,10 @@
         "keywordIds": [
             12
         ],
+        "copyOfCardId": [
+            102544,
+            111364
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -322,6 +338,9 @@
         "imageGold": "",
         "flavorText": "You might think bashing doesn't take a lot of practice. It doesn't.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cc1d54a84aa2c2b313ef59a4560725432e4d762bc2f070b1f4ec4bab0198573.png",
+        "copyOfCardId": [
+            76304
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -492,6 +511,9 @@
         "imageGold": "",
         "flavorText": "The best part of buccaneering is the pants.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7ee3ec3ef0187a8094c47a2e976bd8cfb363fc4d9c700ec7be162847403611b.png",
+        "copyOfCardId": [
+            76285
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -512,6 +534,9 @@
         "imageGold": "",
         "flavorText": "Yoink!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2205802dfca0a78ced3e6ac60791ad3036a4712feec591812df47db384776f5f.png",
+        "copyOfCardId": [
+            102607
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -548,12 +573,12 @@
         "cardSetId": 15,
         "rarityId": 4,
         "artistName": "Peet Cooper",
+        "health": 3,
         "attack": 2,
         "manaCost": 3,
-        "durability": 3,
         "name": "Charged Hammer",
         "text": "<b>Deathrattle:</b> Your Hero Power becomes 'Deal 2 damage.'",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59f7ec6bd19ba3b19f5f55c1385e1326ed4cdcefdde8a3c536fc0307aaa4ce67.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a0dd66a633e9779f182ebb026a16a3056ea676b1c2dae76064044710c7d1684.png",
         "imageGold": "",
         "flavorText": "You can only pick it up if you are worthy.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79379fbe2f7be6e83c5898a1c6978c51d42e685bfa7d3340867fc1c39abca744.png",
@@ -562,6 +587,9 @@
         ],
         "keywordIds": [
             12
+        ],
+        "copyOfCardId": [
+            103224
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -592,6 +620,9 @@
         "keywordIds": [
             1,
             12
+        ],
+        "copyOfCardId": [
+            120524
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -642,6 +673,9 @@
         "imageGold": "",
         "flavorText": "The Grand Tournament has a \"No dragons allowed\" policy, but it's rarely enforced.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d7fdd7c2a2e87a9c8ef572fffd1b6f4f3cfeb92d67d7d2269ad0badb106ff55.png",
+        "copyOfCardId": [
+            69697
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -716,6 +750,9 @@
             8,
             20
         ],
+        "copyOfCardId": [
+            102597
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -733,7 +770,7 @@
         "manaCost": 2,
         "name": "Confuse",
         "text": "Swap the Attack and Health of all minions.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e2a0b2b29ac8b2d720c0d08c229b9650ee1c3e80c0cf99111f1c6bfb798fbbd.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19a6ca952d5428d48bd6256599c4efd01b50cde5f799e5720b201b8a3f34f4b4.png",
         "imageGold": "",
         "flavorText": "This minion is really powerful!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8f0a2212e7c904a10ad6e574fa1bc143659880c35dd0a89d2a78a19eacd689a.png",
@@ -757,6 +794,9 @@
         "imageGold": "",
         "flavorText": "\"Are you interested in... HEALTH benefits?!\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a725f904f3dbe81718c3aab59804485a0e2b4c3a017502402f3499d5313672a.png",
+        "copyOfCardId": [
+            105566
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -831,6 +871,9 @@
             2,
             20
         ],
+        "copyOfCardId": [
+            102554
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -852,6 +895,9 @@
         "imageGold": "",
         "flavorText": "A prime example of lose-lose negotiating.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa6e01f47c9c39e886e226ac50cec3a287595e6230c0e524bcd81d201bca1eca.png",
+        "copyOfCardId": [
+            102643
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -899,6 +945,9 @@
         "imageGold": "",
         "flavorText": "Very dangerous when attached to a demonbomb.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/995d3d712b69786bb3b12a8cecf0da9c42466f3550972ea9b6897e53ba69dcf9.png",
+        "copyOfCardId": [
+            102636
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -908,6 +957,7 @@
         "slug": "2613-draenei-totemcarver",
         "classId": 8,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 15,
         "rarityId": 3,
@@ -917,12 +967,15 @@
         "manaCost": 4,
         "name": "Draenei Totemcarver",
         "text": "<b>Battlecry:</b> Gain +1/+1 for each friendly Totem.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2167494956b3c65e35793c27e42d4eee149b6466ec1cb5432445f6226bdcdb6.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ae3f247835d1fc959e0cd1ab6f00f4ef41eb70e596d2b07ee053c545051cd81.png",
         "imageGold": "",
         "flavorText": "It's nice to find a real craftsman in this day and age of mass-produced totems.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3f4c4e6c8d72c23d20ca9279aab3e4c5d3a2ba6c428d397f5a8898319772cbea.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            69732
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -974,6 +1027,9 @@
         "flavorText": "Let's be clear about this: ACIDMAW is the sidekick.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1597ed6167140996916084c4dd7f683149993fcf13620507a6b165a2971db69.png",
         "parentId": 2633,
+        "copyOfCardId": [
+            102548
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1125,6 +1181,9 @@
         "imageGold": "",
         "flavorText": "You have to get past the vendors first. So many are lost to shopping...",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8c00366300d0db4c5dbb295326345ce12ac02cd3438924156ed8eb795518ee6.png",
+        "copyOfCardId": [
+            102576
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1196,6 +1255,9 @@
         "imageGold": "",
         "flavorText": "And he can't get up.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81b7f2b2a1a09817183ce0d0259579cbf7cceb13e3f83c3307d425ae4438f2a2.png",
+        "copyOfCardId": [
+            69696
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1300,6 +1362,7 @@
         "slug": "2580-flame-juggler",
         "classId": 12,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 15,
         "rarityId": 1,
@@ -1309,7 +1372,7 @@
         "manaCost": 2,
         "name": "Flame Juggler",
         "text": "<b>Battlecry:</b> Deal 1 damage to a random enemy.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8eedc0daadeb7307212b64657156201d3114c309cc73d83fc296ac4dad90cbcd.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/043994babece2344e007ae2bc20e9e6c48933d091e25aa77440060c1aa94daf4.png",
         "imageGold": "",
         "flavorText": "At first he liked juggling chain saws, but then he thought, \"Flames are better! Because FIRE!\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7274a854c952690c08cc1d80f138e9c07147610a36d6ad657727235c7e297862.png",
@@ -1337,6 +1400,9 @@
         "imageGold": "",
         "flavorText": "It's on the rack next to ice lance, acid lance, and English muffin lance.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4c22dbddd8bd2a242a8004b8c4f2bbd2345eebe5298feb75ab9b2bf21834ed8.png",
+        "copyOfCardId": [
+            105563
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1358,6 +1424,9 @@
         "imageGold": "",
         "flavorText": "Flash! Ahhhhhhh~",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad6b392fc5021de3dbb32dadf825287f65fb6d8e8c17a26f8affd79b131e7c65.png",
+        "copyOfCardId": [
+            69707
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1523,6 +1592,9 @@
         "imageGold": "",
         "flavorText": "Favored by shaman who study the art of restoration and healing, this spell would feel smug, if it had feelings.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f6cea02572d228d9a4a7fe72e1e3d03b02de703af8142e433506f146f089bf1.png",
+        "copyOfCardId": [
+            103223
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1548,6 +1620,9 @@
         "keywordIds": [
             256
         ],
+        "copyOfCardId": [
+            102275
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1571,6 +1646,9 @@
         "imageGold": "",
         "flavorText": "He's a lot cooler than Magma Rager.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/609f311bc69de9b03a3ddf97229712a77df83ae4aef3a9c0510a74faef7c8a84.png",
+        "copyOfCardId": [
+            69710
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1671,6 +1749,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            111468
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1684,12 +1765,12 @@
         "cardSetId": 15,
         "rarityId": 3,
         "artistName": "Michael Franchina",
+        "health": 2,
         "attack": 3,
         "manaCost": 3,
-        "durability": 2,
         "name": "King's Defender",
         "text": "<b>Battlecry:</b> If you have a minion with <b>Taunt</b>, gain +1 Durability.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ece0a95bc3c85ad81bbf605a18ee1d125456669544c29ed606f8f11bd8a6f75.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/171f3059729e77631320524d47196bcacbe7ab5e549dfca8fc6295378c9ee8e4.png",
         "imageGold": "",
         "flavorText": "\"King's Attacker\" is a shield. Funny, huh?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c19c57151bac8614272df862ecddc5bcbbf870a7330cef1c45f6e6fd9f09cdf4.png",
@@ -1745,6 +1826,9 @@
         "imageGold": "",
         "flavorText": "He gets a discount on the tournament entry fee because he is his own horse.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dcb375f6cb78258f45e9cfe5643722743fef6f188eaf6230142627422e5bf716.png",
+        "copyOfCardId": [
+            102523
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1874,6 +1958,9 @@
         "childIds": [
             2790
         ],
+        "copyOfCardId": [
+            76289
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1894,6 +1981,10 @@
         "imageGold": "",
         "flavorText": "Rexxar narrowed his eyes, grabbed his machine gun, and said: \"It's go time. Lock and load.\" This card pays homage to that special moment.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f211d3fae11dcc79d2392e7f5eed9d2766fdb694501e7b29d223080293917d60.png",
+        "copyOfCardId": [
+            102546,
+            69690
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2064,6 +2155,9 @@
         "keywordIds": [
             20
         ],
+        "copyOfCardId": [
+            103231
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2081,7 +2175,7 @@
         "manaCost": 3,
         "name": "Mulch",
         "text": "Destroy a minion. Add a random minion to your opponent's hand.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1559fa162c39f751edb8ace54f1f37b6047679d26f0e6f697b674b2fb949825f.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57022bdeca936d7b2167ec3a0fdd743f8387209b123ceb7850d49afe709388b5.png",
         "imageGold": "",
         "flavorText": "Is this a noun or a verb? We will never know.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/130e840636699075d6c7d80d85c93c7db4943c5d785ed0675b8d818306bb5bd1.png",
@@ -2136,6 +2230,9 @@
         "keywordIds": [
             5,
             8
+        ],
+        "copyOfCardId": [
+            103237
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2248,15 +2345,18 @@
         "cardSetId": 15,
         "rarityId": 4,
         "artistName": "Nutthapon Petchthai",
+        "health": 3,
         "attack": 1,
         "manaCost": 2,
-        "durability": 3,
         "name": "Poisoned Blade",
         "text": "Your Hero Power gives this +1 Attack instead of replacing it.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fa8d891b73e74547d857dfdd5135020524d63dffa938a02b07a49de899ef040.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4807edf99d22ad839df37a43e582f798a9a29f69fa6d7e37d373437fdf1727ef.png",
         "imageGold": "",
         "flavorText": "How much more poisoned can a blade get? The answer is a lot. A lot more poisoned.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9888ceda2fd862aca190aa8982bad29c8d2889ddeac079f1b2e5613eaf39291d.png",
+        "copyOfCardId": [
+            103221
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2321,7 +2421,7 @@
         "manaCost": 3,
         "name": "Powershot",
         "text": "Deal 2 damage to a minion and the minions next to it.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55a3d86c9b7237fb97009f805d913f94816a92c8a3d64a2584fade618bf75dd3.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3508e309d04068fbb21498e52d44a08489e2a4bdd721d9621bb6e76765e3f7cb.png",
         "imageGold": "",
         "flavorText": "pow POW pow",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3702e43b6b12e721d5390ad2052af768db4c797dbfc08f173f09d485e4a2affd.png",
@@ -2557,6 +2657,9 @@
         "keywordIds": [
             13
         ],
+        "copyOfCardId": [
+            103219
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2579,6 +2682,9 @@
         "imageGold": "",
         "flavorText": "Hopes to be promoted to \"Shadowfriend\" someday.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b00c8a6a999fd5bf7c45045b6c977982343b6c7356600e2e90905c61c8cbcc74.png",
+        "copyOfCardId": [
+            102595
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2759,6 +2865,9 @@
             8,
             20
         ],
+        "copyOfCardId": [
+            102592
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2783,6 +2892,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6fc4fecd9f1dfe6c32393bf28689cba6a427105edea026caed88ed6bc425042.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            105688
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2855,7 +2967,7 @@
         "manaCost": 6,
         "name": "The Skeleton Knight",
         "text": "<b>Deathrattle:</b> Reveal a minion in each deck. If yours costs more, return this to your hand.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21ccbc3f21eb302be8afa16c2c99ab93bb138ab12ebdbfc7e19dae02970d4c90.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6592d64a434cc8b3e70022723e37185074743ec7dfb3a4c08e327f8bf0775c5.png",
         "imageGold": "",
         "flavorText": "Apparently it really was just a flesh wound.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ebd447af4442940d07fb8995b5b8d981be34ab67e23862b4abe77a6e73310a3.png",
@@ -2888,6 +3000,9 @@
             8,
             20
         ],
+        "copyOfCardId": [
+            102627
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2911,6 +3026,10 @@
         "imageGold": "",
         "flavorText": "\"No, no, no. I asked for a tiny JESTER of evil.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea287401a2d02e27b100f9b0e99f6c710b83bd85b76e5cf486a63120da1d5a9d.png",
+        "copyOfCardId": [
+            102642,
+            69729
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3043,6 +3162,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            102623
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3171,6 +3293,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f8e0466aeaae43bd0b3dbeba523e1d3ae81f10ddc52c62e517c7ee3247a27a0.png",
         "keywordIds": [
             1
+        ],
+        "copyOfCardId": [
+            69703
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false

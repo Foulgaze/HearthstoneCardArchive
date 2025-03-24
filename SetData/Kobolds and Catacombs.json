@@ -10,9 +10,8 @@
         "cardSetId": 1004,
         "rarityId": 5,
         "artistName": "Izzy Hoover",
-        "attack": 0,
+        "health": 3,
         "manaCost": 6,
-        "durability": 3,
         "name": "Aluneth",
         "text": "At the end of your turn, draw 3 cards.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d94373aa22a1136af6898f9ce31d8d6ee0fbb18a0cc9c7e3c3c3f3cafaa94e3.png",
@@ -42,6 +41,9 @@
         "imageGold": "",
         "flavorText": "Ethereal armor dissipates in 6 hours which can cause extreme awkwardness for first time buyers.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a35cbd10417f211bdc94348c3104422381d4f5b0b828371d3814abf831eaae5.png",
+        "copyOfCardId": [
+            97374
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -148,12 +150,11 @@
         "cardSetId": 1004,
         "rarityId": 4,
         "artistName": "Luca Zontini",
-        "attack": 0,
+        "health": 2,
         "manaCost": 2,
-        "durability": 2,
         "name": "Bladed Gauntlet",
         "text": "Has Attack equal to your Armor. Can't attack heroes.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e847338a5f5eca2e1dda0dc1b374c08eb0b7cfe2ebcce71aa143503255b1fbd.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82f433ecd44f36e0465be8669b9693f756869f72a616f4555384ba26c8a8a4af.png",
         "imageGold": "",
         "flavorText": "CAUTION: DO NOT SCRATCH NOSE.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49c540d23979b5f0f2e08bd763cfe1816df252dea05dfb36633c2557574a3b86.png",
@@ -243,9 +244,9 @@
         "cardSetId": 1004,
         "rarityId": 1,
         "artistName": "Anton Kagounkin",
+        "health": 3,
         "attack": 1,
         "manaCost": 1,
-        "durability": 3,
         "name": "Candleshot",
         "text": "Your hero is <b>Immune</b> while attacking.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68b322790563db696fdbb3536a3b7aa45be796fefea9c13a805be59d69337c7f.png",
@@ -254,6 +255,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ddfa5c36f47dcc0c9d13df9bad97e051a3b43f8e61f868b4fd983f2751b075ed.png",
         "keywordIds": [
             17
+        ],
+        "copyOfCardId": [
+            86543
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -372,6 +376,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9635bff8b47d720c9ddcc0493d134c64f8b421647ccb5472b9fe45999c539c40.png",
         "keywordIds": [
             5
+        ],
+        "copyOfCardId": [
+            102203
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -598,12 +605,11 @@
         "cardSetId": 1004,
         "rarityId": 5,
         "artistName": "Tyler Walpole",
-        "attack": 0,
+        "health": 3,
         "manaCost": 3,
-        "durability": 3,
         "name": "Dragon Soul",
         "text": "After you cast 3 spells in a turn, summon a 5/5 Dragon.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/310005f2ab2317d64b8eef91c3ce9c3227ccd3fe49d98220a09071cc907ea6a7.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/44a37b8587afc2fe885ea9dfa8aa4f292a8953bdcb925bc2b355a5cfae35ef1a.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa11d1cb1015600003a682ba917ea939ee1a058310f27e29a523cccd2fb2eff9.png",
         "flavorText": "Crafted by Deathwing's goblin horde, but the dragon added the rainbow sparkles himself.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4cde232ec88f85a7fe9aae6e792b757702ac26d193887cad3486e3bb8664b55.png",
@@ -785,6 +791,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            75944
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -836,6 +845,9 @@
         "keywordIds": [
             13
         ],
+        "copyOfCardId": [
+            97344
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -884,6 +896,9 @@
         "keywordIds": [
             5
         ],
+        "copyOfCardId": [
+            86235
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -912,6 +927,9 @@
         ],
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            111379
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1295,6 +1313,7 @@
         "slug": "46069-guild-recruiter",
         "classId": 12,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1004,
         "rarityId": 1,
@@ -1304,7 +1323,7 @@
         "manaCost": 5,
         "name": "Guild Recruiter",
         "text": "<b>Battlecry:</b> <b>Recruit</b> a minion that costs (4) or less.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c178fe8279235f1b8b3dc37e284206b6d671e0f513ca1688d9efddea232522d.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f52dfab2dbd38a701e927df6966845be226567952eba24fa8fc4d8c54ce51a36.png",
         "imageGold": "",
         "flavorText": "The original telemarketer.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e727ac82419c41d95a2bd24d8493dc79bf68eafa61427f00b967fb712c7b547d.png",
@@ -1358,6 +1377,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69b1e40f43f1c8aa08e691120c2a0a107568a4137353a5a76688eea29496463c.png",
         "keywordIds": [
             12
+        ],
+        "copyOfCardId": [
+            75945
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1530,7 +1552,6 @@
         "health": 3,
         "attack": 1,
         "manaCost": 1,
-        "durability": 3,
         "name": "Kingsbane",
         "text": "Always keeps enchantments. <b>Deathrattle:</b> Shuffle this into your deck.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f471e0bf4a66012c6fa32444c14446094e945e32e94ae34aa0300ae2325407f1.png",
@@ -1721,6 +1742,9 @@
         "keywordIds": [
             38
         ],
+        "copyOfCardId": [
+            111453
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1745,6 +1769,9 @@
         "childIds": [
             46308,
             46306
+        ],
+        "copyOfCardId": [
+            111371
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1775,6 +1802,10 @@
         "keywordIds": [
             5
         ],
+        "copyOfCardId": [
+            111360,
+            55789
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1800,6 +1831,9 @@
         "childIds": [
             43289,
             43290
+        ],
+        "copyOfCardId": [
+            111352
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2014,6 +2048,9 @@
             3,
             8
         ],
+        "copyOfCardId": [
+            69724
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2144,6 +2181,9 @@
         "imageGold": "",
         "flavorText": "The Guild used oak trees until they all turned to ash.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d6eff56d32bd0539e57621cd61a941bba4a8596b47de904742507551993964c.png",
+        "copyOfCardId": [
+            111355
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2169,6 +2209,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/573299ecb91e1d7af091e22229e3732fc9ae291f50ff4b664ba41b7e77304996.png",
         "keywordIds": [
             12
+        ],
+        "copyOfCardId": [
+            76323
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2317,6 +2360,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            75957
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2350,12 +2396,12 @@
         "cardSetId": 1004,
         "rarityId": 5,
         "artistName": "Trent Kaniuga & James Martin",
+        "health": 2,
         "attack": 4,
         "manaCost": 7,
-        "durability": 2,
         "name": "Rhok'delar",
         "text": "<b>Battlecry:</b> If your deck has no minions, fill your hand with Hunter spells.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/069fe69ce0f75419fda136e6b6961b8306f2dcfe4d14b6e9e8190df8782010d4.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/788fabfce0c6e5e60a91f2367eb32611f161023ecbd49b6fcca9c07079a93349.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7ab5898c821a1842e1202f26cc8a11b08dbd15d46b25d0cdf20c88311204252.png",
         "flavorText": "Rhok'delar is ready to Rhok'de'casbah!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6bcb86a0f49a3f1972ebe9bf28e128be12944a709879a11145aeee8714182d45.png",
@@ -2642,9 +2688,8 @@
         "cardSetId": 1004,
         "rarityId": 5,
         "artistName": "Matthew O'Connor",
-        "attack": 0,
+        "health": 3,
         "manaCost": 5,
-        "durability": 3,
         "name": "Skull of the Man'ari",
         "text": "At the start of your turn, summon a Demon from your hand.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1be723a8f0c58d9437c2fb731a98719d66c1c21f8859807da7de3a208096a0f.png",
@@ -2676,6 +2721,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb82f667b2eb7e91bf0d67c1dc784e0b66443b352fcda1a64817eee5bc06a956.png",
         "keywordIds": [
             1
+        ],
+        "copyOfCardId": [
+            69726
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2777,6 +2825,9 @@
             3,
             32
         ],
+        "copyOfCardId": [
+            69725
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2868,12 +2919,12 @@
         "cardSetId": 1004,
         "rarityId": 5,
         "artistName": "Jakub Kasper",
+        "health": 3,
         "attack": 3,
         "manaCost": 8,
-        "durability": 3,
         "name": "The Runespear",
         "text": "After your hero attacks, <b>Discover</b> a spell and cast it with random targets.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f269ef797fed69dcccba05858bb3d5f00c063f981a1835432983f30954018d57.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d0fb8643a18fc491d98e93837645b459f846e233d4e527c29b7296a6a8718af.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c8c08746234f9087332777d119065189683e5966b6a93b29163dab6c72cf5e1.png",
         "flavorText": "When asked what the runes do, the tauren smith smiled: \"A little of this, a little of that...\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/430245461b03d55897b2e20a181ce7c1ca0d046ec5927bb024064d82ea296f1f.png",
@@ -2966,12 +3017,12 @@
         "cardSetId": 1004,
         "rarityId": 5,
         "artistName": "Alexey Aparin",
+        "health": 5,
         "attack": 1,
         "manaCost": 4,
-        "durability": 5,
         "name": "Twig of the World Tree",
         "text": "<b>Deathrattle:</b> Refresh your Mana Crystals.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf28ee88fca7e6c589cad09c0a45407371a804ce3e9b638806a1cc3c56311e9b.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/060549fa163663305dbf78211ad6038e60e44c382ddde245ffb82990605c2fef.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f4dd59bbf5da9ac7afc037cc8cb63031f19538bf6aaf479f25ad97eb338cdeb.png",
         "flavorText": "For druids who want to branch out.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3be0e8a9bf861b5d82e37c0302150311f03d7e44c652d739b3c85f9315f5dee6.png",
@@ -3067,12 +3118,12 @@
         "cardSetId": 1004,
         "rarityId": 3,
         "artistName": "Dan Scott",
+        "health": 2,
         "attack": 2,
         "manaCost": 3,
-        "durability": 2,
         "name": "Unidentified Maul",
         "text": "Gains a bonus effect in your hand.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/089dee5d85e4c4179836fb7e481d1c4859a284e196c714630c59efbc74f2e0ea.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/decc659f4a4760f1219302fb53d7133cf8a75ceeb22e533edb3b5099b66f50f2.png",
         "imageGold": "",
         "flavorText": "When all you have is an unidentified maul, everything else looks like an unidentified nail.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8fa3eacce3a7900c8ed359e436038bcabcab762a27a4f1d1fa930f6d8962dbb9.png",
@@ -3151,12 +3202,12 @@
         "cardSetId": 1004,
         "rarityId": 5,
         "artistName": "James Ryman",
+        "health": 2,
         "attack": 4,
         "manaCost": 6,
-        "durability": 2,
         "name": "Val'anyr",
         "text": "<b>Deathrattle:</b> Give a minion in your hand +4/+2. When it dies, reequip this.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73d473f44f272a7c23397a57a3e47833206e7b1661c2e139cb8e1a540cd2caad.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c126b9690dc4e003b6c3b78c5394dee65215b22a858ceb30649213bf9999f12.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2580157bbe197ce41fc868f70ff0b0e2a0379491ee9843be1c5cecbf738c4989.png",
         "flavorText": "Recently unearthed in one of the deepest kobold caves. Traded for a large candle.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4dc46792ee69bf0f36a5c414c2d9e57431f5b5324f29a9df7533099fa7264786.png",
@@ -3195,6 +3246,9 @@
         "keywordIds": [
             12
         ],
+        "copyOfCardId": [
+            75955
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3214,7 +3268,7 @@
         "manaCost": 3,
         "name": "Void Ripper",
         "text": "<b>Battlecry:</b> Swap the Attack and Health of all other minions.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2b61f11c784dd9e3eb2318cdc4257feded4c380499896e0fa9be1c10423f9c6.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/274ec9515185687785f765864b91fe5bff2d64cbccb3e239bb47c47fdabcf799.png",
         "imageGold": "",
         "flavorText": "You had to put the portable hole inside the bag of holding, didn't you?!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4160a92a55e6902e3a649bbe03ba1c54d9a3ecffb93b0fd00c2b0704636f56f9.png",
@@ -3278,6 +3332,9 @@
             1,
             8
         ],
+        "copyOfCardId": [
+            117060
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3300,6 +3357,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd3f7e51b03324b0bd5b8681516514068d30a35806b0df65a57e7d7fc057809b.png",
         "keywordIds": [
             5
+        ],
+        "copyOfCardId": [
+            102189
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3373,9 +3433,9 @@
         "cardSetId": 1004,
         "rarityId": 5,
         "artistName": "Matthew O'Connor",
+        "health": 3,
         "attack": 3,
         "manaCost": 8,
-        "durability": 3,
         "name": "Woecleaver",
         "text": "After your hero attacks, <b>Recruit</b> a minion.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e06e847d819e661f21be0d1bcd3410a3eb948b7188c42a362fac948514e58508.png",
@@ -3410,6 +3470,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f90817362b43bda91e75346d52a0056154851e7ae571eab9e9f173e7593fbc57.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            76310
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false

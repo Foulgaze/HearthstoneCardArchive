@@ -148,6 +148,9 @@
             1,
             8
         ],
+        "copyOfCardId": [
+            111455
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -271,6 +274,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08701e2a59566173b3777b1eac50256178e8946f319db5d4b4fd1adea8ed983d.png",
         "keywordIds": [
             53
+        ],
+        "copyOfCardId": [
+            75953
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -447,6 +453,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03fc4892ddc2d3b968164afa510e19844a1dbdcc2847925ebc3278be6d9bc564.png",
         "flavorText": "She always manages to lift your spirits.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca205ad27d170095f683fa03e85db53b203834d706cfb725dcb2bb7e623e5f6d.png",
+        "copyOfCardId": [
+            102199
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -651,8 +660,8 @@
         "artistName": "Arthur Bozonnet",
         "manaCost": 2,
         "name": "Crystalsong Portal",
-        "text": "<b>Discover</b> a Druid minion. If your hand has no minions, keep all 3.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90ed328b33718fa848d6b7004664b6397e19c4ef60be44325c97acfd364ed9d5.png",
+        "text": "<b>Discover</b> a Druid minion. If your hand has no minions, keep all 3 instead.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb82631ba3c0c333bae247832161fd5090f74a0770d6250b877f87d1ed4ca0a5.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9564bdec4d11898324b7068fa5fc95ee540a3d37d7ec8e2945dcce31b22e7287.png",
         "flavorText": "Experience the draw of the wild!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f725db945454d0706b63f370e0871fbc66292c05576549ec32a815cee352c25e.png",
@@ -1050,7 +1059,6 @@
         "health": 2,
         "attack": 2,
         "manaCost": 4,
-        "durability": 0,
         "name": "Eager Underling",
         "text": "<b>Deathrattle:</b> Give two random friendly minions +2/+2.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6af3dbb00726a3d32720e107e5960af6cdf5bfb7e0561cd3281e291cba065ed9.png",
@@ -1160,6 +1168,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/faa35b74a2d787375e9f5ae4ef83d3ae93e6af24ed2b3ad70b217fbfb609049f.png",
         "keywordIds": [
             53
+        ],
+        "copyOfCardId": [
+            75956
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1324,6 +1335,9 @@
         "keywordIds": [
             8,
             21
+        ],
+        "copyOfCardId": [
+            86540
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1583,6 +1597,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d6eb7da843bc16d201ad680b95b15b9a935054609addde595b7600acb59fa7b.png",
         "flavorText": "Jumbo in size! Huge in E.V.I.L.!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69ed0c60738bc00e0871fe9648434201447812bdac7cce5443e0d98376833139.png",
+        "copyOfCardId": [
+            75965
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1609,6 +1626,9 @@
         "keywordIds": [
             8,
             21
+        ],
+        "copyOfCardId": [
+            76271
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1663,6 +1683,7 @@
         "slug": "52638-kirin-tor-tricaster",
         "classId": 4,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1130,
         "rarityId": 3,
@@ -1672,7 +1693,7 @@
         "manaCost": 4,
         "name": "Kirin Tor Tricaster",
         "text": "<b>Spell Damage +3</b> Your spells cost (1) more.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51462c30ad82ae7759d49b8b4b953ab16ec6a222068a34d65d8552ccf86d8050.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e38dce19b379fa44866bac55f1cac30802748ad2ec82b17630e9f0c7302e417.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c47ad7eb6a67e9b1d07820403337837451d9a5410badf5c6196a49d2d5de105.png",
         "flavorText": "The math checks out!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/662da138440c5203976206f997e374ade06d56cd8ca67d77970e8157c0fa2137.png",
@@ -1737,7 +1758,6 @@
         "rarityId": 1,
         "artistName": "Vladimir Kafanov",
         "manaCost": 2,
-        "durability": 0,
         "name": "Lightforged Blessing",
         "text": "<b>Twinspell</b> Give a friendly minion <b>Lifesteal</b>.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ceb267c986522b3e28c447dff837d89e44f09ab727eacb054475aacd085da97b.png",
@@ -1834,6 +1854,9 @@
         "keywordIds": [
             8,
             21
+        ],
+        "copyOfCardId": [
+            111374
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1982,6 +2005,9 @@
         "keywordIds": [
             21
         ],
+        "copyOfCardId": [
+            76300
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2089,12 +2115,12 @@
         "cardSetId": 1130,
         "rarityId": 3,
         "artistName": "Vlad Botos",
+        "health": 2,
         "attack": 2,
         "manaCost": 2,
-        "durability": 2,
         "name": "Mysterious Blade",
         "text": "<b>Battlecry:</b> If you control a <b>Secret</b>, gain +1 Attack.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f208065c3b950c0c31a2d91b6d51b461b7e0d796d8a3a90b4a05ae01af5537e.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef6139a7a093b8eba2a3f1ca9fa63dc59900d4602f934ebe627d7825dac87bd9.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc81882211754df82773da92a3d8eb4ac6613862f9126e338af7165d40b56ec2.png",
         "flavorText": "It knows every secret you have left.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/511a73c8285d7ec236cb611ad4ca0f58773cb01ce68f07cdd3764b54e5fccae9.png",
@@ -2367,6 +2393,7 @@
         "slug": "52418-proud-defender",
         "classId": 12,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1130,
         "rarityId": 1,
@@ -2376,7 +2403,7 @@
         "manaCost": 4,
         "name": "Proud Defender",
         "text": "<b>Taunt</b> Has +2 Attack while you have no other minions.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/67ee882aeb97aa436eb35795e295b5a32197016c93d9c291c57af84097767c05.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff34eb902bde545b50d23f4a78e4b7fea6ec980400f522ec3b05a4df51506bda.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8c1641302c137d4fc346e8493d0de11f275e6ee7e8f9fda029c0e6c4185de9d.png",
         "flavorText": "It'll take a humble offender to defeat him.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aeb9e47e88225b71ca066d6cb914d691d655568cce7368f0e9673068cb5d7705.png",
@@ -2757,6 +2784,9 @@
         "keywordIds": [
             5,
             8
+        ],
+        "copyOfCardId": [
+            69712
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3350,9 +3380,9 @@
         "cardSetId": 1130,
         "rarityId": 4,
         "artistName": "Jason Kang",
+        "health": 2,
         "attack": 4,
         "manaCost": 4,
-        "durability": 2,
         "name": "Waggle Pick",
         "text": "<b>Deathrattle:</b> Return a random friendly minion to your hand. It costs (2) less.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/949e6908ec04c03b5bb2a33012e9a7b50c099f250971bb770734dee575a19b36.png",
@@ -3361,6 +3391,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96372a54c65f6ee7ac1c2bd18504f7042b4da92c55c7667d1f7bb465ab69d9f8.png",
         "keywordIds": [
             12
+        ],
+        "copyOfCardId": [
+            120462
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3451,12 +3484,12 @@
         "cardSetId": 1130,
         "rarityId": 4,
         "artistName": "Akkapoj T.",
+        "health": 2,
         "attack": 3,
         "manaCost": 4,
-        "durability": 2,
         "name": "Wrenchcalibur",
         "text": "After your hero attacks, shuffle a Bomb into your opponent's deck.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12c1cfa4ea4684fffbba4a7a7794bb73161be21e01777e54ed9be2d96837ed58.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9aaa247210d8756933edc8e5e6a6731ab3fda9f4992c61ea2c03e530c686f600.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d5fb755b81b90bc185ad24c0b6a4d15ede37fdf2d3738079cba76ac0246a5f4.png",
         "flavorText": "Whoso pulleth out this wrench from the toolbox is rightwise king of the lab.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e202a772045d11019ca1b0a89f929e113ba4f44a4d0feacaa88279c7951a017.png",
@@ -3487,6 +3520,7 @@
         "flavorText": "E.V.I.L. is the new black.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/688a9c57f30467b82cd1fb42803a790644ce13da5deba69110a260dbe53a08e3.png",
         "childIds": [
+            813,
             930,
             1066,
             893,
@@ -3495,6 +3529,15 @@
             687,
             300,
             725,
+            41887,
+            54816,
+            57767,
+            64733,
+            67523,
+            67710,
+            71074,
+            71075,
+            71076,
             2743,
             40195,
             57755,

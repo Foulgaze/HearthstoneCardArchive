@@ -100,6 +100,9 @@
             8,
             53
         ],
+        "copyOfCardId": [
+            75915
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -134,6 +137,7 @@
         "slug": "59616-argent-braggart",
         "classId": 5,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1443,
         "rarityId": 4,
@@ -143,7 +147,7 @@
         "manaCost": 2,
         "name": "Argent Braggart",
         "text": "<b>Battlecry:</b> Set this minion's Attack and Health to the highest in the battlefield.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12ee443436ec70887f20d3149d75aa2ba25ad5428fb6e0da9becf143a6cbb197.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8cf79550e74286072e8dfb180a1084cfe874363dec0ada1120cec941ff3441a3.png",
         "imageGold": "",
         "flavorText": "Not sure why he's bragging, he's got the same stats as the next guy.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3540bbfda6987ecb3eed9939df0059ccd3e02848c5ade55ca300dce1cf1beba5.png",
@@ -173,6 +177,9 @@
         "keywordIds": [
             21,
             53
+        ],
+        "copyOfCardId": [
+            71544
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -328,7 +335,7 @@
         "manaCost": 4,
         "name": "Brittlebone Destroyer",
         "text": "<b>Battlecry:</b> If your hero's Health changed this turn, destroy a minion.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c587c0338e430a5dddb07e0bc2523a5f173255b50f709a06e2b9675ca397ac53.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef90e257e26b6ef8d02e481f1c08046384d05a064a81927b6d9838423ba7aab9.png",
         "imageGold": "",
         "flavorText": "Broke many a leg in drama class.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f12ed99084c28a69effe58f27f529dc85c65d202ead528b5c81a045d4576859.png",
@@ -401,12 +408,12 @@
         "cardSetId": 1443,
         "rarityId": 4,
         "artistName": "MAR Studio",
+        "health": 2,
         "attack": 2,
         "manaCost": 3,
-        "durability": 2,
         "name": "Ceremonial Maul",
         "text": "<b>Spellburst</b>: Summon a Student with <b>Taunt</b> and stats equal to the spell's Cost.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b3ebf4a5481ac44bb7ac9145d46d547d9d4afe5d8a1d497613e309216888581.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cfe80ae024110137d6264b0fb253ab5b6c38aab4ae679ac0dd040b0d77ed7c31.png",
         "imageGold": "",
         "flavorText": "For the most discerning of hall monitors.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de0cdca7dbcb7cb128dc9e740f09a16621971f3b76e03c8403d97aa75ed4c5c0.png",
@@ -567,6 +574,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            102224
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -664,6 +674,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58f853b53cc1c178178edfc74dc7f7c71f3c09a3e63841879db298f28a002799.png",
         "keywordIds": [
             21
+        ],
+        "copyOfCardId": [
+            111458
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1344,6 +1357,7 @@
             5,
             6
         ],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1443,
         "rarityId": 5,
@@ -1353,7 +1367,7 @@
         "manaCost": 4,
         "name": "High Abbess Alura",
         "text": "<b><b>Spellburst</b>:</b> Cast a spell from your deck <i>(targets this if possible)</i>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/770ef4ee15e861b066ac0b1bb9ebf0058b000b796875959a95824c8fe6e14c2c.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aac4a78c67ba6e6c2711c6fdfac3560f1a0799830803a993255a307199b0be71.png",
         "imageGold": "",
         "flavorText": "She's all about hitting the books. Literally.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9fc500fbe6c818bd8743b48ac769fdadef62109c37c95f409106cfb79414560.png",
@@ -1429,7 +1443,7 @@
         "manaCost": 6,
         "name": "Initiation",
         "text": "Deal 4 damage to a minion. If that kills it, summon a new copy.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/946fcb2ccaacf133c8100cc893029d61ba52a827279d368990b95f03a4f0c848.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61b36b0fab8d4bd701d38e13c7dd04a80ad5a73f4d25d51443da45601f6e9e41.png",
         "imageGold": "",
         "flavorText": "The things a murloc's gotta go through to graduate from Scholomance\u2026",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00bf74de86b7e61b14b2caf1c47bda44b11da7276ccfa8f118589b4e3b9cc1fc.png",
@@ -1633,6 +1647,9 @@
         "imageGold": "",
         "flavorText": "\"There\u2019s a monster in the lake?!\" \"That\u2019s not a monster, that\u2019s Gary.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e228ed9600831677d80598745ba8d003f26e2b5c983cd1296bd406986866dc81.png",
+        "copyOfCardId": [
+            75939
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1659,6 +1676,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bbd6927280b1fee5d41517fc040c231b246028eaa892991d208ac20df9375a1.png",
         "keywordIds": [
             14
+        ],
+        "copyOfCardId": [
+            95824
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1779,12 +1799,12 @@
         "cardSetId": 1443,
         "rarityId": 1,
         "artistName": "Akkapoj T.",
+        "health": 2,
         "attack": 4,
         "manaCost": 4,
-        "durability": 2,
         "name": "Marrowslicer",
         "text": "<b>Battlecry:</b> Shuffle 2 Soul Fragments into your deck.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e16f98c5af38f90c4b40966f93766796b65bd0328117b4e9365c010cfc1696cd.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf15f32367b55f37d983a8c257257cadcdee0dc2a3fc456d968d98dbb5e54b07.png",
         "imageGold": "",
         "flavorText": "Perfect for killing the first boss in Icecrown Citadel.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5df0c40bc39bfde99875e4712c98f2d44fd1fe40cf241c7b534150b6ebe500eb.png",
@@ -1891,6 +1911,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ee9e7822b0b7498f0ad9a614e507b1d358d1b8e7834aea3f58ac15632434264.png",
         "keywordIds": [
             21
+        ],
+        "copyOfCardId": [
+            73084,
+            90645
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2035,6 +2059,9 @@
         "keywordIds": [
             5
         ],
+        "copyOfCardId": [
+            102204
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2161,6 +2188,10 @@
             2,
             21
         ],
+        "copyOfCardId": [
+            74701,
+            76947
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2210,6 +2241,9 @@
         "imageGold": "",
         "flavorText": "Technically, it\u2019s just really late healing.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f87a56c9fee2a7c41cba69979516440076a0b0d0195d8288f4937503d0c5815.png",
+        "copyOfCardId": [
+            75551
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2277,9 +2311,9 @@
         "cardSetId": 1443,
         "rarityId": 3,
         "artistName": "Kagi",
+        "health": 2,
         "attack": 4,
         "manaCost": 4,
-        "durability": 2,
         "name": "Reaper's Scythe",
         "text": "<b>Spellburst</b>: Also damages adjacent minions this turn.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2bb6da513b8b6a001f2b06af33b319efab9731d9fabe96ea358798ea649748b7.png",
@@ -2327,9 +2361,9 @@
         "cardSetId": 1443,
         "rarityId": 1,
         "artistName": "Kagi",
+        "health": 3,
         "attack": 1,
         "manaCost": 2,
-        "durability": 3,
         "name": "Rune Dagger",
         "text": "After your hero attacks, gain <b>Spell Damage +1</b> this turn.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd0cb851305c0a64bb64faa9b3b01d7366e70f9b23be0ac03946a1510b701072.png",
@@ -2391,6 +2425,9 @@
         "childIds": [
             59723
         ],
+        "copyOfCardId": [
+            75786
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2424,12 +2461,12 @@
         "cardSetId": 1443,
         "rarityId": 3,
         "artistName": "Kagi",
+        "health": 4,
         "attack": 1,
         "manaCost": 3,
-        "durability": 4,
         "name": "Self-Sharpening Sword",
         "text": "After your hero attacks, gain +1 Attack.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0153bf8a00bf0663681a8182f065fc3943c71a02ea985d3702db1da895e05370.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7652728f0858e866e160c6c72e79c3f803a9792f23b23c1b9c108f831bf8e86.png",
         "imageGold": "",
         "flavorText": "You no longer have to bring a stack of 2 swords to a test!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30c48bacd62fa6e6871940836ba1c94720b91f45d4be1fe1a9ed4633f5c73c4e.png",
@@ -2679,6 +2716,9 @@
         "childIds": [
             59723
         ],
+        "copyOfCardId": [
+            75785
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2721,6 +2761,7 @@
         "slug": "59732-soulshard-lapidary",
         "classId": 14,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1443,
         "rarityId": 1,
@@ -2730,7 +2771,7 @@
         "manaCost": 5,
         "name": "Soulshard Lapidary",
         "text": "<b>Battlecry:</b> Destroy a Soul Fragment in your deck to give your hero +5 Attack this turn.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ac00690fa8f3bb74b7e13b486f1995572fece26b7fa0560353e56efb799895a.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e49e9a144fe2727b37342d0d6e6c486928955d4a4282088d33d7c64c804fa1c.png",
         "imageGold": "",
         "flavorText": "Also known as a soul sequincer.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9e52a03127012ef186a2c01d9d8e7d559a0b7a10fcc76fd0fd04d9894f20848.png",
@@ -2783,9 +2824,8 @@
         "cardSetId": 1443,
         "rarityId": 5,
         "artistName": "Jakub Kasper",
-        "attack": 0,
+        "health": 4,
         "manaCost": 1,
-        "durability": 4,
         "name": "Sphere of Sapience",
         "text": "At the start of your turn, look at your top card. You can put it on the bottom and lose 1 Durability.",
         "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/422400e2c0b4af82421bae42c35440c6cedd2df65b2af35bad5519516ae3a634.png",
@@ -2826,6 +2866,9 @@
         ],
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            75971
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2879,6 +2922,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/882b87fed2788737771a91af066c14563d816afd7ee3cd76c27648f6ad493ddd.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            71013
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3040,6 +3086,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            102743
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3099,6 +3148,7 @@
             105230,
             109426,
             113231,
+            119813,
             64307,
             2150,
             2151,
@@ -3243,12 +3293,12 @@
         "cardSetId": 1443,
         "rarityId": 4,
         "artistName": "Kagi",
+        "health": 4,
         "attack": 1,
         "manaCost": 1,
-        "durability": 4,
         "name": "Trueaim Crescent",
         "text": "After your Hero attacks a minion, your minions attack it too.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b66f80721632324739f1d03aa85067402860fdfde5079efafb164aca9192b3d.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98c21de3c67d4c017fd24e7e432b514a8e9d1cd568f01448e1788599d613a70c.png",
         "imageGold": "",
         "flavorText": "You could have just pointed.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4291c4e3b51df5b9bff7886424e4159a0e9b8ef285cb5449283919075b1a8101.png",
@@ -3390,6 +3440,9 @@
             1,
             8
         ],
+        "copyOfCardId": [
+            75990
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3463,6 +3516,9 @@
             13,
             21
         ],
+        "copyOfCardId": [
+            71012
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3487,6 +3543,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be3f35cba94138e7096686fcdae6007f37ed7a692dc352aa3ca40304333af511.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            111471
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3546,6 +3605,7 @@
         "slug": "59036-wretched-tutor",
         "classId": 12,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1443,
         "rarityId": 1,
@@ -3555,7 +3615,7 @@
         "manaCost": 4,
         "name": "Wretched Tutor",
         "text": "<b>Spellburst:</b> Deal 2 damage to all other minions.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be142ac77a7dc20aadf0dd8271cc26fc822c47983091d002cc00e66e2edb6d21.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/553560d7aa6c959471c63ace2b9354bb897fae53e6b2020f125c853861688053.png",
         "imageGold": "",
         "flavorText": "\"If you like my tutoring, you'll love my sister the art therapist, my father the driver, and my mother the housekeeper.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec81c3897cef294dba275088849d7484d516064d4a22e133d5338cdca528990d.png",

@@ -23,6 +23,9 @@
             1,
             12
         ],
+        "copyOfCardId": [
+            440
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -47,6 +50,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c10df6994599819f7a22e8ffc9a3779ecfc0f76d5c499e4c299aae5c7fa9bcc8.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            69649,
+            242
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -73,6 +80,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            906,
+            69548
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -95,6 +106,11 @@
         "imageGold": "",
         "flavorText": "He trained when he was younger to be an acolyte of joy, but things didn\u2019t work out like he thought they would.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/976dd43b2eb899a651adeca507417d06af5b81e86049ec518f81331cf980451e.png",
+        "copyOfCardId": [
+            1659,
+            106559,
+            76316
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -123,6 +139,10 @@
             4,
             11
         ],
+        "copyOfCardId": [
+            69632,
+            32
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -146,6 +166,9 @@
         "imageGold": "",
         "flavorText": "WARNING. WARNING. WARNING.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3539e8d1b6a1c1e9d3c82487330df7221a10890eeb55797b1874ad985958bc36.png",
+        "copyOfCardId": [
+            1658
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -170,6 +193,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9662e2241c0b59834ccc2c11d5b454eb42fa47b00ff7951688e52c171d04c4fb.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            69612,
+            1167
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -197,6 +224,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            581,
+            111467
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -219,6 +250,9 @@
         "imageGold": "",
         "flavorText": "If an Amani berserker asks \"Joo lookin' at me?!\", the correct response is \"Nah, mon\".",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d4b5ff41f2f28beb154b58a100530e8bb5f724622a151150646f4c4d4d513a2.png",
+        "copyOfCardId": [
+            790
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -242,6 +276,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            149
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -264,6 +301,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/adef14b2ef3a9a68b343b6f27cb3fed2e9192fec9ecf69b60693703069527011.png",
         "keywordIds": [
             12
+        ],
+        "copyOfCardId": [
+            404
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -289,6 +329,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f4fd1841995db5af1fabf193e38d3fc9825dc67164627a3cd21601a8928bf8a.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            186
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -316,6 +359,9 @@
             2,
             8
         ],
+        "copyOfCardId": [
+            915
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -338,6 +384,9 @@
         "imageGold": "",
         "flavorText": "Why do its eyes seem to follow you as you walk by?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e80cb2d535e98acf3645023a661f1a7bba360c825eae7c7b1b3300305348a9ef.png",
+        "copyOfCardId": [
+            605
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -360,6 +409,10 @@
         "imageGold": "",
         "flavorText": "Go ahead, carve your initials in him.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/446f96fece1b45fc1b9ae08f6340759aa279a45b4315c16077438ae680167e87.png",
+        "copyOfCardId": [
+            76291,
+            920
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -385,6 +438,10 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            69596,
+            1035
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -408,6 +465,9 @@
         "imageGold": "",
         "flavorText": "There is no beast more frightening (or ridiculous) than a fully enraged chicken.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e29c1530a1443ace74d5a3033544ba37bbbbf6df5d01b3bd72bc73846e19a61.png",
+        "copyOfCardId": [
+            1688
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -432,6 +492,10 @@
             68533,
             68531,
             68530
+        ],
+        "copyOfCardId": [
+            76297,
+            437
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -461,6 +525,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            538
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -481,6 +548,10 @@
         "imageGold": "",
         "flavorText": "This spell is much better than Arcane Implosion.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99fb12925a8ced9784ee3f9d0e15d9b11858ee3df2f37fcd5a1d70e694183e9a.png",
+        "copyOfCardId": [
+            68191,
+            447
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -507,6 +578,9 @@
             4,
             8
         ],
+        "copyOfCardId": [
+            466
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -527,6 +601,11 @@
         "imageGold": "",
         "flavorText": "Playing this card makes you SMARTER. And let's face it: we could all stand to be a little smarter.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85a8ede320262f60c650638a154107206f9ec6f99aa771e8df710f191ff16088.png",
+        "copyOfCardId": [
+            68192,
+            555,
+            69500
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -547,6 +626,9 @@
         "imageGold": "",
         "flavorText": "You'd think you'd be able to control your missiles a little better since you're a powerful mage and all.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c768bd053be169d72620df64b1d56baede2c579b8747850d1fd287c153340cd2.png",
+        "copyOfCardId": [
+            564
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -567,6 +649,11 @@
         "imageGold": "",
         "flavorText": "Magi conjured arcane arrows to sell to hunters, until hunters learned just enough magic to do it themselves. The resulting loss of jobs sent Stormwind into a minor recession.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca2611fb767276564bb3f040b4ae701359b5769760e010b10124e8651022a603.png",
+        "copyOfCardId": [
+            68193,
+            877,
+            69546
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -580,15 +667,18 @@
         "cardSetId": 1646,
         "rarityId": 2,
         "artistName": "Stefan Kopinski",
+        "health": 2,
         "attack": 5,
         "manaCost": 5,
-        "durability": 2,
         "name": "Arcanite Reaper",
         "text": "",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b528730648deaeebb338fc5f62a1b9b6788f617a44da6b279a757909108cfbe.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7dbf6584aed69b351f2989746fda6026fd8520777fb2626b742372c453eba781.png",
         "imageGold": "",
         "flavorText": "No\u2026 actually you should fear the Reaper.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a33906b009940ce8b08cd4b65ef584ce844df5fa4c6aaf1ec0b18df4699877cf.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b32e1619bcd8320820a46c528678c96d09a556e7189ac38415d639ed97267b5.png",
+        "copyOfCardId": [
+            304
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -614,6 +704,9 @@
         "keywordIds": [
             2
         ],
+        "copyOfCardId": [
+            525
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -638,6 +731,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e79bd25936653ee473dea10c02d5ad054af1500f7e254314038db33bb82fb43.png",
         "childIds": [
             68326
+        ],
+        "copyOfCardId": [
+            1080,
+            120426
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -665,6 +762,9 @@
             3,
             4
         ],
+        "copyOfCardId": [
+            281
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -691,6 +791,10 @@
             3,
             8
         ],
+        "copyOfCardId": [
+            69611,
+            1022
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -716,6 +820,10 @@
         "keywordIds": [
             3
         ],
+        "copyOfCardId": [
+            69653,
+            757
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -738,6 +846,10 @@
         "imageGold": "",
         "flavorText": "She accepts guild funds for repairs!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a165b7374d54f0c381a7bd0591cace8b2f39ce174547b61bd1c32ca9f9b3829a.png",
+        "copyOfCardId": [
+            69639,
+            596
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -751,15 +863,19 @@
         "cardSetId": 1646,
         "rarityId": 2,
         "artistName": "Brian Huang",
+        "health": 4,
         "attack": 3,
         "manaCost": 5,
-        "durability": 4,
         "name": "Assassin's Blade",
         "text": "",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28aa3775dd7b5470c9e50e7325fa9a32b2f072a406e4b2e111d232fa353a2d93.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cba70bceaa7a0cad233f5622132ec9ccaa13e15c1fb1da38324e99ccb6be228.png",
         "imageGold": "",
         "flavorText": "Guaranteed to have been owned by a real assassin. Certificate of authenticity included.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6716079053d9fcb879993ed45294fe1b523e9f99784aa6498c709db8f0217d9e.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95efc843fafbbf75b4a77becec516d44c18d4a772d753ac859f361c201562803.png",
+        "copyOfCardId": [
+            421,
+            69527
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -780,6 +896,10 @@
         "imageGold": "",
         "flavorText": "If you don't want to be assassinated, move to the Barrens and change your name. Good luck!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b69fe4f725fcce73f1db9b54422d6a8a6606ca064ee4023cfda38c6ecc330a6.png",
+        "copyOfCardId": [
+            345,
+            69525
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -802,6 +922,9 @@
         "imageGold": "",
         "flavorText": "The Auchenai know the end is coming, but they're not sure when.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b74c153ec6968662ce7fddb4e4abbc8b07d01f51eae1d62cdeda125358869d0.png",
+        "copyOfCardId": [
+            237
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -822,6 +945,9 @@
         "imageGold": "",
         "flavorText": "Wham! Wham! Wham! Wham! Wham! Wham! Wham! Wham!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7325059f168f68ee6dc6730c55c07e94a01a74b971e2bfe94e6bbab514977ac.png",
+        "copyOfCardId": [
+            1174
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -849,6 +975,10 @@
             2,
             8
         ],
+        "copyOfCardId": [
+            76324,
+            825
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -869,6 +999,10 @@
         "imageGold": "",
         "flavorText": "It's funny how often yelling \"Look over there!\" gets your opponent to turn around.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42b9307705362b24fa4d4944836df09857cebc9289ad8c468cc4fd7314aa5e03.png",
+        "copyOfCardId": [
+            180,
+            69521
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -885,7 +1019,7 @@
         "manaCost": 5,
         "name": "Bane of Doom",
         "text": "Deal 2 damage to a character. If that kills it, summon a random Demon.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1547a3d9520b840f9865f2a518ca4a7ccb953f101df43940aec2db8863db2c19.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d441675becc33723714a5ffe43f59b68050a3c898831c9623d07a9ce65b3b2a4.png",
         "imageGold": "",
         "flavorText": "My advice to you is to avoid Doom, if possible.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14212dd3d3b7eb805d049e31dc8645732026924c06f5fccea17133a96f418927.png",
@@ -896,6 +1030,10 @@
             68346,
             69913,
             68460
+        ],
+        "copyOfCardId": [
+            103226,
+            23
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -919,6 +1057,10 @@
         "imageGold": "",
         "flavorText": "Baron Geddon was Ragnaros's foremost lieutenant, until he got FIRED.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b6f99d4a77a2e83cacb03a8628912c771017f3d8b8f7dcbaafb5305b598ee08.png",
+        "copyOfCardId": [
+            69674,
+            336
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -939,6 +1081,9 @@
         "imageGold": "",
         "flavorText": "\"You won't like me when I'm angry.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53607e194f64bf0956462e3a36bebee7720034dbc695c3fd3798e70a03c7ccca.png",
+        "copyOfCardId": [
+            400
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -962,6 +1107,9 @@
         "keywordIds": [
             17
         ],
+        "copyOfCardId": [
+            903
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -982,6 +1130,9 @@
         "imageGold": "",
         "flavorText": "Everyone has a price. Gnomes, for example, can be persuaded by stuffed animals and small amounts of chocolate.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62138173b222b4710c131e2403b50718ad3fa153d03714a2c64591a575a813d8.png",
+        "copyOfCardId": [
+            282
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1007,6 +1158,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            69652,
+            1657
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1027,6 +1182,9 @@
         "imageGold": "",
         "flavorText": "Chew your food!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f40299dc51aa384fa06992e074ff582ca3b7128ec9ed1dfe64580148049b8be1.png",
+        "copyOfCardId": [
+            577
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1047,6 +1205,9 @@
         "imageGold": "",
         "flavorText": "\"Look, it's not just about waving daggers around really fast. It's a lot more complicated than that.\" - Shan, Rogue Trainer",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c10b542701979d2575e3ad37eb2d13fed5ba89e974408731dbc1c903058c0ec6.png",
+        "copyOfCardId": [
+            1064
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1067,6 +1228,9 @@
         "imageGold": "",
         "flavorText": "This card causes double the trouble AND double the fun.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4414b5c913b0bce6063f115ff7d423f520259df2df350bc187672b944800c34e.png",
+        "copyOfCardId": [
+            1522
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1087,6 +1251,10 @@
         "imageGold": "",
         "flavorText": "Given the number of kings who have been assassinated, are you sure you want their blessing?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39436bb12293d70739ee95fc7f9df2f49c1651e727e4873b8ea5542a248b5ce4.png",
+        "copyOfCardId": [
+            943,
+            69530
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1107,6 +1275,9 @@
         "imageGold": "",
         "flavorText": "\"As in, you MIGHT want to get out of my way.\" - Toad Mackle, recently buffed.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf1330935389021ca6fab6205c8511b846e2338081b806f99a19a7e7d1c46575.png",
+        "copyOfCardId": [
+            70
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1127,6 +1298,9 @@
         "imageGold": "",
         "flavorText": "Apparently with wisdom comes the knowledge that you should probably be attacking every turn.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c1133d204980b0c501d907ab4adbdcaa163605b3d23036ba92dfea919f65f7f.png",
+        "copyOfCardId": [
+            1373
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1149,6 +1323,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20df2e4eb8198e73da36b3e8d5e693055dda65a6c9900c7f7b105b2e557facb4.png",
         "keywordIds": [
             10
+        ],
+        "copyOfCardId": [
+            76273,
+            457
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1176,6 +1354,9 @@
         "keywordIds": [
             6
         ],
+        "copyOfCardId": [
+            469
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1202,6 +1383,9 @@
             3,
             8
         ],
+        "copyOfCardId": [
+            755
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1225,6 +1409,10 @@
         "imageGold": "",
         "flavorText": "\"Kill 30 raptors.\" - Hemet Nesingwary",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dedca6135d08709c2884e196f901d02a3300fa8f524948eb771c82f47a76a6a.png",
+        "copyOfCardId": [
+            68201,
+            216
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1245,6 +1433,10 @@
         "imageGold": "",
         "flavorText": "blaarghghLLGHRHARAAHAHHH!!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf6f28250cabb79d9b589c7724a6fa9b8d171f4ed7291ecd7277832e78577245.png",
+        "copyOfCardId": [
+            77554,
+            1171
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1270,6 +1462,10 @@
         "keywordIds": [
             2,
             12
+        ],
+        "copyOfCardId": [
+            69655,
+            749
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1297,6 +1493,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            997
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1322,6 +1521,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c850a19fa4798f719742627faa092a4b21a29c3a532c5d78416d4730ed43fa5c.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            69677,
+            999
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1349,6 +1552,9 @@
         "keywordIds": [
             4
         ],
+        "copyOfCardId": [
+            739
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1374,6 +1580,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            1140
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1396,6 +1605,11 @@
         "imageGold": "",
         "flavorText": "\"ME HAVE GOOD STATS FOR THE COST\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6440240b8cd07b88906d622969bf2a21547851865dd6b1840360121e4b9f90b.png",
+        "copyOfCardId": [
+            68203,
+            1686,
+            112924
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1418,6 +1632,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d9c38301384f729737b289cad66b6427f185b43d443708d9101218fa9da4421.png",
         "childIds": [
             69950
+        ],
+        "copyOfCardId": [
+            75,
+            69640
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1443,6 +1661,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f57155f38d197253b5a1746e4ae977127dc1c6e4296d6ce4faff8dd9c51e2c29.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            272
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1472,6 +1693,10 @@
         "keywordIds": [
             12
         ],
+        "copyOfCardId": [
+            69667,
+            420
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1498,6 +1723,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            456
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1523,6 +1751,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22052d21f19a4cf056538aed8877092ef7ccee621d39d1f38c8a3a399896e5fc.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            530
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1552,6 +1783,10 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            36,
+            69598
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1575,6 +1810,10 @@
         "keywordIds": [
             4
         ],
+        "copyOfCardId": [
+            71816,
+            344
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1597,6 +1836,10 @@
         "imageGold": "",
         "flavorText": "He always dreamed of coming down from the mountains and opening a noodle shop, but he never got the nerve.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/376778eaa4e07202c06184221f5047bbc0a56c4fe23993118dea09d4b22b8b8c.png",
+        "copyOfCardId": [
+            90,
+            69543
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1617,6 +1860,9 @@
         "imageGold": "",
         "flavorText": "It isn't really a circle.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52e625a73d1f965857ff76b56c2cbba4a7d7a513e080b20e55dbcd1c500aebc5.png",
+        "copyOfCardId": [
+            1362
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1637,6 +1883,9 @@
         "imageGold": "",
         "flavorText": "The claw decides who will stay and who will go.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59d925c5a7389a3c74de844070f6a7e601b1959b54fd9f12ee8e5d87f8de7b89.png",
+        "copyOfCardId": [
+            1050
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1657,6 +1906,9 @@
         "imageGold": "",
         "flavorText": "Hey you two\u2026could you stand next to each other for a second\u2026",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0918792705bc0d16524f8dacee8954d23cd9127a437cfd41f4ceaf6ce5d5d03a.png",
+        "copyOfCardId": [
+            940
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1679,6 +1931,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0618e3f1a104443fee211d9cc632c6748e23ff104a7b37c8aa92c6059397aa53.png",
         "keywordIds": [
             13
+        ],
+        "copyOfCardId": [
+            69620,
+            268
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1706,6 +1962,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            1016,
+            111474
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1732,6 +1992,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            69666,
+            453
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1752,6 +2016,9 @@
         "imageGold": "",
         "flavorText": "\"Shout! Shout! Let it all out!\" - Advice to warriors-in-training",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6446125de09f07f5ac81d8dca1772c17832de972a05b9705b0f3f95ac47afd3.png",
+        "copyOfCardId": [
+            1026
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1774,6 +2041,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4873fad47cfac8366bd46a282d10333cf1463da0bead4d2e0f75b2da3e8f8d4.png",
         "keywordIds": [
             6
+        ],
+        "copyOfCardId": [
+            990
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1798,6 +2068,10 @@
         "keywordIds": [
             10
         ],
+        "copyOfCardId": [
+            69606,
+            430
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1818,6 +2092,10 @@
         "imageGold": "",
         "flavorText": "Consecrated ground glows with Holy energy. But it smells a little, too.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c22d347131e5af39a7aca305303c7b47b1d523aa689db5672e18d8869cd71760.png",
+        "copyOfCardId": [
+            476,
+            69532
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1841,6 +2119,9 @@
         "imageGold": "",
         "flavorText": "You don\u2019t tame a Core Hound. You just train it to eat someone else before it eats you.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2851d123349018121e1199a50019b08f805edb83f9aa33aefbdc8844bb2705ff.png",
+        "copyOfCardId": [
+            1687
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1861,6 +2142,9 @@
         "imageGold": "",
         "flavorText": "It starts with stealing a pen from work, and before you know it, BOOOM! Corrupted!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbdb16bf3a03d81923f6151e1fc1dc9b1b0e04deddd9c3e20975b92f50fa0c6a.png",
+        "copyOfCardId": [
+            982
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1885,6 +2169,10 @@
             5,
             16
         ],
+        "copyOfCardId": [
+            69607,
+            113
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1903,12 +2191,16 @@
         "manaCost": 2,
         "name": "Crazed Alchemist",
         "text": "<b>Battlecry:</b> Swap the Attack and Health of a minion.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd26d6ddd7d28b6469d811b69e2194b5f41da2a2955e7cfa703828ddb087813e.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/325f0a8b1ee85c682bba8728129f240743eed97b6703712b316b528e4ad99509.png",
         "imageGold": "",
         "flavorText": "\"You'll <i>love</i> my new recipe!\" he says... especially if you're not happy with your current number of limbs.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0431ee6f17236da682d75b1b85b5ad86f58cbb8124e588f67e875e30b38a2268.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef34d0625f33202b330fadac100ffbf49f7d8b2dc0daf54acd8faf117098ac47.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            69661,
+            801
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -1935,6 +2227,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            69644,
+            285
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1957,6 +2253,9 @@
         "imageGold": "",
         "flavorText": "She may be an evil cult master, but she still calls her parents once a week.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e910121ea8d49b9be3f73780d12a95404433a5c8c47b5c248a4a6de3e8daf2f4.png",
+        "copyOfCardId": [
+            811
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1981,6 +2280,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c6f15bb7f8c3fa1966b8cbaed50421ad04e1783b1f0090de15a188af7ba3fb22.png",
         "keywordIds": [
             2
+        ],
+        "copyOfCardId": [
+            175
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2007,6 +2309,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            69659,
+            348
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2032,6 +2338,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            68232,
+            582
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2052,6 +2362,10 @@
         "imageGold": "",
         "flavorText": "Rogues guard the secrets to poison-making carefully, lest magi start incorporating poison into their spells. Poisonbolt? Rain of Poison? Poison Elemental? Nobody wants that.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad339b408ae19096986367d6bbf00aa0ddc0dd52ae8162c88693bcb11aa00723.png",
+        "copyOfCardId": [
+            459,
+            69522
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2072,6 +2386,10 @@
         "imageGold": "",
         "flavorText": "Our ballista operator is effective, but not picky.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f24f74d97b284f42bf6a838e72d53f88deb4c07c8c6740297bc34bcfd6d7b2f.png",
+        "copyOfCardId": [
+            69605,
+            1093
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2097,6 +2415,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0b07efc3c0f66b333c6fb92945f2b9d3c56c034dd376d9daf6a4f84fc22ef61.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            834
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2124,6 +2445,10 @@
             1,
             8
         ],
+        "copyOfCardId": [
+            69663,
+            763
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2138,19 +2463,23 @@
         "rarityId": 1,
         "artistName": "Dany Orizio",
         "health": 2,
-        "attack": 2,
+        "attack": 3,
         "manaCost": 2,
         "name": "Defias Ringleader",
         "text": "<b>Combo:</b> Summon a 2/1 Defias Bandit.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c7fda02c444b2768f5c9541ee3d36e9880009eb6854fc49485d266b3e8a6bb8.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8544047e47f96a6feca578960b7122f4043dea7f3e0d2a6070005371dd6b15f0.png",
         "imageGold": "",
         "flavorText": "He stole the deed to town years ago, so technically the town <i>is</i> his. He just calls people Scrub to be mean.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ad654b13ab2ddeb69798f6c332dc2e09fd36840d565f63b9f806bd6214aeaa0.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45c96690c45c61361f8deb0743c3c77b11036e39329c6d79059dce31f98412b9.png",
         "childIds": [
             488
         ],
         "keywordIds": [
             13
+        ],
+        "copyOfCardId": [
+            201,
+            120571
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2175,6 +2504,9 @@
         "imageGold": "",
         "flavorText": "Laying siege isn't fun for anyone. It's not even all that effective, now that everyone has a flying mount.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07c4e02d93d7351cd4954580f4860686a5d713c1d194fdb42df9b0b8bf57ce68.png",
+        "copyOfCardId": [
+            979
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2195,6 +2527,10 @@
         "imageGold": "",
         "flavorText": "Demonfire is like regular fire except for IT NEVER STOPS BURNING HELLLPPP",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d976425d777426e4703eab8be76556e74672fe20eb5ac3844f3c982c71631770.png",
+        "copyOfCardId": [
+            75961,
+            1142
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2218,6 +2554,11 @@
         "imageGold": "",
         "flavorText": "We are pretty excited about the upcoming release of Dire Wolf Beta, just repost this sign for a chance at a key.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d588e7b336dc13c9ce468a0dd118d1b01261189b4ad2b046f9b396d4d48f756.png",
+        "copyOfCardId": [
+            75916,
+            985,
+            69668
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2238,6 +2579,9 @@
         "imageGold": "",
         "flavorText": "This is not just a favor, but a divine one, like helping someone move a couch with a fold out bed!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25baa55dbbb0d4d31fa98f5b07cfb412041d9d771359d3b043dd8752d05f6a0b.png",
+        "copyOfCardId": [
+            679
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2258,6 +2602,9 @@
         "imageGold": "",
         "flavorText": "Double the trouble. Double the fun!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c283806e5066d21be3a47488f97d8ad09da38462033378611b8c70c32a94ade.png",
+        "copyOfCardId": [
+            1361
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2285,6 +2632,11 @@
             4,
             8
         ],
+        "copyOfCardId": [
+            75918,
+            631,
+            111457
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2298,18 +2650,22 @@
         "cardSetId": 1646,
         "rarityId": 4,
         "artistName": "John Polidora",
+        "health": 8,
         "attack": 2,
         "manaCost": 5,
-        "durability": 8,
         "name": "Doomhammer",
         "text": "<b>Windfury, Overload:</b> (2)",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5eb711233ebbfaeb527e9a349d19880d2593d2f39bab23de25c7ea5374d57b2.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef0308b51336e0e01db7a3a64687ed3f291f8fdc5d2d9099a1d87003dc29305f.png",
         "imageGold": "",
         "flavorText": "Orgrim Doomhammer gave this legendary weapon to Thrall. His name is a total coincidence.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f8cfb18cd5fdd4dbc8ba6ea522204bfc14be24174f2c999f124c30a0b2a3513.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ed12282c1cfeac69f059071066582f46e1be8c2fe6c513879e86c04cb981386.png",
         "keywordIds": [
             11,
             14
+        ],
+        "copyOfCardId": [
+            352,
+            69630
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2333,6 +2689,10 @@
         "imageGold": "",
         "flavorText": "He's almost been right so many times. He was <i>sure</i> it was coming during the Cataclysm.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ffc6fbf919d50292f7063956a7300fd6d29d447f13d1de370361d013a4f8d94.png",
+        "copyOfCardId": [
+            76317,
+            138
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2361,6 +2721,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            523
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2381,6 +2744,9 @@
         "imageGold": "",
         "flavorText": "\"I've just sucked one year of your life away.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5bb63a7d73166ec9aaec918a09fb2bae6535bd6c015d96779e3b036c9e6507ec.png",
+        "copyOfCardId": [
+            919
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2407,6 +2773,10 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            102230,
+            878
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2432,6 +2802,11 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10729498eaa34d6f623fcda0a4d7bd9ec06a78080c3681c881f6f456283ea3d8.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            75960,
+            1019,
+            69520
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2465,6 +2840,10 @@
             1,
             4
         ],
+        "copyOfCardId": [
+            69595,
+            692
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2491,6 +2870,9 @@
             11,
             14
         ],
+        "copyOfCardId": [
+            618
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2504,17 +2886,20 @@
         "cardSetId": 1646,
         "rarityId": 3,
         "artistName": "Cyril Van Der Haegen",
+        "health": 2,
         "attack": 3,
         "manaCost": 3,
-        "durability": 2,
         "name": "Eaglehorn Bow",
         "text": "Whenever a <b>Secret</b> is revealed, gain +1 Durability.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62d9b244f13807eed7ba081d13929e84b0855c0f7bb8b6d04a4c5e915340535d.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4c1e9f8e8c84ac06adf95425d989de8537a4eaf9bb62bbd37a87909568fdb79.png",
         "imageGold": "",
         "flavorText": "First Lesson: Put the pointy end in the other guy.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db06d7b03c0ee902cdbdf7439e411be8e59297e9be701711de87679dcfde109f.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63592dcff0379286d624c8cebb532a3d8bed8f637ee44fff40442557e6df6110.png",
         "keywordIds": [
             5
+        ],
+        "copyOfCardId": [
+            1662
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2542,6 +2927,10 @@
             1,
             14
         ],
+        "copyOfCardId": [
+            69627,
+            1141
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2564,6 +2953,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/070348ba1a3f01f299c61b024423472a564c71188ddad658df8008d54bd830dc.png",
         "keywordIds": [
             15
+        ],
+        "copyOfCardId": [
+            767
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2590,6 +2982,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            69647,
+            1651
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2614,6 +3010,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f623eb3104947b57ec54f1ffbe7e13ea7482b3a59ebcebf6185d13815c7d9bf.png",
         "keywordIds": [
             13
+        ],
+        "copyOfCardId": [
+            306
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2653,6 +3052,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            1754
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2678,6 +3080,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            389,
+            69565
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2701,6 +3107,9 @@
         "imageGold": "",
         "flavorText": "The Sholazar Basin is home to a lot of really horrible things. If you're going to visit, wear bug spray. And plate armor.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6837cd7bd0fe60af5b7b87b1667c3d01b9dfd29172107f4f56342d81023df658.png",
+        "copyOfCardId": [
+            1098
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2721,6 +3130,10 @@
         "imageGold": "",
         "flavorText": "We are all special unique snowflakes... with 1 Health.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9109356635f9cc3c049716039d05d449575c843e93d1f2d32be7845a98ff99b0.png",
+        "copyOfCardId": [
+            756,
+            69614
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2746,6 +3159,9 @@
         "keywordIds": [
             5
         ],
+        "copyOfCardId": [
+            1737
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2769,6 +3185,10 @@
         "keywordIds": [
             13
         ],
+        "copyOfCardId": [
+            102205,
+            904
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2789,6 +3209,10 @@
         "imageGold": "",
         "flavorText": "It's okay, he deserved it.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/223ea7ee4697750e151685d72fe127f6d163fd33c5716183ff4dca1f56eb27fe.png",
+        "copyOfCardId": [
+            785,
+            69535
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2809,6 +3233,9 @@
         "imageGold": "",
         "flavorText": "Pull the pin, count to 5, then shoot. Then duck.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71851aeba09c92525ebced6addfa1b4ea38d35ec0c06f5412aa83d9f83d3dbf5.png",
+        "copyOfCardId": [
+            394
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2832,6 +3259,10 @@
         "keywordIds": [
             5
         ],
+        "copyOfCardId": [
+            585,
+            69603
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2854,6 +3285,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/069abbfc7f1eaaac5b6a41c25dc772eaf625adb8ceab3cff26e78d35f366c07c.png",
         "keywordIds": [
             5
+        ],
+        "copyOfCardId": [
+            462
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2879,6 +3313,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bb1c31f43118212c7c2bfe9eea42c75449dae739c28394d587c0716a010d50c.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            69676,
+            531
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2906,6 +3344,10 @@
         "keywordIds": [
             265
         ],
+        "copyOfCardId": [
+            76329,
+            609
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2926,6 +3368,10 @@
         "imageGold": "",
         "flavorText": "I wouldn't say I LOVE knives, but I'm definitely a fan.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac672a3848d24cd49920b6a9f17932810c368a17c5b920865c25850507aa5fb6.png",
+        "copyOfCardId": [
+            102745,
+            667
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2946,6 +3392,10 @@
         "imageGold": "",
         "flavorText": "Drek'thar can't see, but he can <i>see</i>. You know what I mean? It's ok if you don't.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb6a148bec37198afb928e2c845727dff002f495a60ecbaa7e4316ffc8fb9705.png",
+        "copyOfCardId": [
+            76293,
+            818
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2973,6 +3423,9 @@
             1,
             8
         ],
+        "copyOfCardId": [
+            517
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2999,6 +3452,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            592
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3023,6 +3479,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1fb02ab20a0321852a328f70482dcf8ff6a7c09d4c08f8bde1e2308a9acbea76.png",
         "keywordIds": [
             1
+        ],
+        "copyOfCardId": [
+            68207,
+            602
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3051,6 +3511,10 @@
             1,
             14
         ],
+        "copyOfCardId": [
+            69626,
+            238
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3064,15 +3528,19 @@
         "cardSetId": 1646,
         "rarityId": 2,
         "artistName": "Lucas Graciano",
+        "health": 2,
         "attack": 3,
         "manaCost": 2,
-        "durability": 2,
         "name": "Fiery War Axe",
         "text": "",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66fe5ff00c44a624e6f2c4c97096b28ac83caa798dfc5c909bccc406ef015b80.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4f30552559eddcc8c992a721942206b5f07033d0f4d5ab234b28eca1173bd39.png",
         "imageGold": "",
         "flavorText": "During times of tranquility and harmony, this weapon was called by its less popular name, Chilly Peace Axe.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/267bcdba3fee33f7a47d619c5e597c796978272716c6aced99ce2b9fd4b5e30f.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da86bc49c7a4f2225b98860d11763433b14b4f81cde0d59b094afb1bef362414.png",
+        "copyOfCardId": [
+            401,
+            69534
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3098,6 +3566,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            189,
+            69516
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3118,6 +3590,11 @@
         "imageGold": "",
         "flavorText": "This spell is useful for burning things. If you're looking for spells that toast things, or just warm them a little, you're in the wrong place.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d946aacfcfacdf86284a6f3350956349cec9674148a928d64f39d9e341d502b.png",
+        "copyOfCardId": [
+            68208,
+            315,
+            69501
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3144,6 +3621,11 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            75934,
+            1090,
+            69636
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3164,6 +3646,10 @@
         "imageGold": "",
         "flavorText": "When the ground is on fire, you should <i>not</i> stop, drop, and roll.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/beffe5e9b379d50dd7aa366c824f4fc65ad6250a3f1e7886882c0a4d22b9071b.png",
+        "copyOfCardId": [
+            1004,
+            69502
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3187,6 +3673,10 @@
         "imageGold": "",
         "flavorText": "Totemsmiths like to use the rarest woods for their totems. There are even rumors of totems made of Ironbark Protectors.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77c318349f5c2f1246badc1e09bb6e824274144871a09e957ad3a76ca2369809.png",
+        "copyOfCardId": [
+            76294,
+            1008
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3211,6 +3701,9 @@
             5,
             6
         ],
+        "copyOfCardId": [
+            896
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3233,6 +3726,10 @@
         "imageGold": "",
         "flavorText": "'Flesheating' is an unfair name. It's just that there's not really much else for him to eat.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f44cd6fb7585c66d753f29ce6e9923fcaa3ebfdbed06c239f2a28904cda00e0.png",
+        "copyOfCardId": [
+            69680,
+            397
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3259,6 +3756,10 @@
         "keywordIds": [
             4
         ],
+        "copyOfCardId": [
+            69597,
+            493
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3282,6 +3783,9 @@
         "keywordIds": [
             14
         ],
+        "copyOfCardId": [
+            299
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3304,6 +3808,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e589e1eb9c8955042fbc35d210e8c2eb0ecfc409b6718fb34a4dc9713fbd2cd9.png",
         "keywordIds": [
             5
+        ],
+        "copyOfCardId": [
+            69604,
+            519
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3331,6 +3839,9 @@
             8,
             10
         ],
+        "copyOfCardId": [
+            512
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3353,6 +3864,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96fa1ac6f2e736313a05042ed4a19396ce0df930e5b67a87f2ff38fcd275268b.png",
         "keywordIds": [
             10
+        ],
+        "copyOfCardId": [
+            587
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3377,6 +3891,9 @@
         "keywordIds": [
             10
         ],
+        "copyOfCardId": [
+            971
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3399,6 +3916,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c68157ed5800791335af1bab25089fb2043d56492a9c44e7cbbab6ba5025ade7.png",
         "keywordIds": [
             10
+        ],
+        "copyOfCardId": [
+            662,
+            111365
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3425,6 +3946,10 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            68197,
+            41
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3450,6 +3975,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            496
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3472,6 +4000,10 @@
         "imageGold": "",
         "flavorText": "He used to work as an accountant before he tried his hand at Berserkering.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/598fd3fa71666bc04f921b9ba7f048cb45d6a9f15dab594eeb5b6fde51aabf8d.png",
+        "copyOfCardId": [
+            69645,
+            654
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3494,6 +4026,10 @@
         "imageGold": "",
         "flavorText": "He used to run the black market auction house, but there was just too much violence and he had to move.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dadf1acf5199a1184678ce5c1a1a7b456fcf2014fa72f3fcd20bff91e7ec5051.png",
+        "copyOfCardId": [
+            69664,
+            932
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3526,6 +4062,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            858
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3539,17 +4078,20 @@
         "cardSetId": 1646,
         "rarityId": 4,
         "artistName": "Peter C. Lee",
+        "health": 2,
         "attack": 5,
         "manaCost": 7,
-        "durability": 2,
         "name": "Gladiator's Longbow",
         "text": "Your hero is <b>Immune</b> while attacking.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb7b0335fc3ca6cbe7abb993934a8249b3657298babea0014c4afe404e5ae8eb.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d542de101e49529b83a5fb45462fa8c2b797b2ebd2897a73df1ab4739df6cfc5.png",
         "imageGold": "",
         "flavorText": "The longbow allows shots to be fired from farther away and is useful for firing on particularly odorous targets.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7ee1c6ca30774186dd13a404131e7931404b41462b6ce5be30fe771e88f0f93.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3e37c72c8e42b18729ec8f3bae80abcf522ae7913d8f93b2bf19611c3374c8c.png",
         "keywordIds": [
             17
+        ],
+        "copyOfCardId": [
+            311
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3576,6 +4118,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            68214,
+            308
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3601,6 +4147,10 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            68215,
+            922
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3614,15 +4164,19 @@
         "cardSetId": 1646,
         "rarityId": 4,
         "artistName": "Zoltan & Gabor",
+        "health": 1,
         "attack": 7,
         "manaCost": 7,
-        "durability": 1,
         "name": "Gorehowl",
         "text": "Attacking a minion costs 1 Attack instead of 1 Durability.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29346a2b3cbeb50455a1ae60204cd5cf47ed9f93a1e7092bfb02148bc050fe44.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/877d3202ba377d950e1018ce366bee68e4c7b6a1a10eec328d135d575b7317d4.png",
         "imageGold": "",
         "flavorText": "Grommash Hellscream's famous axe. Somehow this ended up in Prince Malchezaar's possession. Quite the mystery!",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a89eea6f8716e0b4088cc569a90591f4efea7f7d309e3c0313a812ccdd50f0c.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31d177c17e6479132161f75ba48cc354ad26d82d2c8e3ff9585bbba4905affac.png",
+        "copyOfCardId": [
+            69642,
+            810
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3646,6 +4200,9 @@
         "imageGold": "",
         "flavorText": "These are the brainy murlocs. It turns out that doesn\u2019t mean much.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71987edd9c733ff15759b98634d9208cbdeb05b44d64979be1c1af94f65c799d.png",
+        "copyOfCardId": [
+            510
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3671,6 +4228,10 @@
         "keywordIds": [
             4
         ],
+        "copyOfCardId": [
+            69643,
+            338
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3693,6 +4254,9 @@
         "imageGold": "",
         "flavorText": "He's Gruul \"the Dragonkiller\". He just wanted to cuddle them\u2026 he never meant to\u2026",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a591f634dfb8848dfeabcb8b70407766054577998a471818378a23f93d9740e.png",
+        "copyOfCardId": [
+            526
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3718,6 +4282,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            1068,
+            69528
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3740,6 +4308,10 @@
         "imageGold": "",
         "flavorText": "No Pain, No Gain.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcd55b656b23c1911645b052a89edfd8ba8aa598dca184ee6e9bbda197f9a0d8.png",
+        "copyOfCardId": [
+            768,
+            69554
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3760,6 +4332,10 @@
         "imageGold": "",
         "flavorText": "A good paladin has many tools. Hammer of Wrath, Pliers of Vengeance, Hacksaw of Justice, etc.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad71665fc8e649ba6bc4432fd734aa436fedb60cce4a1990e85690c365e6f232.png",
+        "copyOfCardId": [
+            102790,
+            250
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3782,6 +4358,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0213b16f832175baba4832bb0497093673110dcfde775f74da41977c0e38f73a.png",
         "keywordIds": [
             3
+        ],
+        "copyOfCardId": [
+            727
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3807,6 +4386,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99fcabbd148da22d68b139d250be7f54395840ea6279f63bc83267c14d2177ce.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            912
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3837,6 +4419,9 @@
         "keywordIds": [
             12
         ],
+        "copyOfCardId": [
+            778
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3860,6 +4445,9 @@
         "keywordIds": [
             13
         ],
+        "copyOfCardId": [
+            708
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3880,6 +4468,9 @@
         "imageGold": "",
         "flavorText": "8 Health, no waiting.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3e26a61159bb0be8fcb4b925de6bba5833ad0b523a02e0ab879d093e3f5c9eb.png",
+        "copyOfCardId": [
+            773
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3900,6 +4491,11 @@
         "imageGold": "",
         "flavorText": "It's spells like these that make it hard for Warlocks to get decent help.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/922ea447a5930008d9cc383a3c822634d361efeeefee50918094aff6965ca58b.png",
+        "copyOfCardId": [
+            75917,
+            950,
+            69519
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3920,6 +4516,9 @@
         "imageGold": "",
         "flavorText": "Really, if you're a hero, this is <i>every</i> strike.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6157dcc3f5ee1e24148e3ad30389d54f358e8b1db89a54595fd3b7c0fe331e4.png",
+        "copyOfCardId": [
+            1007
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3945,6 +4544,10 @@
         ],
         "keywordIds": [
             1
+        ],
+        "copyOfCardId": [
+            766,
+            69551
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3974,6 +4577,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            640
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3994,6 +4600,9 @@
         "imageGold": "",
         "flavorText": "Often followed by Holy Smokes!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/195112156e36b9fda03cadbcd693921e42b48b071a04848361cf10c6efd56c43.png",
+        "copyOfCardId": [
+            1365
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4014,6 +4623,10 @@
         "imageGold": "",
         "flavorText": "If you are often bathed in Holy Light, you should consider wearing sunscreen.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5eb7d27316a8dacb81be9e463388a159748900341e5754706250b83e20c91c3.png",
+        "copyOfCardId": [
+            291,
+            69529
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4034,6 +4647,10 @@
         "imageGold": "",
         "flavorText": "If the Holy Light forsakes you, good luck casting this spell. Also, you're probably a jerk.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7be675fd8aa905b4498d78f398b2e2b5bda9fa437ffe3b4152de4e639cbfa80.png",
+        "copyOfCardId": [
+            841,
+            69508
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4054,6 +4671,10 @@
         "imageGold": "",
         "flavorText": "It doesn't matter how pious you are. Everyone needs a good smiting now and again.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fb8e912dc91f5f8c1483ee57056ccdb875926d00ef2a426171199ad76932635.png",
+        "copyOfCardId": [
+            279,
+            69509
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4074,6 +4695,9 @@
         "imageGold": "",
         "flavorText": "C'mon Molten Giant!!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a5cbd860986632b79b902303c3fc25deb80131c830bf072079a1dfade6ae18c.png",
+        "copyOfCardId": [
+            435
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4100,6 +4724,9 @@
             1,
             8
         ],
+        "copyOfCardId": [
+            1003
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4120,6 +4747,9 @@
         "imageGold": "",
         "flavorText": "This card makes something really damp. Oh wait. That's \"Humidity.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30254b38fbf1766ba5f71de2ae62a62f1b47b76901562e85d037e9b4cf48b596.png",
+        "copyOfCardId": [
+            854
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4146,6 +4776,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            443
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4166,6 +4799,9 @@
         "imageGold": "",
         "flavorText": "Never play 'Hide and Go Seek' with a Hunter.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93a7f74e21b7f95f1040bd1d1b31c28ab2b38e2fe8f20f20b0e727756dd59478.png",
+        "copyOfCardId": [
+            141
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4188,6 +4824,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f38da867f056808c74be7dd5195308706a64a61523d08d10285b5778cc72bb2.png",
         "keywordIds": [
             5
+        ],
+        "copyOfCardId": [
+            69608,
+            621
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -4213,6 +4853,9 @@
             5,
             17
         ],
+        "copyOfCardId": [
+            192
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4235,6 +4878,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8bdd3a10e8d49307523ac8fa4dad1ac5e0d2d70431545aa9ac8eaea80025b53.png",
         "keywordIds": [
             10
+        ],
+        "copyOfCardId": [
+            172
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -4262,6 +4908,9 @@
         "childIds": [
             70500
         ],
+        "copyOfCardId": [
+            556
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4286,6 +4935,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2b7e8c226c3323f013dd4fd534cd908618f3346a9f3e912067643cf241e8f5f.png",
         "childIds": [
             76
+        ],
+        "copyOfCardId": [
+            926
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -4312,6 +4964,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            69648,
+            1109
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4332,6 +4988,9 @@
         "imageGold": "",
         "flavorText": "Good idea: Buffing your minions. Bad idea: Starting a conversation in the Barrens.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f2d7477002c28ea0b60538efe3d400be9f3a12be49078bc16452b83cf723d14.png",
+        "copyOfCardId": [
+            376
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4352,6 +5011,9 @@
         "imageGold": "",
         "flavorText": "They're only smiling on the outside.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b9708bebd3c456597425547cdb5e4cf848125f1b076c91f6aa5948f8bf36ffc.png",
+        "copyOfCardId": [
+            22
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4372,6 +5034,10 @@
         "imageGold": "",
         "flavorText": "Some druids still have flashbacks from strangers yelling \"Innervate me!!\" at them.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/15057733fe8799aba38d19fdae2ed977814b2dbadb184686a2d3bf8e40ff6084.png",
+        "copyOfCardId": [
+            254,
+            69550
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4396,6 +5062,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ebdf1381208b61ec7bdca54d0d67ff4442f146c42c73221680820853c5df5fd.png",
         "keywordIds": [
             1
+        ],
+        "copyOfCardId": [
+            205
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -4424,6 +5093,10 @@
             8,
             15
         ],
+        "copyOfCardId": [
+            290,
+            69650
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4448,6 +5121,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a395905731befa04c7dce532b4148c844e02a851a258753226ef279eaf2b1d7.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            339
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -4475,6 +5151,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            1182
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4501,6 +5180,10 @@
         "keywordIds": [
             6
         ],
+        "copyOfCardId": [
+            69657,
+            921
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4525,6 +5208,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71ed646923fcffe51088d3249487708e12736de760fb275a324e28a5a0c61a27.png",
         "keywordIds": [
             15
+        ],
+        "copyOfCardId": [
+            601
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -4552,6 +5238,9 @@
         "keywordIds": [
             13
         ],
+        "copyOfCardId": [
+            287
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4572,6 +5261,11 @@
         "imageGold": "",
         "flavorText": "\"Kill!\", he commanded.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/190b9fe2715ff354ff5663ace4a8ee5d0f7c3872ff51352aeb98db600c0d5039.png",
+        "copyOfCardId": [
+            84939,
+            296,
+            111361
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4597,6 +5291,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e686d4761a1ea4224d647a2d6067ceb74f81455cfa7150ff789745653cfbab9.png",
         "keywordIds": [
             4
+        ],
+        "copyOfCardId": [
+            69601,
+            1144
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -4627,6 +5325,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            69656,
+            1693
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4653,6 +5355,9 @@
             5,
             8
         ],
+        "copyOfCardId": [
+            748
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4675,6 +5380,9 @@
         "imageGold": "",
         "flavorText": "Ambitious Knife Jugglers sometimes graduate to Bomb Jugglers. They never last long enough to make it onto a card though.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d1043efe923e40e8b0a0559996f0df5bf08a5ef3799b32dbb7a60541079a819.png",
+        "copyOfCardId": [
+            1073
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4699,6 +5407,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f52dc077409a046c9c6147b304c949b25cbdd6263fc642d446117f8500f08b38.png",
         "keywordIds": [
             2
+        ],
+        "copyOfCardId": [
+            672,
+            69539
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -4725,6 +5437,9 @@
         "keywordIds": [
             4
         ],
+        "copyOfCardId": [
+            28
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4748,6 +5463,9 @@
         "keywordIds": [
             14
         ],
+        "copyOfCardId": [
+            864
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4768,6 +5486,10 @@
         "imageGold": "",
         "flavorText": "A grammatically awkward life saver.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db5b99e76bfc18cecd6115900212319a996866ec9cc6e13e4b37a5b5438f0cad.png",
+        "copyOfCardId": [
+            102575,
+            594
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4797,6 +5519,10 @@
             4,
             8
         ],
+        "copyOfCardId": [
+            559,
+            111462
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4822,6 +5548,10 @@
         "keywordIds": [
             12
         ],
+        "copyOfCardId": [
+            78514,
+            658
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4835,15 +5565,18 @@
         "cardSetId": 1646,
         "rarityId": 2,
         "artistName": "Glenn Rane",
+        "health": 4,
         "attack": 1,
         "manaCost": 1,
-        "durability": 4,
         "name": "Light's Justice",
         "text": "",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4919a2b7cbf438d12b7b9686c9556f671bf49e66d484ad93841cd3f7ef0d9c53.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45dafbcdb82ed1b5bf55f46886059ec3bacb319ae2d2f0e9654de7770213345e.png",
         "imageGold": "",
         "flavorText": "Prince Malchezaar was a collector of rare weapons. He'd animate them and have them dance for him.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9360b20b8e47a5ac5970575225deafc20fce09b2cf68aa6889332cdb37ba02ce.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7277f6c4bab8200993c30e76f955f5c83e156195478f6ffc397622be3e4d22dd.png",
+        "copyOfCardId": [
+            383
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4866,6 +5599,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e722f0d037df7c922df71c1ea5c309fda01fb137159964311b2b76023fae853.png",
         "keywordIds": [
             14
+        ],
+        "copyOfCardId": [
+            69625,
+            505
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -4890,6 +5627,10 @@
         "keywordIds": [
             14
         ],
+        "copyOfCardId": [
+            629,
+            69629
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4912,6 +5653,10 @@
         "imageGold": "",
         "flavorText": "Spawn of the Light? Or Pawn of the Lights?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d548821bed5ab6d850ade98da69dec4c8a835529fc6678ae6887b8f133811790.png",
+        "copyOfCardId": [
+            69618,
+            886
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4934,6 +5679,9 @@
         "imageGold": "",
         "flavorText": "She\u2019s smaller than her sisters Mediumwarden and Heavywarden.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c087e4c2395431774ec055799156e38b5f26a4e381b254c7202ba62c6d58d27.png",
+        "copyOfCardId": [
+            1655
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4956,6 +5704,9 @@
         "imageGold": "",
         "flavorText": "It isn't clear if people ignore the Lightwell, or if it is just invisible.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4f712870c364c5bb5e43674aba2a06b722e063f7b065636e0be024184e96054.png",
+        "copyOfCardId": [
+            797
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -4980,6 +5731,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1de2a36fef01dee0fd0ebc832917ec8eecbbb68d1bb1791eec15960aef755fdc.png",
         "keywordIds": [
             12
+        ],
+        "copyOfCardId": [
+            69665,
+            251
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -5014,6 +5769,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            777,
+            69637
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5039,6 +5798,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            157
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5061,6 +5823,10 @@
         "imageGold": "",
         "flavorText": "Lorewalker Cho archives and shares tales from the land of Pandaria, but his favorite story is the one where Joey and Phoebe go on a road trip.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77cbd9d1636a11bf2de4f9c52e21cc3de2f3abe6c58cea13fc32798b4ea2fe44.png",
+        "copyOfCardId": [
+            1135,
+            120883
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5086,6 +5852,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            69662,
+            762
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5108,6 +5878,10 @@
         "imageGold": "",
         "flavorText": "He likes to think he is powerful, but pretty much anyone can solo Molten Core now.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5a2e98844a234401f9774f529f13f1275288da0f1ef19f153ad7b07c08a0add.png",
+        "copyOfCardId": [
+            68195,
+            1653
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5134,6 +5908,10 @@
         "keywordIds": [
             2
         ],
+        "copyOfCardId": [
+            436,
+            111466
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5156,6 +5934,9 @@
         "imageGold": "",
         "flavorText": "She\u2019s trying to kick the habit, but still takes some mana whenever she has a stressful day.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99695fd6f2433f7c383e7b2df2a538e112edaa869672b8f6580278c29e3075d4.png",
+        "copyOfCardId": [
+            12
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5179,6 +5960,10 @@
         "imageGold": "",
         "flavorText": "It is said that some shaman can say \"Floatin' totem\" 10 times, fast.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dfa0c952ab14efb4ba367fe7a68eb56f6074de523141695055af497bb4a2a9ce.png",
+        "copyOfCardId": [
+            69631,
+            513
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5201,6 +5986,9 @@
         "imageGold": "",
         "flavorText": "They come out at night to eat leftover mana crystals. \"Mmmmmm,\" they say.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3782f74033b331f62a3f1d751cb60c3f01027c89875e5ba5071602b4d43706f5.png",
+        "copyOfCardId": [
+            715
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5223,6 +6011,10 @@
         "imageGold": "",
         "flavorText": "These wyrms feed on arcane energies, and while they are generally considered a nuisance rather than a real threat, you really shouldn't leave them alone with a bucket of mana.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14055363ab5ea9a29eff3195f83abffce0e789c40a8b924409796c36039243ab.png",
+        "copyOfCardId": [
+            102556,
+            405
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5245,6 +6037,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54e44108e5d52ccf9f266b8d3701c3d88f64f54c38c2c70bb704655e7a376c6a.png",
         "keywordIds": [
             1
+        ],
+        "copyOfCardId": [
+            151
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -5269,6 +6064,10 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            213,
+            69511
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5292,6 +6091,9 @@
         "keywordIds": [
             15
         ],
+        "copyOfCardId": [
+            1366
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5314,6 +6116,9 @@
         "imageGold": "",
         "flavorText": "He's currently trying to craft a \"flail-axe\", but all the other swordsmiths say it can't be done.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c593b13b45a5a5d1a6ef4ea2b2feb1e60e726ec89df68bb15550db8a4c94f50.png",
+        "copyOfCardId": [
+            351
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5340,6 +6145,9 @@
             6,
             8
         ],
+        "copyOfCardId": [
+            887
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5365,6 +6173,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            855
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5385,6 +6196,9 @@
         "imageGold": "",
         "flavorText": "This spell blasts you directly in the MIND.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c1e0c9b25f5cbb44f7ceb64aaf106448008e2704ab0ff879d1fdc2275f25864.png",
+        "copyOfCardId": [
+            545
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5405,6 +6219,9 @@
         "imageGold": "",
         "flavorText": "Nominated as \"Spell Most Likely to Make Your Opponent Punch the Wall.\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53df2e1ad0402f5196d674f69cd42ea8f49638dfe48439468b87a1dc9768e72c.png",
+        "copyOfCardId": [
+            8
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5430,6 +6247,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            734,
+            111473
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5450,6 +6271,9 @@
         "imageGold": "",
         "flavorText": "I see what you did there.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c57e84a07d5695c32b47378aaa4603268f53ba624ecb9b22cdde9b605be91f67.png",
+        "copyOfCardId": [
+            1099
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5473,6 +6297,9 @@
         "childIds": [
             70461
         ],
+        "copyOfCardId": [
+            145
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5495,6 +6322,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/190268053ccb218689b81088904053103b227fdfe02323f986c4be19e06da94c.png",
         "keywordIds": [
             5
+        ],
+        "copyOfCardId": [
+            69609,
+            195
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -5522,6 +6353,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            1084
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5544,6 +6378,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca816bf689351c43905801f3010203d86fbf7941a6637f8143d66b9bd4ce3e24.png",
         "keywordIds": [
             5
+        ],
+        "copyOfCardId": [
+            1091
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -5570,6 +6407,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            700
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5592,6 +6432,10 @@
         "imageGold": "",
         "flavorText": "He gets terrible heartburn. BECAUSE HE IS FULL OF LAVA.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41973d34811c701a7cb105942231b3409986aa37192efb75b266c07d26717b49.png",
+        "copyOfCardId": [
+            1372,
+            111472
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5612,6 +6456,10 @@
         "imageGold": "",
         "flavorText": "\"Cast Moonfire, and never stop.\" - How to Be a Druid, Chapter 5, Section 3",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/993b0126c310b46a40da2898f9d54cc35e44f60d98e4fb2a6914eccd1d26d452.png",
+        "copyOfCardId": [
+            467,
+            112918
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5628,10 +6476,15 @@
         "manaCost": 1,
         "name": "Mortal Coil",
         "text": "Deal 1 damage to a minion. If that kills it, draw a card.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c9ecfb1e8100e53b2a3005ea6cd5f40865e4f13a4fa9fdff9436d4891a3dc1c.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd23835ccde986b42795b0d0e206e95d8ef1ea5def41951ed47c9bcaeb713c64.png",
         "imageGold": "",
         "flavorText": "If your spells look like horrifying skulls, let's be honest, you should get to draw some cards.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f01d8be75ef1e311ffa3b16b42c5493d921f0c77838c758ccb5aff270f0d7c16.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4cab638818aeb1a5a95ca98511d01fe2b2d17cc746f8112ce5c59c41d406b7df.png",
+        "copyOfCardId": [
+            75935,
+            1092,
+            69553
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5652,6 +6505,9 @@
         "imageGold": "",
         "flavorText": "\"If you only use one ability, use Mortal Strike.\" - The Warrior Code, Line 6",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcbadbeae755b6c7975e4808949dcf7f5100caddc0efd09686d71340e82a0886.png",
+        "copyOfCardId": [
+            804
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5674,6 +6530,10 @@
         "imageGold": "",
         "flavorText": "His mother said that he was just big boned.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1151316a49095434581f4c6dcba1ae8dc81e889ed7feb5f658c72048c3a7023c.png",
+        "copyOfCardId": [
+            993,
+            111470
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5694,6 +6554,9 @@
         "imageGold": "",
         "flavorText": "You see, it's all about <i>throughput</i>.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2d27cc066c2f5b7b42081e939c754b84d61d0c7930f32e7d7be01f5e39d167e.png",
+        "copyOfCardId": [
+            292
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5717,6 +6580,10 @@
         "imageGold": "",
         "flavorText": "Mrrraggglhlhghghlgh, mrgaaag blarrghlgaahahl mrgggg glhalhah a bghhll graggmgmg Garrosh mglhlhlh mrghlhlhl!!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dba5a2ea168b9015f0df386fbd2f6795db448a86abf70d84d0c80166bdf51350.png",
+        "copyOfCardId": [
+            68200,
+            191
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5740,6 +6607,10 @@
         "imageGold": "",
         "flavorText": "This guy gets crazy strong at family reunions.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1807fbda8c0390c3f6371b32e3111f855a78ff5116e03b241697c2db2e374fff.png",
+        "copyOfCardId": [
+            69675,
+            475
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5769,6 +6640,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            976,
+            69557
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5792,6 +6667,10 @@
         "imageGold": "",
         "flavorText": "Do Murlocs ever get tired of making the same old sound? Nope! Mrglglrglglglglglglgl!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a153b59f2505f0b1d8d621b05c76acd37e660fc9cd25b22f127ac1d01530f896.png",
+        "copyOfCardId": [
+            76270,
+            1063
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5814,6 +6693,9 @@
         "imageGold": "",
         "flavorText": "Nat Pagle, Azeroth's premier fisherman! He invented the Auto-Angler 3000, the Extendo-Pole 3000, and the Lure-o-matic 2099 (still in testing).",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2060cae6f9e53122076891d7ad8d6868bce641d1c9ef11df9c93933d97ad7f0f.png",
+        "copyOfCardId": [
+            1147
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5834,6 +6716,9 @@
         "imageGold": "",
         "flavorText": "Another one bites the dust.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b91efd05a47c3d12f9b35404e8400f13e50ad1d8257668601af3ec60df2f8f15.png",
+        "copyOfCardId": [
+            233
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5858,6 +6743,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/448097e39ebc0e63ade69b2b07f35a3ef81680b45b430d391cfb90bf07d797fb.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            68206,
+            670
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -5886,6 +6775,10 @@
         "keywordIds": [
             5
         ],
+        "copyOfCardId": [
+            69610,
+            584
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5908,6 +6801,10 @@
         "imageGold": "",
         "flavorText": "They help the downtrodden and distressed. Also they sell cookies.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bcaff0c2bfcd2378212e3eca1e308fe25cd580dff11fc0513665e29f743ab73.png",
+        "copyOfCardId": [
+            76276,
+            1650
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5928,6 +6825,10 @@
         "imageGold": "",
         "flavorText": "Druids take nourishment from many things: the power of nature, the songbird's chirp, a chocolate cake.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6fd9bc3be65d51605d7bb46efa9276065bb5981e6dace75a0c64db3f6dcfc99.png",
+        "copyOfCardId": [
+            95,
+            69594
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5953,6 +6854,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            68205,
+            284
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5976,6 +6881,9 @@
         "imageGold": "",
         "flavorText": "Time to write some flavor text.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b9dc4dd2820e92208be9e7e6ec2203e2ec742c7eb3ee1dff24a9f850821290c.png",
+        "copyOfCardId": [
+            411
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -5999,6 +6907,10 @@
         "imageGold": "",
         "flavorText": "His dreams of flying and breathing fire like his idol will never be realized.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a2f88804768f2519ace37ee79ffeba3eb7a1daa4e6cdfaef2bf73cfa1bd7f90.png",
+        "copyOfCardId": [
+            68196,
+            1370
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6023,6 +6935,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11ea22edc325e9b7bbc4583a8b7668cb6d8b94c406a461fd6f6cb12ef5fc801d.png",
         "keywordIds": [
             2
+        ],
+        "copyOfCardId": [
+            995
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -6049,6 +6964,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/581b21e4dfc7f609fbcea2bae18c215696340297f375769dc0e456867704767e.png",
         "keywordIds": [
             4
+        ],
+        "copyOfCardId": [
+            736
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -6079,6 +6997,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            363
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6104,6 +7025,10 @@
         "keywordIds": [
             6
         ],
+        "copyOfCardId": [
+            69624,
+            1133
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6117,18 +7042,21 @@
         "cardSetId": 1646,
         "rarityId": 3,
         "artistName": "Daren Bader",
+        "health": 2,
         "attack": 2,
         "manaCost": 3,
-        "durability": 2,
         "name": "Perdition's Blade",
         "text": "<b>Battlecry:</b> Deal 1 damage. <b>Combo:</b> Deal 2 instead.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db7027884e9e41c501ad7e4621dc6776933a5812d32695f155d88b43c51aedbc.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c20196439ea14b691547d7355a2b31314e6752a0321695dba6f65fe329ffbff.png",
         "imageGold": "",
         "flavorText": "Perdition's Blade is Ragnaros's back-up weapon while Sulfuras is in the shop.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c72fbccbf54f8e5830f7cc6c5d109eb7ea3bfc1267de1963808995afd16fa3a8.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c3882bdf369ce68f3f515317f1a59a858462d5e9e9a819f313c2119b6fc67cb.png",
         "keywordIds": [
             8,
             13
+        ],
+        "copyOfCardId": [
+            391
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -6152,6 +7080,9 @@
         "imageGold": "",
         "flavorText": "She's quite jealous of the Gallon-Sized Summoner.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e36b18ff8bcc44198ae09df3d91953ce0461d3a0bf2fdff1f1f34b252d466412.png",
+        "copyOfCardId": [
+            37
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6178,6 +7109,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            783
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6201,6 +7135,10 @@
         "childIds": [
             68419
         ],
+        "copyOfCardId": [
+            68194,
+            77
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6221,6 +7159,10 @@
         "imageGold": "",
         "flavorText": "We cannot even describe how horrible the death is. It's CRAZY bad! Maybe worse than that. Just don't do it.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa05f07cae65ed4f9c06b04a5b11f36fe3934c045d868747057128fbacdeb37e.png",
+        "copyOfCardId": [
+            846,
+            111456
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6241,6 +7183,10 @@
         "imageGold": "",
         "flavorText": "Sure the extra protection is nice, but the shield really reduces visibility.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/672b3ab2019d5f50cc1d2e217c69791b9f054b4ef468f18f88b8805bebb5a721.png",
+        "copyOfCardId": [
+            613,
+            120786
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6264,6 +7210,10 @@
         "childIds": [
             812
         ],
+        "copyOfCardId": [
+            69593,
+            503
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6284,6 +7234,10 @@
         "imageGold": "",
         "flavorText": "\"Be Prepared\" - Rogue Motto",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aab64a817b086f718c7374bc493a22356304eb6ad6af2e2ca5d80d624e32efdb.png",
+        "copyOfCardId": [
+            1158,
+            69623
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6309,6 +7263,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            424
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6331,6 +7288,9 @@
         "imageGold": "",
         "flavorText": "He's been exiled from his home, and all his brothers turned evil, but otherwise he doesn't have a lot to complain about.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/939d16ba15f490cee067c589e1bcf8c1a36ba5e6b244bac9a341a09fa2a7820c.png",
+        "copyOfCardId": [
+            9
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6351,6 +7311,10 @@
         "imageGold": "",
         "flavorText": "Take the time for an evil laugh after you draw this card.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5bbc995adcc391d41c65f6abdd36a5d6683cc55baf738e05c9d2afa8a21b95db.png",
+        "copyOfCardId": [
+            76272,
+            1087
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6373,6 +7337,9 @@
         "imageGold": "",
         "flavorText": "\"Does anyone have some extra Boar Pelts?\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/292e4f21450b0440d1639b549ca8aa881b7d7dea56fc084ea47503051c20b91b.png",
+        "copyOfCardId": [
+            791
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6398,6 +7365,9 @@
         "keywordIds": [
             11
         ],
+        "copyOfCardId": [
+            1155
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6420,6 +7390,10 @@
         "imageGold": "",
         "flavorText": "Ragnaros was summoned by the Dark Iron dwarves, who were eventually enslaved by the Firelord. Summoning Ragnaros often doesn\u2019t work out the way you want it to.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97ebdf56f7ca6fded7d6394a635f56f7d517c62f876701f1b72eb3b2fd49f2eb.png",
+        "copyOfCardId": [
+            102272,
+            374
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6442,6 +7416,11 @@
         "imageGold": "",
         "flavorText": "\"That's a 50 DKP minus!\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30c3e3e499ed76e7c5196de7c300e684cbbd442d43a1ab844cc7ac3f2e679005.png",
+        "copyOfCardId": [
+            68210,
+            1401,
+            69537
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6462,6 +7441,9 @@
         "imageGold": "",
         "flavorText": "Minion get ANGRY. Minion SMASH!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c31fdb13b3790059179baee35e246fc82b729cb0f2748767610db0d21664e2fb.png",
+        "copyOfCardId": [
+            1108
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6486,6 +7468,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8bdcd76bce3e48e6427a45e310a514c0b8f4d483913c9e1e84b992355e17e125.png",
         "keywordIds": [
             6
+        ],
+        "copyOfCardId": [
+            134
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -6515,6 +7500,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            68202,
+            257
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6540,6 +7529,10 @@
         "keywordIds": [
             4
         ],
+        "copyOfCardId": [
+            68204,
+            445
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6562,6 +7555,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09f31f941904259d0a608c73cf4fd5a04e42ae3a3ac62691da1615a4d3df2bf3.png",
         "keywordIds": [
             5
+        ],
+        "copyOfCardId": [
+            140
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -6586,6 +7582,9 @@
         "keywordIds": [
             5
         ],
+        "copyOfCardId": [
+            232
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6609,6 +7608,11 @@
         "imageGold": "",
         "flavorText": "Edward \"Lefty\" Smith tried to make luggage out of a river crocolisk once.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cdbd1fe4bc93af9cd8d891cd386530de0be576fb618445919949fed5c01b4778.png",
+        "copyOfCardId": [
+            68209,
+            1369,
+            69536
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6629,6 +7633,10 @@
         "imageGold": "",
         "flavorText": "This would be real handy if your enemy is made of rock.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b62bcebf63ca087974ae7c9e1521c6ba355541ba6d66f8fae4aea88895ec139.png",
+        "copyOfCardId": [
+            239,
+            69517
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6654,6 +7662,10 @@
         "keywordIds": [
             13
         ],
+        "copyOfCardId": [
+            69621,
+            1117
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6674,6 +7686,9 @@
         "imageGold": "",
         "flavorText": "This is the reason that Demons never really become friends with Warlocks.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4ef788836d483a7df818c766c8ee0441c3af482a917cbfb5bd08104b785db60.png",
+        "copyOfCardId": [
+            163
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6694,6 +7709,10 @@
         "imageGold": "",
         "flavorText": "Rogues love sappy movies.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83d87581ca1426f69f56dad9e28fecd2d3e649156fdedc07f8055a3487c1e0a0.png",
+        "copyOfCardId": [
+            461,
+            111378
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6714,6 +7733,9 @@
         "imageGold": "",
         "flavorText": "What do they roar? Nobody can quite tell, but it sounds like \"Elephant Macho Breeze\". It's probably not that, though.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6139f102fcb9750e4f96b453f028f85175955cbee217a94c6f258e8f78295cc9.png",
+        "copyOfCardId": [
+            742
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6734,6 +7756,9 @@
         "imageGold": "",
         "flavorText": "It is true that some druids are savage, but others still enjoy a quiet moment and a spot of tea.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d571450936138607ea255df392092f610319b0c198b1a6b382fed5008da1b46a.png",
+        "copyOfCardId": [
+            481
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6763,6 +7788,10 @@
         "keywordIds": [
             12
         ],
+        "copyOfCardId": [
+            69600,
+            1261
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6788,6 +7817,9 @@
         "keywordIds": [
             3
         ],
+        "copyOfCardId": [
+            642
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6811,6 +7843,10 @@
         "imageGold": "",
         "flavorText": "Hyenas prefer the bones of kodos or windserpents, but they'll eat pretty much anything. Even Brussels sprouts.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f6c3b527c5167d999194996cc8044c0bc7fa6675b14c0ea44bbf659ba31f5a9.png",
+        "copyOfCardId": [
+            69599,
+            1281
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6833,6 +7869,10 @@
         "imageGold": "",
         "flavorText": "See? Giant.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d42d76ca907beca75bc617855b5b43165050d59d018915b897c8abd7e8695229.png",
+        "copyOfCardId": [
+            76322,
+            211
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6857,6 +7897,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac07ddbc0f0f21e80cc0d718960636a020775bd7ef50056951ddbeface785c86.png",
         "keywordIds": [
             5
+        ],
+        "copyOfCardId": [
+            158
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -6883,6 +7926,11 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            68212,
+            635,
+            69542
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6906,6 +7954,10 @@
         "childIds": [
             1723
         ],
+        "copyOfCardId": [
+            75958,
+            860
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6926,6 +7978,10 @@
         "imageGold": "",
         "flavorText": "It\u2019s a Bolt. It's made out of Shadow. What more do you need to know!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e98b0d001dd3c6a1dd8a659cc596b5548732d273ebba292ce66ca9bdb2827e5.png",
+        "copyOfCardId": [
+            75913,
+            914
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6946,6 +8002,9 @@
         "imageGold": "",
         "flavorText": "You can rationalize it all you want, it's still a mean thing to do.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/536c10104f2c0b8fefcea49a510932d7b2cb2546285cb7d8fb14ad9ff8627580.png",
+        "copyOfCardId": [
+            220
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6966,6 +8025,10 @@
         "imageGold": "",
         "flavorText": "If you miss, it leaves a lightning-bolt-shaped scar on your target.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b182050f0ad30f10cce509198dab2870ce482368176c62bc8f41c135c4a47d94.png",
+        "copyOfCardId": [
+            1363,
+            69569
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -6986,6 +8049,10 @@
         "imageGold": "",
         "flavorText": "A step up from a spell cast by many beginning acolytes: \"Shadow Word: Annoy\".",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c9e503052db7b19df6296a5cd12b74ac71b0d7e893a901ac1510fd961efabe2.png",
+        "copyOfCardId": [
+            1367,
+            111372
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7006,6 +8073,9 @@
         "imageGold": "",
         "flavorText": "Start with a powerful minion and stir in Shadowflame and you have a good time!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/678205cf5b4d1bc29266f8f61d032b1145e8e083dbaa0dece7934dfd64faf6da.png",
+        "copyOfCardId": [
+            147
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7030,6 +8100,10 @@
             1623,
             1622
         ],
+        "copyOfCardId": [
+            69991,
+            1368
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7050,6 +8124,10 @@
         "imageGold": "",
         "flavorText": "Rogue dance troops will sometimes Shadowstep away at the end of a performance. Crowds love it.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/823e4025544feee145ca766f78d0dcbcbf7adae1c8a27d03c5da8736d4e07cc6.png",
+        "copyOfCardId": [
+            365,
+            69622
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7075,6 +8153,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            608
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7095,6 +8176,10 @@
         "imageGold": "",
         "flavorText": "Shields were invented because Face Block is USELESS.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43a9c9e698e6840df4b8a441bb8ad2b1db004a105b5ef94ef7429ac516cead5b.png",
+        "copyOfCardId": [
+            76302,
+            1023
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7115,6 +8200,10 @@
         "imageGold": "",
         "flavorText": "\"What is a better weapon? The sharp one your enemies expect, or the blunt one they ignore?\" - The Art of Warrior, Chapter 9",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58e2fc20a0397ed9672cf530918155508cef46e0ad885b694fc59606271cab07.png",
+        "copyOfCardId": [
+            546,
+            69641
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7140,6 +8229,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            866
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7160,6 +8252,9 @@
         "imageGold": "",
         "flavorText": "Rogues are experts at SHIV-al-ry.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/04732a5e4bfc16190ca7bf5556f5fe049fea3ec31d813dce3817dc9aa6c7c38a.png",
+        "copyOfCardId": [
+            573
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7182,6 +8277,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c7ec8136b0f5b2da10cd581badab38ea1dadf6e8f6db3a989b392c84251a588.png",
         "keywordIds": [
             15
+        ],
+        "copyOfCardId": [
+            1189
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -7211,6 +8309,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            69
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7237,6 +8338,10 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            68199,
+            67
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7262,6 +8367,9 @@
         "keywordIds": [
             3
         ],
+        "copyOfCardId": [
+            34
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7282,6 +8390,10 @@
         "imageGold": "",
         "flavorText": "There's something about this strike that just feels off. Sinister, even.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/03fc4cd13e4978ae2b146a0ac019727c16d905f9f598864957fc473d4abd8640.png",
+        "copyOfCardId": [
+            710,
+            69524
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7302,6 +8414,10 @@
         "imageGold": "",
         "flavorText": "You probably should avoid siphoning your own soul. You might create some kind of weird infinite loop.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a83d5df93aa15d89c07a6a75d894a4011be17cda2ed3cdc66e4044eba71d5c10.png",
+        "copyOfCardId": [
+            69634,
+            1100
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7322,6 +8438,10 @@
         "imageGold": "",
         "flavorText": "\"Dun da dun, dun da dun\": if you've heard an ogre sing this, it's too late.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36cb9e0596acd2f12b91efb9a3b0c3306b12e7dd3903373c99a84774f18e4428.png",
+        "copyOfCardId": [
+            69638,
+            1074
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7349,6 +8469,10 @@
         "keywordIds": [
             5
         ],
+        "copyOfCardId": [
+            69602,
+            455
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7372,6 +8496,10 @@
         "keywordIds": [
             5
         ],
+        "copyOfCardId": [
+            102541,
+            814
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7394,6 +8522,9 @@
         "imageGold": "",
         "flavorText": "Apprentices are great for bossing around. \"Conjure me some mana buns! And a coffee! Make that a mana coffee!\"",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/132e9c35c5d6979e9c996032e665298f36efa834d74466ea65010c67e64ae214.png",
+        "copyOfCardId": [
+            614
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7421,6 +8552,10 @@
         "keywordIds": [
             12
         ],
+        "copyOfCardId": [
+            69591,
+            381
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7441,6 +8576,9 @@
         "imageGold": "",
         "flavorText": "Are you lighting a soul on fire? Or burning someone with your OWN soul? This seems like an important distinction.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7dcfc246ae562de553e595a8d4e4d0459651ecdeaea54c6d41af17e061c0aaa6.png",
+        "copyOfCardId": [
+            974
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7464,6 +8602,10 @@
         "imageGold": "",
         "flavorText": "When he saves enough plunder, he's going to commission an enormous captain's hat. He has hat envy.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7b54c73cde33f96c63a89caf237d467069a8e0826e2f90bf65cec146721fe16.png",
+        "copyOfCardId": [
+            69679,
+            680
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7489,6 +8631,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/306f117bc83d568da11dcdf32855f34f2873a200276158392eaa5da88ae91486.png",
         "keywordIds": [
             4
+        ],
+        "copyOfCardId": [
+            724,
+            113225
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -7517,6 +8663,9 @@
         "keywordIds": [
             5
         ],
+        "copyOfCardId": [
+            366
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7543,6 +8692,9 @@
             8,
             15
         ],
+        "copyOfCardId": [
+            754
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7566,6 +8718,9 @@
         "imageGold": "",
         "flavorText": "She'll craft you a sword, but you'll need to bring her 5 Steel Ingots, 3 Motes of Earth, and the scalp of her last customer.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df5978f94c87e8d7f054fe628722a71c164101ece9911563901ff2ccfde2f126.png",
+        "copyOfCardId": [
+            61
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7586,6 +8741,11 @@
         "imageGold": "",
         "flavorText": "Rogues are not good joggers.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5141d54017265b3742abfcfea8bc6cdcba597c9a4c46d2b0fb2f673f06efc0c.png",
+        "copyOfCardId": [
+            80665,
+            630,
+            69526
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7612,6 +8772,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            1371
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7632,6 +8795,9 @@
         "imageGold": "",
         "flavorText": "Is the sky falling? Yes. Yes it is.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23ec0250a66977e732d47f544e824b3327ff5eee5c9ff1d2ebb6341974f495b8.png",
+        "copyOfCardId": [
+            86
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7652,6 +8818,9 @@
         "imageGold": "",
         "flavorText": "Balance is important to druids. This card is perfectly balanced.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3011f258bf00c84aa4b31b149c9a2da362127e829ec6c6b0dcd61e7301d5210f.png",
+        "copyOfCardId": [
+            823
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7675,6 +8844,9 @@
         "imageGold": "",
         "flavorText": "If you feed him, he loses his whole <i>identity</i>.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5301851b42d27c9ac14bef6a81c7ec7fa0484c99731045dddc5f0f07aa2e5fe0.png",
+        "copyOfCardId": [
+            1241
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7701,6 +8873,10 @@
         "keywordIds": [
             4
         ],
+        "copyOfCardId": [
+            68211,
+            648
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7714,17 +8890,20 @@
         "cardSetId": 1646,
         "rarityId": 1,
         "artistName": "Nate Bowden",
+        "health": 3,
         "attack": 2,
         "manaCost": 2,
-        "durability": 3,
         "name": "Stormforged Axe",
         "text": "<b>Overload:</b> (1)",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00f86b84c455e358293542deb310f65c8fe1b6a13ca9889587486345b98ee48c.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53be4423a2355301658257f880ff2871d01f37a311b875965404a82a57637fe3.png",
         "imageGold": "",
         "flavorText": "Yo, that's a nice axe.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/704c42b7c095853c02019be7ea9bf9a9019e7e4cee091f3ef755b01be036da78.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2e9a8a80e380a368b3fa1361e179352aee5f4f6d739d3405d719013014a06c4.png",
         "keywordIds": [
             14
+        ],
+        "copyOfCardId": [
+            960
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -7751,6 +8930,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            413
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7773,6 +8955,10 @@
         "imageGold": "",
         "flavorText": "When Deathwing assaulted the capital, this soldier was the only member of his squad to survive. Now he's all bitter and stuff.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/32acc2a70e6a0ed631a0a23d293fdf2bc3537a514c4e67c7f620267b2cac94e6.png",
+        "copyOfCardId": [
+            753,
+            69544
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7797,6 +8983,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a217989f0a7d49ea39702030c1d9e93e24b9196f59d7ee831681213ffd020d19.png",
         "keywordIds": [
             4
+        ],
+        "copyOfCardId": [
+            622
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -7824,6 +9013,10 @@
         "keywordIds": [
             6
         ],
+        "copyOfCardId": [
+            69658,
+            68
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7846,6 +9039,9 @@
         "imageGold": "",
         "flavorText": "NOT LESS THAN 1! Don't get any ideas!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5129dd7ebb040758ff67c27b753afa997b55201109f68f748894fe151852f8b4.png",
+        "copyOfCardId": [
+            969
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7871,6 +9067,10 @@
         "keywordIds": [
             1,
             8
+        ],
+        "copyOfCardId": [
+            891,
+            120578
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -7898,6 +9098,9 @@
             1,
             3
         ],
+        "copyOfCardId": [
+            759
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7918,6 +9121,10 @@
         "imageGold": "",
         "flavorText": "When a bear rears back and extends his arms, he's about to Swipe! ... or hug.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9e0047282829ba6a99f7e94eb79c8027a8c1db1f2feac1d3a7379fcaa162ca8.png",
+        "copyOfCardId": [
+            64,
+            111351
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7931,15 +9138,18 @@
         "cardSetId": 1646,
         "rarityId": 4,
         "artistName": "Efrem Palacios",
+        "health": 5,
         "attack": 1,
         "manaCost": 3,
-        "durability": 5,
         "name": "Sword of Justice",
         "text": "After you summon a minion, give it +1/+1 and this loses 1 Durability.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1058ab3cee0371a9f895d1d61d202c010a77d294639316d1f8c73be7640a2a62.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8033ccc31f4776a81d66d032e3f856de993dce0863b4cf9bfe073c261586843d.png",
         "imageGold": "",
         "flavorText": "I dub you Sir Loin of Beef!",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a68a62edd703da32f3a382a0e0fddcb296de6bc5fc3c9707b99fa2ebb1ebf831.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25ac1334f82a3b3dcdb63c1d56f8d347dad89b58d8be4f3f8691a00997a77385.png",
+        "copyOfCardId": [
+            643
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -7964,6 +9174,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7667a3fbc96d7706517e7346c6e41682d9b4fb346026d4996a2ff0b231932527.png",
         "keywordIds": [
             12
+        ],
+        "copyOfCardId": [
+            1721,
+            111463
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -7990,6 +9204,9 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            45
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8014,6 +9231,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/502f83aaa6063f4c50ba5ea74fbed8215759c7cc23e02e7670995fc077b92437.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            69619,
+            1364
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -8044,6 +9265,9 @@
         "keywordIds": [
             12
         ],
+        "copyOfCardId": [
+            962
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8070,6 +9294,10 @@
             1,
             8
         ],
+        "copyOfCardId": [
+            102217,
+            1656
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8090,6 +9318,9 @@
         "imageGold": "",
         "flavorText": "\"What do you get when you cast Thoughtsteal on an Orc? Nothing!\" - Tauren joke",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/67750de8882bc3dd5d86fc0b06453bf56716943fb3f27742c4b0239d2153dfdb.png",
+        "copyOfCardId": [
+            30
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8115,6 +9346,9 @@
         "keywordIds": [
             11
         ],
+        "copyOfCardId": [
+            765
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8138,6 +9372,9 @@
         "imageGold": "",
         "flavorText": "Other beasts totally dig hanging out with timber wolves.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8304b6807f2367c5ccf0aae766e59b8ced9b236431318aaf8c4fb8a451035f9f.png",
+        "copyOfCardId": [
+            606
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8166,6 +9403,9 @@
         ],
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            570
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -8197,6 +9437,10 @@
             3,
             12
         ],
+        "copyOfCardId": [
+            890,
+            69613
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8217,6 +9461,9 @@
         "imageGold": "",
         "flavorText": "Totem-stomping is no longer recommended.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5ef7396cd216ad356bbd1e75b98e2a47e06c5d30c0e9fd5d7f3d745a0fbb271.png",
+        "copyOfCardId": [
+            830
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8237,6 +9484,11 @@
         "imageGold": "",
         "flavorText": "For the person who just cannot decide what card to put into a deck!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac6f4abe529b9bd6e3cba5c907819b5dba149de39cbbdaa8638ff977b6b139b0.png",
+        "copyOfCardId": [
+            84935,
+            1047,
+            69545
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8250,15 +9502,19 @@
         "cardSetId": 1646,
         "rarityId": 2,
         "artistName": "Ryan Sook",
+        "health": 2,
         "attack": 4,
         "manaCost": 4,
-        "durability": 2,
         "name": "Truesilver Champion",
         "text": "Whenever your hero attacks, restore 2 Health to it.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b9168d898b16a374f4f272d6bf962d1aa44cbc02b41b0f4b5fae25386333aea.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a766c9a55bc8860801ef34660e8b4ae34cf24b35ea4ae490f84b12fdb9eeb7d1.png",
         "imageGold": "",
         "flavorText": "It Slices, it Dices. You can cut a tin can with it. (But you wouldn't want to.)",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86b46adc4ad19703827a6662741524a15d8294336b9a95fc59b72e3b5ab0cdd0.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c539723b816e8719d165997855999528ade4b666f15f306345da14d64dbc7554.png",
+        "copyOfCardId": [
+            847,
+            69533
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8284,6 +9540,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/965139ea077d9a40930de1aa55fa37b4f8db555bfb320a91be3b65a818d98e8d.png",
         "keywordIds": [
             4
+        ],
+        "copyOfCardId": [
+            699
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -8311,6 +9570,10 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            76325,
+            1037
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8331,6 +9594,10 @@
         "imageGold": "",
         "flavorText": "The Twisting Nether is a formless place of magic and illusion and destroyed minions.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16826fa2cfe5c2a3fed6fb6c2ddf98a51ae9745d134de02bbbcf36d92b3256a5.png",
+        "copyOfCardId": [
+            859,
+            69635
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8355,6 +9622,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2a13649b8d907547e5060f8ebc3b59a846ba5b6bd6eec4ed5bf5e183e74d080.png",
         "keywordIds": [
             14
+        ],
+        "copyOfCardId": [
+            69628,
+            774
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -8382,6 +9653,9 @@
         "keywordIds": [
             4
         ],
+        "copyOfCardId": [
+            1243
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8405,6 +9679,9 @@
         "childIds": [
             1661
         ],
+        "copyOfCardId": [
+            511
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8425,6 +9702,9 @@
         "imageGold": "",
         "flavorText": "",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c44e059b554ff85f4ce2430132e363e341e935be227ad7721ea2b644e74ab8a4.png",
+        "copyOfCardId": [
+            196
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8448,6 +9728,9 @@
         "keywordIds": [
             5
         ],
+        "copyOfCardId": [
+            286
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8470,6 +9753,9 @@
         "imageGold": "",
         "flavorText": "No Job is too big. No fee is too big.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4696ba55546ee108db67fce8255ba3180f70494130b079b8c91231cd9eba30b8.png",
+        "copyOfCardId": [
+            1122
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8495,6 +9781,10 @@
         "childIds": [
             71308
         ],
+        "copyOfCardId": [
+            69678,
+            1029
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8514,12 +9804,16 @@
         "manaCost": 3,
         "name": "Void Terror",
         "text": "<b>Battlecry:</b> Destroy both adjacent minions and gain their Attack and Health.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a442ae875dcf701c3b3bcef1d768a3b6f1be48a371968d99fb8d39acc5636f16.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8106d7480469270dc8d4dbb22e2930f1a738cef989f455e038e9c83459c44832.png",
         "imageGold": "",
         "flavorText": "If you put this into your deck, you WILL lose the trust of your other minions.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ad07d5e1e20f838b90e029f6a5a85f47f1ae1f7892a0b5cbdc06366ab5d69c6.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bdcfdbb7fe24d4b490a54e4bac9cbbe66682a09a4e9d67bfe86f0ae91ed40f62.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            69633,
+            1221
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -8547,6 +9841,10 @@
         "keywordIds": [
             1
         ],
+        "copyOfCardId": [
+            76281,
+            48
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8572,6 +9870,11 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            68213,
+            132,
+            69547
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8594,6 +9897,9 @@
         "imageGold": "",
         "flavorText": "Golems are not afraid, but for some reason they still run when you cast Fear on them. Instinct, maybe? A desire to blend in?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd5523b3132671e82341fd615cd64426220fc7a7c22dd55cbef6337f9fc9eb8e.png",
+        "copyOfCardId": [
+            712
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8618,6 +9924,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc920da8bc67402f98014d619a632b5d54202295917cf2bfae39f1230a8c8694.png",
         "keywordIds": [
             4
+        ],
+        "copyOfCardId": [
+            1009,
+            69549
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -8644,6 +9954,12 @@
         "keywordIds": [
             10
         ],
+        "copyOfCardId": [
+            395,
+            69503,
+            111536,
+            46458
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8664,6 +9980,10 @@
         "imageGold": "",
         "flavorText": "The way to tell seasoned warriors from novice ones: the novices yell \"wheeeee\" while whirlwinding.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a81dba189694db25e6778c1e830ac37e83f03fd12c6a70b1b4ccceafa170310d.png",
+        "copyOfCardId": [
+            636,
+            69556
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8687,6 +10007,10 @@
         "childIds": [
             1725
         ],
+        "copyOfCardId": [
+            1124,
+            69513
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8709,6 +10033,10 @@
         "imageGold": "",
         "flavorText": "BOOM BABY BOOM! BAD IS GOOD! DOWN WITH GOVERNMENT!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9ae786510c4d3381d60f90164b8b0a366647171bb186f05002a894cfff35ad2.png",
+        "copyOfCardId": [
+            76321,
+            1014
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8731,6 +10059,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f87a8e89a076b1ee48e2f70162c790c53d4c8dcff76a22d676e8087f4fa7e14.png",
         "keywordIds": [
             11
+        ],
+        "copyOfCardId": [
+            51,
+            69515
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -8756,6 +10088,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d837ff58003272aee7922a7894d03c2eba430f1cef385035b68bf5ee7fec8892.png",
         "keywordIds": [
             11
+        ],
+        "copyOfCardId": [
+            567
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -8783,6 +10118,9 @@
             8,
             11
         ],
+        "copyOfCardId": [
+            178
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8805,6 +10143,10 @@
         "imageGold": "",
         "flavorText": "If you hit an Eredar Lord with enough Wisps, it will explode. But why?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2ed1727ca051d675a582efff7c2635cfd8eae79360843de2d6325669f2f17ad.png",
+        "copyOfCardId": [
+            179,
+            120970
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8829,6 +10171,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7fa07821e295e2faede24b76bfde77c95cfbf341f420c7737d2d52f4a45ceab.png",
         "keywordIds": [
             4
+        ],
+        "copyOfCardId": [
+            68198,
+            289
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -8855,6 +10201,10 @@
         "keywordIds": [
             6
         ],
+        "copyOfCardId": [
+            69654,
+            994
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8875,6 +10225,10 @@
         "imageGold": "",
         "flavorText": "The talk around the Ratchet Inn is that this card is too good and should be a Legendary.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9aa80f1187f511b4d12fd0dacb36da89b17b42c26f0b35d81149a8739c64a5ff.png",
+        "copyOfCardId": [
+            76288,
+            836
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8901,6 +10255,9 @@
         "keywordIds": [
             11
         ],
+        "copyOfCardId": [
+            641
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8923,6 +10280,10 @@
         "imageGold": "",
         "flavorText": "She can't wait to learn Power Word: Fortitude Rank 2.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2ad32b1789a6c2fd10c4becd65ea894deb8482dcb1f812e04b39c0684c1eb35f.png",
+        "copyOfCardId": [
+            69651,
+            1634
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -8947,6 +10308,10 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff67d37c3c755aadb3df7dae6b4ce87d3f7c358f061bf3c7e6cc20b73431737e.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            69660,
+            415
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -8977,6 +10342,10 @@
             70474,
             70475,
             71422
+        ],
+        "copyOfCardId": [
+            1186,
+            111465
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false

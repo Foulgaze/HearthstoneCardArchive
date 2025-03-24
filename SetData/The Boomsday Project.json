@@ -63,10 +63,10 @@
         "manaCost": 6,
         "name": "Arcane Dynamo",
         "text": "<b>Battlecry:</b> <b>Discover</b> a spell that costs (5) or more.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f46dbe0701bc8d682257612ca1ff8dd8dd39d5df0a8c32e45901c18916bee82.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8505022161ccbe3bdcd1d07a04b70b4a6ebba68adc8874a2a12245927e887b8b.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8540c2a35fd866802376228fe3f5f4721f24c32f03b3c2b16f0c6d5ba975e9d4.png",
         "flavorText": "We ran out of jars, so we started putting brains in other stuff.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6621c818e1fa1171b423d2d350bddb1197db7cf7d3f21b9eb4a54d0ac5c18034.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d866730be31281cbfc786b84ad189003b4e3f174b7f673c9a8e2772fff4b7429.png",
         "keywordIds": [
             8,
             21
@@ -372,6 +372,9 @@
         "keywordIds": [
             1,
             66
+        ],
+        "copyOfCardId": [
+            102219
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -894,6 +897,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            97329
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1218,7 +1224,7 @@
         "manaCost": 1,
         "name": "Floop's Glorious Gloop",
         "text": "Whenever a minion dies this turn, refresh a Mana Crystal.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d064d619bf078bc2234905d0c10fb50e636e6e40d16a164c6ee6c00e39d5c8a4.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2aa24c5148e9ae9aa95439d04c267149d8830cf77401424a9150f72eccd91f13.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9a2552be2b315a7325e4f390107fce88ad105520eec482fc787e2f0624eecdf.png",
         "flavorText": "How much gloop could Floop's Gloop gloop if Floop's Gloop could gloop gloop?",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2bf3ba5db6bd8ce36e12ab2d270f2c380f47cfe06a52e5337d3e4ac344ada91.png",
@@ -1569,6 +1575,9 @@
         "childIds": [
             358
         ],
+        "copyOfCardId": [
+            69685
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1761,6 +1770,9 @@
         "keywordIds": [
             8
         ],
+        "copyOfCardId": [
+            69731
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -1930,15 +1942,15 @@
         "cardSetId": 1127,
         "rarityId": 3,
         "artistName": "Vlad Botos",
+        "health": 2,
         "attack": 3,
         "manaCost": 3,
-        "durability": 2,
         "name": "Necrium Blade",
         "text": "<b>Deathrattle:</b> Trigger the <b>Deathrattle</b> of a random friendly minion.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/010b93f46c1e612454e13d06b2c5917ad2d418f8716bc1b9a57ec2ef3bbc1fce.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84e9bd7c3799d10080bad0073bbd7dcd4ec1696e23f24937139bdfc6dfaf96e3.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a633622f461a56e3061ee71a580242c59d4eb30a0267715e7fb84ab7bca1730f.png",
         "flavorText": "Grab death by the handle.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0c92ddb3119b8ddfa042046af30afdf07c2a6a55baa517254a0e6d34a7050f9.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d531a1eb6eb0374729c2c6f62901c06f0227e877a7980570616b715f0db6cc15.png",
         "keywordIds": [
             12
         ],
@@ -2057,11 +2069,11 @@
         "artistName": "Daren Bader",
         "manaCost": 1,
         "name": "Omega Assembly",
-        "text": "<b>Discover</b> a Mech. If you have 10 Mana Crystals, keep all 3 cards.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b37582a9434c6ed0a5264748a8665f9b7e37890d09521d252109cb96fbb8ace.png",
+        "text": "<b>Discover</b> a Mech. If you have 10 Mana Crystals, keep all 3 instead.",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41905cbc027e5340aff1288ffe8022cbfff840a91f2eff60ea242d57b07f8b89.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f04c194750265c2b9490bd5f69730a25d6a832676f851cbf65cdd094e91aaa55.png",
         "flavorText": "They told Dr. Boom he could only pick one. He disagreed.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11b1969f4e9f8c2df0c07958bd3b5292d77d2faa3dda60cd7b9748c2a36aca7a.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1147dc36aee573e8671c634cee5d3c23c9cbcd3e376503b4e973d2243bc739bc.png",
         "keywordIds": [
             21
         ],
@@ -2293,6 +2305,9 @@
             12,
             66
         ],
+        "copyOfCardId": [
+            102969
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2500,6 +2515,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3deb6941c4a7e5150302b21193c9fe9d4f0850865894511e2959988304307f59.png",
         "flavorText": "Literally starstruck.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b8ba26cfd1c34c1ee408ed7c9edf51fc420ec01956ad1f5e4ad3623b419f2fef.png",
+        "copyOfCardId": [
+            69698
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2516,10 +2534,10 @@
         "manaCost": 5,
         "name": "Shrink Ray",
         "text": "Set the Attack and Health of all minions to 1.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ff84d49e2f556a418efb93286b6fdfab5fcc66ae5b1daa7c39436b23cf81484.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2572a72b84ecec0cbc765d24505c95924001b2ad282e62d0460ff0311fb9b223.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4284db79c6858af4e0bf0816690f933a338d69a958a21c61f038674472d32248.png",
         "flavorText": "Actually works by enlarging the rest of the world.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2dd0130dc99ade6cb619495cd3e6015ea92c8831645228db9aba57e5bf12eb9c.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fd1876f85909eea4370ebd9f32d026d1b62c11f621e0006347c7ee7ef02ca0c.png",
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2546,6 +2564,9 @@
         "keywordIds": [
             53,
             66
+        ],
+        "copyOfCardId": [
+            102220
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -2679,6 +2700,9 @@
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/414c22d82e3ce1fe35138a8fe74a7e58d0024a59be9743361363eeb102985795.png",
         "flavorText": "Might take a few episodes to power up.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b72d8c1b4a3e081f1cfc427034a8da103eae2f3d20a4c62dc5048c1f7d0a1e4.png",
+        "copyOfCardId": [
+            102212
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2739,6 +2763,7 @@
         "slug": "47982-stargazer-luna",
         "classId": 4,
         "multiClassIds": [],
+        "minionTypeId": 2,
         "cardTypeId": 4,
         "cardSetId": 1127,
         "rarityId": 5,
@@ -2748,10 +2773,13 @@
         "manaCost": 3,
         "name": "Stargazer Luna",
         "text": "After you play the right-most card in your hand, draw a card.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd6c7dd68559e5ca9a8f4b6d43d80ea638a91c161e5edc0b485e015f0ad29a06.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0970e61f739ef0eb39de7c16ae98bdeeef88d3df4ff29f9f66e936a2262e1de7.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df5beef2ded4860ef99e5785c7f0b90e72ed9e505621d0228c2c95be81dee7c9.png",
         "flavorText": "She's Dr. Boom's right-hand mage.",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9bbb55e3c41706c8ce2b98be966071b86e939e72744b124fbf88b78d507a26e7.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b910501391d248b1698c77e595bad79a6104ba5301d45de2847737c96b95eba.png",
+        "copyOfCardId": [
+            102195
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -2850,12 +2878,12 @@
         "cardSetId": 1127,
         "rarityId": 4,
         "artistName": "Jason Kang",
+        "health": 3,
         "attack": 1,
         "manaCost": 5,
-        "durability": 3,
         "name": "Supercollider",
         "text": "After you attack a minion, force it to attack one of its neighbors.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cdeb12e9ebc6f45531b8f9c7b72423e0f369d099d2edc315e2736f556ff8f8bc.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e825eeae3a3ccd3c0959f3a22c3ec352d12b49724e723a0deba5d50402d390d3.png",
         "imageGold": "",
         "flavorText": "Boom's Second Law of Motion: HIT IT VERY HARD!",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/44191cfb205ee296ee251ea415348c50eeaf3d2e88b406d61af206addabd826f.png",
@@ -2949,12 +2977,16 @@
         "manaCost": 1,
         "name": "The Soularium",
         "text": "Draw 3 cards. They are <b>Temporary</b>.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05052f2e9282fe490f250ce934d261b420f7f2fa50c9052f9daab514ab9d830f.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09351d8d590967df320aa82ec544a28550c329fd93d905a12562e0b716d20623.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/862ab445bd1cc3241238db98023e4bc0fde16f9be7006969148a7be7e52b67c0.png",
         "flavorText": "Worst field trip ever.",
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b04e96e06d07701a5cd9e95c725454ed2fd56de4513423c97167d1d57a292ba5.png",
         "keywordIds": [
             320
+        ],
+        "copyOfCardId": [
+            75962,
+            116719
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3023,10 +3055,10 @@
         "manaCost": 0,
         "name": "Topsy Turvy",
         "text": "Swap a minion's Attack and Health.",
-        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/522e5ace504a78c8db54dcdd3e7d1ff1e2c8f9ad8aaac1d96c92851e99026052.png",
+        "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41fbef6d16eacab516edce3e2f13e27da5e38b82fc9e8e3ab6323dfb1aeb1ca7.png",
         "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cf6ce889894652947ae9fd14ff8b384876237c80dd87ce54feec2ccb035ac19.png",
         "flavorText": "\"Help! I've fallen and I can't get down!\"",
-        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fa818d74e15e45577b90daac82433e2ff5ff6ba5d9536f15b17c97fd860082e.png",
+        "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/252f6a392c8a77e3768952fb42bbdbe5e0e8e038436ffee268477846e138db07.png",
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3051,6 +3083,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da43aae771cc0dea1089abd15ae33b3e4f72b33100a992411f83da4605dfba76.png",
         "keywordIds": [
             8
+        ],
+        "copyOfCardId": [
+            69711
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3226,6 +3261,9 @@
             14,
             53
         ],
+        "copyOfCardId": [
+            106323
+        ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
     },
@@ -3251,6 +3289,9 @@
         "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c516e3b94ff941e30e7c80fb3439cd6cf79ed0d78e79e1546c2b3425f9277c5.png",
         "keywordIds": [
             66
+        ],
+        "copyOfCardId": [
+            102218
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
@@ -3426,6 +3467,9 @@
             38,
             53,
             66
+        ],
+        "copyOfCardId": [
+            97112
         ],
         "isZilliaxFunctionalModule": false,
         "isZilliaxCosmeticModule": false
